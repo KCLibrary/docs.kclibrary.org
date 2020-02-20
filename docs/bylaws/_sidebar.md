@@ -1,0 +1,7 @@
+* [Article I](bylaws/KCPL_Bylaws_001.md)
+* [Article II](bylaws/KCPL_Bylaws_002.md)
+* [Article III](bylaws/KCPL_Bylaws_003.md)
+* [Article IV](bylaws/KCPL_Bylaws_004.md)
+* [Article V](bylaws/KCPL_Bylaws_005.md)
+* [Article VI](bylaws/KCPL_Bylaws_006.md)
+* [Article VII](bylaws/KCPL_Bylaws_007.md)

@@ -1,0 +1,9 @@
+---
+id: privacy006
+title: Internet Access by Minors
+sidebar_label: Internet Access by Minors
+---
+
+The Library presents many educational and recreational opportunities for minors including access to the Internet. Just as Library staff select materials for children and young adults, they also select Web sites designed for these age groups.
+
+The Internet provides access to a wide variety of viewpoints on topics of interest. As with other materials, parents may find that some Internet sites may not be appropriate for their children. The Library hopes that parents will take an active role in their children's learning and recreation by helping them select materials and Web sites that are appropriate to their age and interests.

@@ -1,0 +1,202 @@
+---
+id: 107
+title: 107 Customer Courtesy and Conduct
+sidebar_label: 107 Customer Courtesy and Conduct
+---
+
+The Kansas City Public Library is a doorway to knowledge for all people in our community. In support of this mission, the Board of Trustees is committed to creating a safe and inviting atmosphere. The Chief Executive shall develop procedures governing expectations of behavior of staff and patrons.
+
+Board Policy 107 (Adopted 09-03/Rev. 03-09)
+
+## 107.01. Staff Commitment to Customer Service
+
+The Library exists to provide the best Library service to the taxpayers who support the system and to the patrons who use the Library and its collections and services as they are intended to be used. All Library staff are responsible for providing the best possible customer service in an open and inviting atmosphere. Patrons shall be encouraged to use Library facilities and materials; and staff shall be available to assist customers in finding, using and borrowing materials in a courteous and helpful manner.
+
+Administrative Procedure 107.01 (Adopted 4-84/Rev. 11-89, Rev. 3-09)
+
+## 107.02. Employee Rights
+
+Staff have the right to request any person in violation of Library policies or in violation of any state statute or local ordinance to leave Library property immediately. The violation of any federal or state statute or local ordinance will also be regarded as a violation of Library policies. Except in cases of protecting other staff or customers from harm, at no time should public services staff members put themselves in harm's way to such an extent that bodily injury to themselves or other people will result.
+
+Administrative Procedure 107.01.(Adopted 3-09)
+
+## 107.03. Public Service Desk Problems/Complaints
+
+All Library customers have a right to question Library policies and their personal circulation records, as long as this is done in a reasonable manner. Staff members who deal with these customers should carefully and courteously explain policies and take all necessary steps to insure that customer circulation records are accurate. If customers still have questions or objections, they should be referred to the staff member's supervisor. In the interest of customer service the supervisor should attempt to resolve problems immediately.
+
+Administrative Procedure 107.11 (Adopted 4-84/Rev.11-89, Rev. 3-09)
+
+## 107.04. Children's Use of the Library
+
+Service to children is a major focus of the Library's mission. As long as children act responsibly, they may use any of the Library's resources at any time it is open, consistent with other guidelines regarding Library resources. Parents and caregivers are responsible for the behavior of their children; teachers are responsible for the conduct of their students while they are in the Library fora class visit or tour. Children are expected to follow all the general behavior guidelines outlined in 107.10.
+
+Administrative Procedure 107.03 (Adopted 4-84/Rev.1-03, Rev. 3-09)
+
+## 107.05. Unattended/Unsupervised Children
+
+While the Library is not responsible for caring for, or in any way obligated to take responsibility for, children who are left unattended in the Library or who come to the Library without an adult or other responsible person, under certain circumstances it may be prudent for staff to assist children in getting a ride home or in contacting the police. For the purpose of this procedure, the terms "child" or "children" refer to all persons 16 years of age and younger.
+
+- Unattended children exhibiting behavior in violation of Library policy or the law may be asked to leave the Library.
+- Children being asked to leave Library property or remaining on Library property at closing time may be asked if they need assistance getting home prior to their being allowed to leave.
+- Children of any age with mental, physical or emotional problems who require constant supervision must be accompanied by a parent or caregiver at all times.
+- At no time or under any circumstances is a child to be taken from Library property by Library staff.
+- Police or other appropriate authorities may be contacted when children are left unattended in the library at closing time, if parents or caregivers cannot be reached.
+- Unattended children waiting after closing for the arrival of a parent, caregiver, the police, or other appropriate authorities should be accompanied by at least two staff members. An Incident Report must be filed.
+- If unattended children leave with police or other authorities after the library closes, staff should place a note on the door of the Library informing the parents or caregivers where they may find their child/children.
+
+Administrative Procedure 107.04 (Adopted 7-02/Rev.3-09)
+
+## 107.06. Inappropriate Use of Children's Area
+
+The Library has designated specific areas for the benefit and use of children and their accompanying adult supervisors. If an adult in the children's area is not with a child or actively using children's library materials and/or resources and is observed by staff to be spending an unnecessary and unusual amount of time in the children's area, the person will be asked to use other areas of the library.
+
+Administrative Procedure 107.05 (Adopted 7-02/Rev.3-09)
+
+## 107.07. Emergency Situations
+
+An emergency situation is defined as any situation in which a customer's or staff member's actions present an imminent danger to the life or safety of himself or herself or others. Such incidents include crimes of violence or the threat of or attempt to commit such crimes. Any staff member who observes or receives notice of such behavior should call the police immediately and then notify the supervisor. An act of violence will result in an indefinite suspension of privileges. Any circumstances which fit the definition of "emergency situations" should be described in an Incident Report.
+
+Administrative Procedure 107.04 (Adopted 4-84/Rev.3-09)
+
+## 107.08. Security Officers and Other Library Staff
+
+It is the primary responsibility of security officers at the Library locations where they are assigned to provide protection and security for the staff and customers of the Library and to protect Library materials against theft and vandalism. Security Officers are authorized to use reasonable force necessary up to and including the use of force to:
+
+- Prevent injury to staff and customers,
+- Prevent theft and attempted theft of Library property,
+- Remove from Library property customers refusing to comply with the Library's Customer Behavior Expectations.
+
+All Library staff are responsible for the safety of and protection of all Library customers and Library property. In responding to negative customer behavior, see 107.09, staff may, as appropriate, ask customers to leave the Library for the day or call authorities as necessary.
+
+Administrative Procedure 107.12 (Adopted 4-84/Rev.3-09)
+
+## 107.09. Detention of Persons Suspected of Theft, Vandalism, or Other Illegal Acts
+
+All Library materials must be properly checked out in accordance with established Library policy. Intentional concealment of Library materials, the removal of or the attempt to remove anti-theft devices from Library materials, or any other circumventions of check out or security procedures are serious violations of Library policies and the law. Any Library staff who has or receives knowledge that a person has stolen or defaced or has attempted to steal or deface Library materials should immediately report the information to Security or a supervisor. At that time, a decision should be made whether to detain the person for the purpose of determining whether there is reasonable cause to believe that the person has committed an illegal act and the police should be called.
+
+Detention of such persons should be conducted in a reasonable manner and for a reasonable period of time sufficient to determine the existence of reasonable cause. Persons so detained should be informed of the reasons for the detention and an attempt should be made to question the person concerning the incident.
+
+In the case of suspected theft, a request may be made that any bags, briefcases, handbags or other similar containers be emptied in a search for stolen Library materials.
+
+Physical force should be used in detaining persons only as a last resort and then only in cases of protecting customers and/or staff from harm.
+
+If the person is determined to be impaired because of alcohol or drug use and poses a threat to himself or herself, he or she may be detained until medical services can be notified and are on the scene.
+
+If it is determined that reasonable cause exists to believe the person has committed an illegal act, the detained person should be so informed and the police should be contacted immediately. While waiting for police to arrive, the detained person may be permitted to make a phone call, if appropriate. Persons committing such acts face suspension of Library privileges and prosecution.
+
+If it is determined that no reasonable cause exists to believe the person has committed an illegal act, he or she will be immediately released. A juvenile may be released to his or her parent or guardian.
+
+Administrative Procedure 107.06 (Adopted 4-84, Rev.3-09)
+
+## 107.10. General Expectations of Customer Behavior
+
+<strong>A. Expectations of Behavior</strong>
+
+Patrons shall be engaged in normal activities associated with the use of a public library while in the building. Patrons not engaged in reading, studying, using Library materials, Library services or attending Library programs may be asked to leave the building. In keeping with the Library's commitment to customer service and the provision of a safe and inviting atmosphere, the following guidelines have been developed to define those activities that are prohibited.
+
+<strong>PROHIBITIONS</strong>
+
+1. Engaging in any activity in violation of Federal, State, local, or other applicable law, or Library policy.
+2. Entering or remaining in a Library facility before or after posted hours of service.
+3. Theft, or attempted theft, or destruction or attempted destruction of Library materials or property or the personal property of Library customers or staff. (See also 107.09, 107.11 and107.12 for procedures on Detention of Persons, Theft or Attempted Theft, and Vandalism and Other Illegal Acts.)
+4. Loud talking, laughter, conversation, or disruptive use of sound-producing devices, including cell phones, CD players, walkie-talkies, PDAs, and laptop computers.
+5. Use of Library facilities for other than their intended purpose, including use of the facilities for loitering, sleeping, changing clothes, bathing, shampooing, washing clothes or utensils, or preparing meals or food. (See also 107.14,InappropriateBehavior on Library Property.) Changing clothes in Library bathrooms and applying makeup is permitted in preparation for a Library-approved program or event.)
+6. Smoking or use of other tobacco products on Library property.
+7. Entry into the Library without a shirt or other covering of the upper body or without shoes or other footwear.
+8. The uninvited introduction of any animals, insects and other living organisms except service animals, such as seeing-eye dogs or other guide-trained animals.
+9. Entry into any staff work area not open to the public.
+10. Skateboarding, roller blading, bicycling or transportation on any other human-powered wheeled conveyance on Library property, to include parking lots and sidewalks. The sole exception is transportation by wheelchair or bicycle to and from designated parking areas.
+11. Interference with use of the Library by other customers, or with Library staff's performance of their duties. Such interference includes behaviors that, by sight, sound or bodily gestures, are intrusive to other customers' concentration and quiet enjoyment of facilities and materials. (See also 107.12, Disruptive Behavior.)
+12. Entry or attempted entry into the Library under such conditions of bodily hygiene and/or odor (including perfumes) as impairs the clean and sanitary environment intended for customers' enjoyment of the facilities including the neglect of bodily hygiene so that it constitutes a nuisance to other customers.
+13. Entry into the Library with large framed backpacks, bedrolls, blanket rolls, or more than three grocery-sized paper or plastic bags or parcels. Personal belongings must be kept with customers at all times. Personal belongings must not take up excess space or impede access to services and materials. Unattended personal belongings will be collected, and an effort will be made to identify and contact the owner. If not claimed within a reasonable amount of time, items will be discarded.
+14. Gambling in any form (e.g., throwing dice, pitching pennies, playing poker, and other games of chance) on Library premises.
+15. Offensive gestures, cursing, obscene or abusive language including hate speech, racial slurs or profanities. (See also 107.15, Verbal Abuse.)
+16. Public display of explicit sexual material or child pornography as outlined in Missouri State Statute, Chapter 573, Pornography and Related Offenses, Section 573.060. (See also 107.17, Display of Explicit Sexual Material or Child Pornography.)
+17. Sexual misconduct, including but not limited to acts of exposure, public masturbation, sexual harassment, offensive touching, and sexual solicitation. (See also 107.18, Sexual Misconduct.)
+18. Soliciting on Library property. (See also 107.16, Solicitation.)
+19. Stalking other customers or Library staff as defined in The Municipal Code of Kansas City, Sec, 50-9. (See also 107.19, Stalking.)
+20. Using or bringing controlled substances or alcohol onto Library property or otherwise exhibiting signs and symptoms of being under the influence of alcohol or controlled substances.
+21. Possession of knives, firearms or other weapons, unless authorized by state law.
+22. Physical altercations including assault or violent acts. (See also 107.13, Disruptive Behavior and 107.07, Emergency Situations.)
+23. Leaving children unattended.(See 107.04 and 107.05 on children's use of the Library.)
+24. Use of children's area for other than its intended purpose.(See 107.06, Inappropriate Use of the Children's Area.)
+25. Refusal to remove, upon entering a Library facility, any article of clothing (such as dark sunglasses, hat, hood, or scarf) which covers the face and conceals the identity, unless such article of clothing is worn for religious purposes.
+
+<strong>B. Enforcement of Expectations of Behavior</strong>
+
+The Library Board and Library staff have the right and responsibility to protect the safety of all Library customers, staff, property and materials and to maintain order on Library property. Occasionally it will be necessary for a guard or other staff member to deal with customers who create a disturbance or violate the rights of others. In such situations, Library personnel should be aware of applicable Library policies and procedures. Violation may result in an individual not being allowed admittance to the Library or in expulsion, prosecution and suspension of privileges on a temporary or indefinite basis. In all cases of theft, vandalism, disruptive behavior, illegal activities, or injury, an Incident Report shall be filed as soon after the incident as possible, but in no case more than one working day later. The Chief Executive Director or his designee, acting on behalf of the Library Board, may suspend the Library privileges of any person who willfully violates regulations. Suspension periods may vary with the severity and repetition of the offense, with up to but not limited to one-year suspension for acts or threats of violence to staff or customers, in addition to legal remedies and prosecution. Severe violations involving the use of weapons or violence may lead to the indefinite suspension of Library privileges.
+
+Administrative Procedure 107.09 (Adopted 4-84, Rev.7-02, Rev. 3-09, Rev. 6-10)
+
+## 107.11. Theft or Attempted Theft
+
+All Library materials must be properly checked out in accordance with established Library policy. Intentional concealment of any Library materials or any attempt to remove materials intentionally by circumventing established checkout or security procedures is a violation of Library policy. Any staff member or guard who observes or receives notice of such behavior should call the police immediately and notify the person in charge of the facility. Customers who commit theft or attempted theft will face Library suspension and prosecution.
+
+Administrative Procedure 107.05 (Adopted 4-84/Rev.5-00, Rev. 3.09)
+
+## 107.12. Vandalism and Other Illegal Acts
+
+When a staff member observes or receives a report of a person attempting to maliciously destroy or deface Library materials or property, the incident should be reported to a supervisor immediately. If it is determined that the customer has vandalized property, the incident should be reported to the guard or supervisor and the police should be called. An incident report should be filed. When a staff member observes or receives a report on a customer committing an illegal act (e.g. indecent exposure, using or selling drugs, drinking), the staff member should immediately report the incident to a guard or supervisor. If it is determined that the customer has violated the law, the police should be called and an Incident Report filed. The customer may face suspension of Library privileges on an indefinite or temporary basis and prosecution.
+
+Administrative Procedure 107.07 (Adopted 4-84/Rev.5-00, Rev. 3-09)
+
+## 107.13. Disruptive Behavior
+
+When a customer willfully and intentionally disturbs other customers, a staff member should approach the customer and ask him or her to leave the library. If the customer refuses to leave the Library, the security guard should be called if not already present. If at any time the customer should become threatening or dangerous, the police should be called immediately and measures should be taken to protect customers and Library staff. An Incident Report should be filed. The Library will request the customer to leave at first incident. Library privileges may be suspended incrementally ranging from one week for minor incidents, to more significant periods for repeat or more serious offenses, up to an indefinite suspension.
+
+Administrative Procedure 107.08 (Adopted 4-84/Rev.5-00, Rev. 3-09)
+
+## 107.14. Inappropriate Behavior on Library Property
+
+When a customer is using the Library or Library property in violation of Library policy or the law a staff member should approach the customer and inform him or her in a courteous manner to use the Library for its intended purpose or leave. If the customer refuses to leave, the same procedure as for disruptive behavior should be used. Customers may face suspension of Library privileges.
+
+Behavior defined by The Municipal Code of Kansas City, Sec.50-161, is also prohibited, and is defined as loitering, loafing, wandering, standing or remaining idle "either alone or in concert with others in a public place in such manner so as to:
+
+1. Obstruct any public street, public highway or public sidewalk or any other public place or building by hindering or impeding the free and uninterrupted passage of vehicles, traffic or pedestrians.
+   2, Commit in or upon any public street, public highway, public sidewalk or any other public place or building any act or thing which is an obstruction or interference to the free and uninterrupted use of property or with any business lawfully conducted by anyone in or upon or facing or fronting on any such public street, public highway, public sidewalk or any other public place or building, all of which prevents the free and uninterrupted ingress, egress and regress, therein, thereon and thereto.
+
+Administrative Procedure 107.13 (Adopted 4-84/Rev.7-02, Rev. 3-09)
+
+## 107.15. Verbal Abuse
+
+If a customer speaks to a staff member or another customer in an abusive or obscene manner, the staff member should notify the guard and/or supervisor. If the customer continues to be abusive or obscene, the same procedures for disruptive behavior should be followed. Customers may face suspension of Library privileges for verbal abuse.
+
+Administrative Procedure 107.14 (Adopted 4-84/Rev.7-02, Rev. 3.09)
+
+## 107.16. Solicitation
+
+No solicitation of funds for individuals, groups or organizations, or sale of candies, cookies, or items for any causes, or panhandling, is permitted in the Library or on Library property. The only exceptions are those activities that are authorized by or on behalf of the Library, or on behalf of its affiliate Friends of the Library organization.
+
+Administrative Procedure 107.15 (Adopted 4-84/Rev.11-89, Rev. 3-09)
+
+## 107.17. Display of Explicit Sexual Material or Child Pornogrphy, and Material that is Pornographic for Minors
+
+Public display of explicit sexual material is prohibited. Staff should take prompt action to instruct customers to remove such a display.
+
+Explicit sexual material as defined by Missouri Revised Statutes, Chapter 573, Sec.573.010 is any pictorial or three dimensional material depicting human masturbation, deviate sexual intercourse, sexual intercourse, direct physical stimulation or unclothed genitals, sadomasochistic abuse, or emphasizing the depiction of post-pubertal human genitals; provided, however, that works of art or of anthropological significance shall not be deemed to be within the foregoing definition.
+
+Child pornography as defined by the same statute is any obscene material or performance depicting sexual conduct, sexual contact, or a sexual performance...which has as one of its participants or portrays as an observer of such conduct, contact, or performance a child under the age of eighteen.
+
+Minors are specifically restricted from accessing any Internet material that is pornographic for minors (182.287 RSMo) as defined by Missouri state statutes (573.010 RSMo).
+
+Administrative Procedure 107.16 (Adopted 7-02/Rev.1-03, Rev. 3-09)
+
+## 107.18. Sexual Misconduct
+
+When a customer is observed engaging in sexual misconduct, acts of exposure, public masturbation, sexual harassment, offensive touching, sexual solicitation, staff should immediately contact Security or a supervisor. If a staff member or another customer can positively identify the offender and describe the activity observed, staff should first contact the police and then Security.
+
+As outlined by Missouri Revised Statutes, Chapter 566, Sec. 566.083, a person commits the crime of sexual misconduct involving a child if the person: (1)Knowingly exposes the person's genitals to a child less than fourteen years of age in a manner that would cause a reasonable adult to believe that the conduct is likely to cause affront or alarm to a child less than fourteen years of age;(2) Knowingly exposes the person's genitals to a child less than fourteen years of age for the purpose of arousing or gratifying the sexual desire of any person, including the child; or (3) Coerces a child less than fourteen years of age to expose the child's genitals for the purpose of arousing or gratifying the sexual desire of any person, including the child.
+
+Administrative Procedure 107.17 (Adopted 7-02/Rev.3-09)
+
+## 107.19. Stalking
+
+Stalking is prohibited by The Municipal Code of Kansas City, Sec. 50-9 and is defined as purposely and repeatedly harassing or following with the intent of harassing another person.
+
+Administrative Procedure 107.18 (Adopted 7-02/Rev.3-09)
+
+## 107.20. Review of Suspension
+
+In the event that a patron violates Library policy or applicable law which results in the suspension of Library privileges on a temporary or indefinite basis, the patron whose privileges have been denied may have the decision reviewed by the Chief Executive of the Library, whose decision shall be final and non-appealable, upon written request.
+
+Administrative Procedure 107.20(Adopted 3-09)
