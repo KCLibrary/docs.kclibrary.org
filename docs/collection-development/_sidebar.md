@@ -1,1 +1,1 @@
-* [Development Plan](collection-development/KCPL_ColDevel.md)
+* [Development Plan](collection-development/ColDev.md)
