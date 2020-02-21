@@ -15,8 +15,10 @@
   <div id="app">Please wait...</div>
   <script>
     window.$docsify = {
-      name: 'KC Library',
+      name: window.location.hash.replace(/\/|#/g,'').replace('-', " "),
+      nameLink: window.location.origin + window.location.hash,
       loadSidebar: true,
+      onlyCover: true,
       loadNavbar: true,
       coverpage: ['/'],
       subMaxLevel: 3,
