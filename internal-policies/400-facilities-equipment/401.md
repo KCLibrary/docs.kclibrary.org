@@ -1,0 +1,17 @@
+# 401 Library Goal for Facilities and Equipment
+
+A goal of the Kansas City Public Library is to ensure that staff members and customers of the Library shall have adequate facilities and equipment made available to them to support a program of library service designed to successfully meet their needs.
+
+---
+
+Board Policy 401 (Adopted 1-89)
+
+---
+
+## 401.01. Evaluating Existing Buildings
+
+All existing library facilities will be evaluated at least each three years as to space, acoustics, equipment, appearance, and accessibility by individuals with disabilities in terms of adequacy for supporting desired library use, for economic efficiency, and for compliance with ADA Title II Accessibility Guidelines. Established need for major rehabilitation and remodeling will be added annually to the Library Development Projection.
+
+---
+
+Administrative Procedure 401.01 (Adopted 4-90/Rev. 12-94)
