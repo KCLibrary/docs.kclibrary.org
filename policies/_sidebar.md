@@ -1,0 +1,8 @@
+* [000 Internal Policies](/policies/000-internal-policies/README.md)
+* [100 Public Services](/policies/100-public-services/README.md)
+* [200 Collection Development](/policies/200-collection-development/README.md)
+* [300 Personnel and Staff](/policies/300-personnel-staff/README.md)
+* [400 Facilities and Equipment](/policies/400-facilities-equipment/README.md)
+* [500 Administration and Support](/policies/500-administration-support/README.md)
+* [600 Community Relations](/policies/600-community-relations/README.md)
+* [700 Interagency Cooperation](/policies/700-interagency-cooperation/README.md)
