@@ -1,5 +1,4 @@
-* [Return to All Policies](/policies/)
-* [201 Library Goal for Collection Development](/policies/200-collection-development/201.md)
+* [201 Library Goal for Collection Development](/policies/)
 * [202 Purpose of the Collection Development/Selection Policy](/policies/200-collection-development/202.md)
 * [203 Definition of Materials Selection](/policies/200-collection-development/203.md)
 * [204 Responsibility for Selection](/policies/200-collection-development/204.md)
@@ -10,3 +9,5 @@
 * [209 Request for Reconsideration of Library Materials](/policies/200-collection-development/209.md)
 * [210 Level of Expenditures for Materials](/policies/200-collection-development/210.md)
 * [211 Gift, Grant of Endowment Earnings as Enhancement Funds for Materials](/policies/200-collection-development/211.md)
+---
+* [Return to All Policies](/policies/)
