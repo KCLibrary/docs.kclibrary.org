@@ -16,4 +16,4 @@
 * [423](/policies/400-facilities-equipment/423.md)
 * [424](/policies/400-facilities-equipment/424.md)
 ---
-* [Return to All Policies](/policies/#)
+* [Return to All Policies](/policies/)
