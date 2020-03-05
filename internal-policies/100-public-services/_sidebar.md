@@ -1,3 +1,4 @@
+* [Return to All Policies](/internal-policies/)
 * [101 Mission Statement](/internal-policies/100-public-services/101.md)
 * [102 Roles of the Library System](/internal-policies/100-public-services/102.md)
 * [103 Library Goal for Public Service](/internal-policies/100-public-services/103.md)
