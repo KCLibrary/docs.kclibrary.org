@@ -1,5 +1,4 @@
-* [Return to All Policies](/policies/)
-* [001 General Policy Statement and Definition](/policies/000-internal-policies/001.md)
+* [001 General Policy Statement and Definition](/policies/)
 * [002 Policy Proposals and Action](/policies/000-internal-policies/002.md)
 * [003 Board Acts as a Body](/policies/000-internal-policies/003.md)
 * [004 Code of Ethics](/policies/000-internal-policies/004.md)
@@ -18,3 +17,5 @@
 * [032 Board Travel Expenses - Payment](/policies/000-internal-policies/032.md)
 * [033 Business Related Gratuities](/policies/000-internal-policies/033.md)
 * [034 Policy on Suspected Fraud, Dishonesty and Whistle-Blower Protection](/policies/000-internal-policies/034.md)
+---
+* [Return to All Policies](/policies/)
