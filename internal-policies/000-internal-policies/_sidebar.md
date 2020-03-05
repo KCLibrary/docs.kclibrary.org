@@ -1,3 +1,4 @@
+* [Return to All Policies](/internal-policies/)
 * [001 General Policy Statement and Definition](/internal-policies/000-internal-policies/001.md)
 * [002 Policy Proposals and Action](/internal-policies/000-internal-policies/002.md)
 * [003 Board Acts as a Body](/internal-policies/000-internal-policies/003.md)
