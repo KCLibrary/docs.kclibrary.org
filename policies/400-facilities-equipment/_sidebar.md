@@ -1,17 +1,19 @@
-* [401]
-* [402]
-* [405]
-* [410]
-* [411]
-* [412]
-* [413]
-* [414]
-* [415]
-* [416]
-* [418]
-* [419]
-* [420]
-* [421]
-* [422]
-* [423]
-* [424]
+* [401 Library Goal for Facilities and Equipment](/policies/400-facilities-equipment/401.md)
+* [402 Community Use of Library Facilities](/policies/400-facilities-equipment/402.md)
+* [405 General Policy Statement - Operation and Maintenance](/policies/400-facilities-equipment/405.md)
+* [410](/policies/400-facilities-equipment/410.md)
+* [411](/policies/400-facilities-equipment/411.md)
+* [412](/policies/400-facilities-equipment/412.md)
+* [413](/policies/400-facilities-equipment/413.md)
+* [414](/policies/400-facilities-equipment/414.md)
+* [415](/policies/400-facilities-equipment/415.md)
+* [416](/policies/400-facilities-equipment/416.md)
+* [418](/policies/400-facilities-equipment/418.md)
+* [419](/policies/400-facilities-equipment/419.md)
+* [420](/policies/400-facilities-equipment/420.md)
+* [421](/policies/400-facilities-equipment/421.md)
+* [422](/policies/400-facilities-equipment/422.md)
+* [423](/policies/400-facilities-equipment/423.md)
+* [424](/policies/400-facilities-equipment/424.md)
+---
+* [Return to All Policies](/policies/)
