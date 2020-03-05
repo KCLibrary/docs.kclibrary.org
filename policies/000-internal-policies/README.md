@@ -1,1 +1,23 @@
-The policymaking, or legislative function, of the Library District is specifically rested in the Board of Trustees of the Library District by the laws of the State of Missouri.
+# Internal Policies
+
+* [001 General Policy Statement and Definition](/policies/000-internal-policies/001.md)
+* [002 Policy Proposals and Action](/policies/000-internal-policies/002.md)
+* [003 Board Acts as a Body](/policies/000-internal-policies/003.md)
+* [004 Code of Ethics](/policies/000-internal-policies/004.md)
+* [005 Board to Set Goals and Evaluate Results](/policies/000-internal-policies/005.md)
+* [010 Meetings of the Board-Open/Closed](/policies/000-internal-policies/010.md)
+* [011 Announcing Meetings of the Board and Committees](/policies/000-internal-policies/011.md)
+* [012 Agenda Preparation and Advanced Distribution](/policies/000-internal-policies/012.md)
+* [013 Action Limited to Official Board Meetings](/policies/000-internal-policies/013.md)
+* [014 Public Hearings and Communications](/policies/000-internal-policies/014.md)
+* [015 Access to Public Records](/policies/000-internal-policies/015.md)
+* [020 Board/Administration Division of Labor](/policies/000-internal-policies/020.md)
+* [021 Board Member Request for Information](/policies/000-internal-policies/021.md)
+* [022 Legal Counsel](/policies/000-internal-policies/022.md)
+* [030 Board Membership Library Associations](/policies/000-internal-policies/030.md)
+* [031 Travel by Members of the Board](/policies/000-internal-policies/031.md)
+* [032 Board Travel Expenses - Payment](/policies/000-internal-policies/032.md)
+* [033 Business Related Gratuities](/policies/000-internal-policies/033.md)
+* [034 Policy on Suspected Fraud, Dishonesty and Whistle-Blower Protection](/policies/000-internal-policies/034.md)
+---
+* [Return to All Policies](/policies/)
