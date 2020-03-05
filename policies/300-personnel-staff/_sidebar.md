@@ -1,4 +1,3 @@
-* [Return to All Policies](/policies/)
 * [301 General Employement Policy](/policies/300-personnel-staff/301.md)
 * [302 Nepotism](/policies/300-personnel-staff/302.md)
 * [303 Authorization to Employ and Discharge Staff](/policies/300-personnel-staff/303.md)
@@ -14,3 +13,5 @@
 * [315 Personnel Files](/policies/300-personnel-staff/315.md)
 * [320 Resignation](/policies/300-personnel-staff/320.md)
 * [321 Grievances and/or Complaints](/policies/300-personnel-staff/321.md)
+---
+* [Return to All Policies](/policies/)
