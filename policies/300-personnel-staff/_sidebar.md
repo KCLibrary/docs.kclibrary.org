@@ -14,4 +14,4 @@
 * [320 Resignation](/policies/300-personnel-staff/320.md)
 * [321 Grievances and/or Complaints](/policies/300-personnel-staff/321.md)
 ---
-* [Return to All Policies](/policies/)
+* [Return to All Policies](https://kcpl.netlify.com/#/policies/)
