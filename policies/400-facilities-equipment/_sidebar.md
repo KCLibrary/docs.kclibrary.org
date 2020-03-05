@@ -1,4 +1,4 @@
-* [401 Library Goal for Facilities and Equipment](/policies/400-facilities-equipment/401.md)
+* [401 Library Goal for Facilities and Equipment](/policies/)
 * [402 Community Use of Library Facilities](/policies/400-facilities-equipment/402.md)
 * [405 General Policy Statement - Operation and Maintenance](/policies/400-facilities-equipment/405.md)
 * [410](/policies/400-facilities-equipment/410.md)
@@ -16,4 +16,4 @@
 * [423](/policies/400-facilities-equipment/423.md)
 * [424](/policies/400-facilities-equipment/424.md)
 ---
-* [Return to All Policies](/policies/)
+* [Return to All Policies](/#/policies/)
