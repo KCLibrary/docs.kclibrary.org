@@ -1,4 +1,4 @@
-* [001 General Policy Statement and Definition](/policies/)
+* [001 General Policy Statement and Definition](/policies/000-internal-policies/001.md)
 * [002 Policy Proposals and Action](/policies/000-internal-policies/002.md)
 * [003 Board Acts as a Body](/policies/000-internal-policies/003.md)
 * [004 Code of Ethics](/policies/000-internal-policies/004.md)
