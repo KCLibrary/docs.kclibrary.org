@@ -1,5 +1,5 @@
 * [000 Internal Policies](/internal-policies/000-internal-policies/)
-** [001](/internal-policies/000-internal-policies/001.md/)
+  * [001](/internal-policies/000-internal-policies/001.md/)
 * [100 Public Services](/internal-policies/100-public-services/)
 * [200 Collection Development](/internal-policies/200-collection-development/)
 * [300 Personnel and Staff](/internal-policies/300-personnel-staff/)
