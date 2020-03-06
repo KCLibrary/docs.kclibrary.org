@@ -9,4 +9,4 @@
 * [107 Customer Courtesy and Conduct](/policies/100-public-services/107.md)
 * [108 Acceptable Use of Electronic Information Systems](/policies/100-public-services/108.md)
 ---
-* [Return to All Policies](/policies/)
+[Return to All Policies](/policies/)
