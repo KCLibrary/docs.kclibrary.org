@@ -6,6 +6,6 @@
 [Bylaws](/bylaws/)
 [Collection Development](/collection-development/)
 [Community Reference](/community-reference/)
-[Internal Policies](/policies/)
+[Policies](/policies/)
 [Privacy and Information Access](/privacy-and-information-access/)
 [Public Services](/public-services/)
