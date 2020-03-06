@@ -1,6 +1,21 @@
 # Facilities & Equipment
-
-
+* [401 Library Goal for Facilities and Equipment](/policies/400-facilities-equipment/401.md)
+* [402 Community Use of Library Facilities](/policies/400-facilities-equipment/402.md)
+* [405 General Policy Statement - Operation and Maintenance](/policies/400-facilities-equipment/405.md)
+* [410 Determining Extent of New Construction](/policies/400-facilities-equipment/410.md)
+* [411 Responsibility for Library Site Selection](/policies/400-facilities-equipment/411.md)
+* [412 Library Site Development](/policies/400-facilities-equipment/412.md)
+* [413 Library-Input - Other Agencies and Governmental Units](/policies/400-facilities-equipment/413.md)
+* [414 Real Estate and Other Property-Acquisition](/policies/400-facilities-equipment/414.md)
+* [415 Real Estate and Other Property-Acquisition of Land and/or Buildings](/policies/400-facilities-equipment/415.md)
+* [416 Condemnation of Land](/policies/400-facilities-equipment/416.md)
+* [418 Naming Library Facilities](/policies/400-facilities-equipment/418.md)
+* [419 Renaming Library Facilities](/policies/400-facilities-equipment/419.md)
+* [420 Real Estate-Sale of Properties](/policies/400-facilities-equipment/420.md)
+* [421 Posting of Proposed Sale of Real Estate](/policies/400-facilities-equipment/421.md)
+* [422 Real Estate and Other Property-Sale-Specified Cases](/policies/400-facilities-equipment/422.md)
+* [423 Leasing of Library Property](/policies/400-facilities-equipment/423.md)
+* [424 Public Art](/policies/400-facilities-equipment/424.md)
 ---
 [<< 300 Personnel and Staff](/policies/300-personnel-staff/) | [Return to All Policies](/policies/) | [500 Administration and Support >> ](/policies/500-administration-support/) 
 --- | --- | --- 
