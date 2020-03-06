@@ -1,7 +1,9 @@
-# 701. Interagency Cooperation
-
-The Kansas City Public Library shall cooperate with other libraries, governmental units, organizations and service agencies to improve the quality and efficiency of library services for the greater Kansas City metropolitan area.
-
+* [701 Interagency Cooperation](/policies/)
+* [702 Reciprocity for Metropolitan Library Access](/policies/700-interagency-cooperation/702.md)
+* [703 Extension of Borrowing Privileges to Any Missouri Resident](/policies/700-interagency-cooperation/703.md)
+* [705 Cooperative Efforts for Resource Sharing](/policies/700-interagency-cooperation/705.md)
+* [711 Legislative Effort to Improve Library Service](/policies/700-interagency-cooperation/711.md)
+* [716 Cooperative Efforts with Community and Cultural Agencies and Organizations](/policies/700-interagency-cooperation/716.md)
 ---
-
-Board Policy 701 (Adopted 1-89)
+[<< 600 Community Relations](/policies/600-community-relations/) | [Return to All Policies](/policies/) 
+--- | ---
