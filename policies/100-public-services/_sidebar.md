@@ -1,4 +1,4 @@
-* [101 Mission Statement](/policies/)
+* [101 Mission Statement](/policies/100-public-services/101.md)
 * [102 Roles of the Library System](/policies/100-public-services/102.md)
 * [103 Library Goal for Public Service](/policies/100-public-services/103.md)
 * [104 Library Bill of Rights](/policies/100-public-services/104.md)
