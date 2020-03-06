@@ -1,4 +1,17 @@
 # Community Relations
+* [601 Library Goal for Community Relations](/policies/600-community-relations/601.md)
+* [602 Responsibility for Public Relations/Information](/policies/600-community-relations/602.md)
+* [603 Customer Courtesy](/policies/600-community-relations/603.md)
+* [604 Local Media](/policies/600-community-relations/604.md)
+* [605 Promotional Materials](/policies/600-community-relations/605.md)
+* [606 Community Organization Contact](/policies/600-community-relations/606.md)
+* [607 Program Sponsorship](/policies/600-community-relations/607.md)
+* [608 Meeting Rooms and Other Facilities](/policies/600-community-relations/608.md)
+* [611 Gifts and Grants to the Library District](/policies/600-community-relations/611.md)
+* [612 Fund Raising Development](/policies/600-community-relations/612.md)
+* [613 Gift and Grant Funds Held by the Library District](/policies/600-community-relations/613.md)
+* [614 Donor Bill of Rights](/policies/600-community-relations/614.md)
+* [615 Third Party Public Outreach](/policies/600-community-relations/615.md)
 ---
 [<< 500 Administration and Support](/policies/500-administration-support/) | [Return to All Policies](/policies/) | [700 Interagency Cooperation >> ](/policies/700-interagency-cooperation/) 
 --- | --- | --- 
