@@ -15,6 +15,6 @@
 * [315 Personnel Files](/policies/300-personnel-staff/315.md)
 * [320 Resignation](/policies/300-personnel-staff/320.md)
 * [321 Grievances and/or Complaints](/policies/300-personnel-staff/321.md)
-
- ---
-[<< 200 Collection Development](/policies/200-collection-development/) | [Return to All Policies](/policies/) | [400 Facilities and Equipment >>](/policies/400-facilities-equipment/)
+---
+|[<< 200 Collection Development](/policies/200-collection-development/) | [Return to All Policies](/policies/) | [400 Facilities and Equipment >>](/policies/400-facilities-equipment/)|
+--- | --- | ---
