@@ -1,4 +1,4 @@
-* [201 Library Goal for Collection Development](/policies/)
+* [201 Library Goal for Collection Development](/policies/200-collection-development/201.md)
 * [202 Purpose of the Collection Development/Selection Policy](/policies/200-collection-development/202.md)
 * [203 Definition of Materials Selection](/policies/200-collection-development/203.md)
 * [204 Responsibility for Selection](/policies/200-collection-development/204.md)
