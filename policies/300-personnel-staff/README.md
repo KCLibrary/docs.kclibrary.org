@@ -17,5 +17,4 @@
 * [321 Grievances and/or Complaints](/policies/300-personnel-staff/321.md)
 
  ---
-[<< 200 Collection Development](/policies/200-collection-development/) | [Return to All Policies](/policies/) | [400 Facilities and Equipment >> ](/policies/400-facilities-equipment/)
---- | --- | ---
+[<< 200 Collection Development](/policies/200-collection-development/) | [Return to All Policies](/policies/) | [400 Facilities and Equipment >>](/policies/400-facilities-equipment/)
