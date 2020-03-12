@@ -4,13 +4,8 @@
 > Policies, Financials & Reference Documentation.
 
 [Bylaws](/bylaws/)
-
 [Collection Development](/collection-development/)
-
 [Policies](/policies/)
-
 [Privacy and Information Access](/privacy-and-information-access/)
-
 [Public Services](/public-services/)
-
 <!-- [Community Reference](/community-reference/) -->
