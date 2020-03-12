@@ -8,4 +8,8 @@
 [Policies](/policies/)
 [Privacy and Information Access](/privacy-and-information-access/)
 [Public Services](/public-services/)
-<!-- [Community Reference](/community-reference/) -->
+<!--
+---
+[Community Reference](/community-reference/) 
+[Community Resources]
+-->
