@@ -16,6 +16,3 @@
 * [422 Real Estate and Other Property-Sale-Specified Cases](/policies/400-facilities-equipment/422.md)
 * [423 Leasing of Library Property](/policies/400-facilities-equipment/423.md)
 * [424 Public Art](/policies/400-facilities-equipment/424.md)
----
-[<< 300 Personnel and Staff](/policies/300-personnel-staff/) | [Return to All Policies](/policies/) | [500 Administration and Support >> ](/policies/500-administration-support/) 
---- | --- | --- 

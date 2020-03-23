@@ -24,6 +24,3 @@
 * [535 Credit Card Policy](/policies/500-administration-support/535.md)
 * [536 Confidential and Sensitive Personal Information Policy](/policies/500-administration-support/536.md)
 * [537 Cellular Telephone Policy](/policies/500-administration-support/537.md)
----
-[<< 400 Facilities and Equipment](/policies/400-facilities-equipment/) | [Return to All Policies](/policies/) | [600 Community Relations >> ](/policies/600-community-relations/) 
---- | --- | --- 

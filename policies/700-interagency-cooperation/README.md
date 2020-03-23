@@ -6,6 +6,3 @@
 * [705 Cooperative Efforts for Resource Sharing](/policies/700-interagency-cooperation/705.md)
 * [711 Legislative Effort to Improve Library Service](/policies/700-interagency-cooperation/711.md)
 * [716 Cooperative Efforts with Community and Cultural Agencies and Organizations](/policies/700-interagency-cooperation/716.md)
----
-[<< 600 Community Relations](/policies/600-community-relations/) | [Return to All Policies](/policies/) 
---- | ---

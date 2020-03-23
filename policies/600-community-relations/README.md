@@ -12,6 +12,3 @@
 * [613 Gift and Grant Funds Held by the Library District](/policies/600-community-relations/613.md)
 * [614 Donor Bill of Rights](/policies/600-community-relations/614.md)
 * [615 Third Party Public Outreach](/policies/600-community-relations/615.md)
----
-[<< 500 Administration and Support](/policies/500-administration-support/) | [Return to All Policies](/policies/) | [700 Interagency Cooperation >> ](/policies/700-interagency-cooperation/) 
---- | --- | --- 

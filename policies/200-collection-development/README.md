@@ -11,6 +11,3 @@
 * [209 Request for Reconsideration of Library Materials](/policies/200-collection-development/209.md)
 * [210 Level of Expenditures for Materials](/policies/200-collection-development/210.md)
 * [211 Gift, Grant of Endowment Earnings as Enhancement Funds for Materials](/policies/200-collection-development/211.md)
----
-[<< 100 Public Services](/policies/100-public-services/) | [Return to All Policies](/policies/) | [300 Personnel and Staff >> ](/policies/300-personnel-staff/) 
---- | --- | --- 

@@ -8,6 +8,3 @@
 * [106 Public Service Responsibility of the Library Director](/policies/100-public-services/106.md)
 * [107 Customer Courtesy and Conduct](/policies/100-public-services/107.md)
 * [108 Acceptable Use of Electronic Information Systems](/policies/100-public-services/108.md)
----
-[<< 000 Internal Policies](/policies/000-internal-policies/) | [Return to All Policies](/policies/) | [200 Collection Development >> ](/policies/200-collection-development/) 
---- | --- | --- 
