@@ -13,7 +13,7 @@ Kelly Mahon is the Library's Funding Information Network Supervisor. His respons
 
 ## Establishing a Non-Profit
 
-### NONPROFIT STARTUP TOOL ASSESSMENT FROM GRANTSPACE
+NONPROFIT STARTUP TOOL ASSESSMENT FROM GRANTSPACE
 
 The [Nonprofit Startup Tool Assessment](https://www.kclibrary.org/research-resources/research-databases/nonprofit-startup-assessment) from GrantSpace is for people who are either considering or are already in the early stages of starting a nonprofit. Questions will assess background knowledge, capital, and work experience that are relevant to starting a nonprofit.
 
@@ -45,15 +45,15 @@ There are essentially three approaches to grant research. Both print and electro
 - The Geographic Approach
 - The Types of Support Approach
 
-### SUBJECT APPROACH
+SUBJECT APPROACH
 
 Perhaps the most often-used approach as foundations will express an interest in funding subject-specific programs. Look for those foundations that are most likely to fund your proposal.
 
-### GEOGRAPHIC APPROACH
+GEOGRAPHIC APPROACH
 
 Since foundations will often limit where they will fund projects to their region or location, you may want to include this approach as part of your overall searching strategy.
 
-### TYPES OF SUPPORT APPROACH
+TYPES OF SUPPORT APPROACH
 
 This type of approach is usually used in conjunction with Subject or Geographic research and should not be confused with the Subject Approach. "Subject Approaches" will list programs that foundations want to fund, whereas "Types of Support" will offer what kinds of assistance the foundations will fund. For example, requests for funding for building/renovation, equipment, seed-money, or technical assistance would fall into the category of "Types of Support."
 
@@ -64,19 +64,19 @@ There are basically four considerations in conducting grant research You will ne
 - Grants
 - 990s
 
-### GRANTMAKERS
+GRANTMAKERS
 
 You first want to check to see what foundations offer the kind of assistance you’ll need. This can be achieved by using the three approaches listed above.
 
-### COMPANIES
+COMPANIES
 
 You can glean information about specific companies to determine whether or not they would be a good match for your proposal.
 
-### GRANTS
+GRANTS
 
 Found out what kinds of grants have been awarded and who received them.
 
-### 990S
+990S
 
 A "990" is a document submitted by the grant-maker to the IRS each year. This document contains detailed information about the grant, including how much was awarded. It provides valuable information for the grant-seeker as it breaks down the grant into its specific, component parts.
 
@@ -93,28 +93,28 @@ Before contacting prospective grantmakers, you must first develop the master pro
 - Contact and cultivate potential funders
 - Respond to the result
 
-### SET UP YOUR FUNDING PRIORITIES
+SET UP YOUR FUNDING PRIORITIES
 
 - Compose your mission statement—A written summary of your agency's vision
 - Acquire nonprofit status—Don't forget to obtain your 501(c)(3) status from the IRS!
 - Set funding priorities—Start with a planning session.
 
-### DRAFT YOUR MASTER PROPOSAL
+DRAFT YOUR MASTER PROPOSAL
 
 A rough draft will clarify your request. Bring together detailed information on your project and select your proposal writer. You will need to include the executive summary, statement of need, project description, budget, and organizational information.
 
-### PACKAGE THE PROPOSAL
+PACKAGE THE PROPOSAL
 
 Once the master proposal is written, you will need to craft it to the specific funder's priorities. You will also need to provide a cover letter and an appendix, if necessary.
 
-### RESEARCH POTENTIAL FUNDERS
+RESEARCH POTENTIAL FUNDERS
 
 At this point you will need to identify sources most likely to fund your proposal. See "Researching Grants" for more information.
 
-### CONTACT AND CULTIVATE POTENTIAL FUNDERS
+CONTACT AND CULTIVATE POTENTIAL FUNDERS
 
 Speaking with a potential funder at the outset about your organization and proposal helps to identify interested funders and saves time.
 
-### RESPOND TO THE RESULT
+RESPOND TO THE RESULT
 
 Following up is an important component in the grant writing process. Even if you are initially rejected, maintaining a relationship with the funder could help you improve your proposal to send to other funders, as well as open up dialog for future proposals.
