@@ -60,13 +60,13 @@ There are several steps to take to turn your business idea into reality. Here ar
 
 Check out these additional services and agencies to accomplish your small business goals.
 
-### KC SOURCELINK: NETWORK AND GROW YOUR BUSINESS
+**KC SOURCELINK: NETWORK AND GROW YOUR BUSINESS**
 
 The single best agency for entrepreneurs in Kansas City is [KC SourceLink](http://www.kcsourcelink.com/). KC SourceLink supports a network of more than 200 nonprofit resource organizations that provide services for small businesses. KC SourceLink links these organizations to one another and to new and established small businesses in Kansas City.
 
 SourceLink’s [Resource Navigator](http://www.kcsourcelink.com/resource-navigator) is a great tool to connect with a organization that will meet your current business needs. The Resource Navigator organizes hundreds of agencies into key topics, such as business planning, financing, marketing, training, and research.
 
-### KAUFFMAN FOUNDATION PROGRAMS AND SERVICES
+**KAUFFMAN FOUNDATION PROGRAMS AND SERVICES**
 
 The Ewing Marion Kauffman Foundation has supported entrepreneurship in Kansas City with programs and services for decades. Here are a few of their leading programs.
 
@@ -75,7 +75,7 @@ The Ewing Marion Kauffman Foundation has supported entrepreneurship in Kansas Ci
 - [Entrepreneurship.org](http://entrepreneurship.org/) – Best practices in entrepreneurial leadership
 - [FastTrac](http://www.fasttrac.org/) - Entrepreneur learning programs and materials
 
-### FREE WEB-BASED BUSINESS STARTUP RESOURCES
+**FREE WEB-BASED BUSINESS STARTUP RESOURCES**
 
 - [Missouri Business 24/7](https://openforbiz.mo.gov/) (State of Missouri site with business startup, management, and tax resources)
 - [SBA](http://www.sba.gov/) (Small Business Administration)
@@ -84,7 +84,7 @@ The Ewing Marion Kauffman Foundation has supported entrepreneurship in Kansas Ci
 - [USA.gov Small Business](http://business.usa.gov/) (Services and organizations for financing, exporting, veterans, and more)
 - [Export.gov](http://export.gov/) (The federal government's export information website)
 
-### EDUCATIONAL RESOURCES AND SERVICES
+**EDUCATIONAL RESOURCES AND SERVICES**
 
 - [Lynda.com Business Training Tutorials](http://www.lynda.com/Business-training-tutorials/29-0.html?bnr=NMHP_blocks)
 - [SCORE](https://kansascity.score.org/) (Service Corps of Retired Executives - Kansas City chapter)
@@ -98,7 +98,7 @@ The Ewing Marion Kauffman Foundation has supported entrepreneurship in Kansas Ci
 - [Helzberg Entrepreneurial Mentoring Program](http://www.hempkc.org/)
 - [ScaleUP! Kansas City](https://www.kcsourcelink.com/scale-up)
 
-### CITY GOVERNMENT, LEGAL, AND VETERAN BUSINESS SERVICES
+**CITY GOVERNMENT, LEGAL, AND VETERAN BUSINESS SERVICES**
 
 - [KC Bizcare: Kansas City's Business Customer Service Center](https://www.kcmo.gov/programs-initiatives/kc-bizcare)
 - [City of Kansas City Planning and Development Office](http://kcmo.gov/planning/)
@@ -106,7 +106,7 @@ The Ewing Marion Kauffman Foundation has supported entrepreneurship in Kansas Ci
 - [Economic Development Corporation of Kansas City](http://www.edckc.com/)
 - [Veteran's Business Resource Center](http://www.vetbiz.com/)
 
-### FUNDING OPPORTUNITIES
+**FUNDING OPPORTUNITIES**
 
 - [Launch KC](http://www.launchkc.org/)
 - [Women’s Capital Connection](http://womenscapitalconnection.com/)
@@ -114,7 +114,7 @@ The Ewing Marion Kauffman Foundation has supported entrepreneurship in Kansas Ci
 - [GoFundMe](https://www.gofundme.com/)
 - [Kickstarter](http://www.kickstarter.com/)
 
-### CHAMBERS OF COMMERCE
+**CHAMBERS OF COMMERCE**
 
 - [Greater Kansas City Chamber of Commerce](http://www.kcchamber.com/)
 - [Heartland Black Chamber of Commerce](https://www.heartlandblackchamber.com/)
@@ -123,7 +123,7 @@ The Ewing Marion Kauffman Foundation has supported entrepreneurship in Kansas Ci
 - [Mid-America Gay & Lesbian Chamber of Commerce](http://maglcc.org/)
 - [Asian American Chamber of Commerce of Kansas City](http://www.asianchamberkc.com/)
 
-### OTHER BUSINESS NETWORKING OPPORTUNITIES
+**OTHER BUSINESS NETWORKING OPPORTUNITIES**
 
 - [The Freelance Exchange](https://www.kcfreelanceexchange.com/)
 - [Global Entrepreneurship Week](http://www.gew.co/)
@@ -137,7 +137,7 @@ The Ewing Marion Kauffman Foundation has supported entrepreneurship in Kansas Ci
 - [Hispanic Economic Development Corporation](http://www.kchedc.org/)
 - [National Black MBA Association- Kansas City chapter](http://www.nbmbaa.org/)
 
-### BUSINESS INCUBATORS AND COWORKING SERVICES
+**BUSINESS INCUBATORS AND COWORKING SERVICES**
 
 - [BetaBlox](http://betablox.com/)
 - [Ennovation Center](http://www.ennovationcenter.com/)
@@ -163,7 +163,7 @@ There are several resources you can use to determine if a company is publicly he
 - Use Google to pull up the company's web page. Look for a link to "Investor" or "Investor Relations." This is sometimes under the "About Us" tab.
 - [Ask one of the librarians in the Business & Career Center for assistance](https://www.kclibrary.org/contact-us-form?id=26910&email=0).
 
-### PUBLICLY TRADED COMPANIES
+**PUBLICLY TRADED COMPANIES**
 
 It is relatively easy to find information on publicly held companies, as they are required to file reports with the Securities and Exchange Commission (SEC). These reports in turn are made available to the public.
 
@@ -175,7 +175,7 @@ Publicly held companies for the most part are the largest and most influential c
 - [Business Insights: Global](https://www.kclibrary.org/research-resources/research-databases/business-insights-global) will provide you with the full text of articles taken from a wide range of business magazines and trade journals. Company reports, market research reports, and profiles of publicly traded companies worldwide are also provided in this database.
   (_Library card is required to access all of these resources from outside the Library._)
 
-### PRIVATE COMPANIES
+**PRIVATE COMPANIES**
 
 It is much more difficult to find information about private companies as they are not required to make information about themselves public. The size of the company often determines how much information is going to be found.
 
@@ -189,11 +189,11 @@ It is much more difficult to find information about private companies as they ar
   (_Library card is required to access all of these resources from outside the Library._)
 - Check to see if the company has a listing in the [FormDs.com](http://www.formds.com/) website.
 
-### LOCAL COMPANIES
+**LOCAL COMPANIES**
 
 If the business you want information on is a smaller local company, there are specific resources that could be of help to you. Take a look at the guide on [Local Business and Economic Information](https://kclibrary.org/business-career/local-business-and-economic-information) in the Business and Career Center.
 
-### COMPANY WEBSITES
+**COMPANY WEBSITES**
 
 Don't forget to look at a company's own website. A Google search will help you find a business's website. Often you can learn a great deal about a company (products, services, locations, contact names, history) from their website. Remember though, this is not unbiased information.
 
@@ -203,7 +203,7 @@ Use the website [Glassdoor](http://www.glassdoor.com/index.htm) to learn about d
 
 ## Industry Research
 
-### WHO SHOULD RESEARCH AN INDUSTRY?
+**WHO SHOULD RESEARCH AN INDUSTRY?**
 
 - Entrepreneurs studying the industry they are entering.
 - Small business owners who are writing their business plan.
@@ -237,16 +237,16 @@ Use the website [Glassdoor](http://www.glassdoor.com/index.htm) to learn about d
 
 Demographics are statistics about people: How many people live in a specific area, where they work, what they buy, and how they live. These statistics can shape the delivery of a new product or service, or where a business is located.
 
-### THE US CENSUS
+**THE US CENSUS**
 
 It is mandated that every ten years, the U.S. Census Bureau count all of the people in the United States and Puerto Rico. Along with counting the people, the Census Bureau also collects certain economic and social characteristics about everyone. Rather than doing the long form every 10 years, the Census Bureau is now taking an annual American Community Survey which provides an estimated count of many socioeconomic characteristics. The questions asked are those that help federal and state agencies carry out the services they provide as mandated by Congress. This mandate is a benefit to business owners, social service agencies and others who need demographic information.
 The following information can get you started on your research.
 
-### CENSUS BUSINESS BUILDER
+**CENSUS BUSINESS BUILDER**
 
 An online source you should consult first is [Census Business Builder](https://www.census.gov/data/data-tools/cbb.html). CBB is an interactive website that provides access to useful demographic and economic data from the Census Bureau and other reliable sources in an easy-to-use, map-based format.
 
-### CENSUS BUREAU DATA
+**CENSUS BUREAU DATA**
 
 If you are looking for basic demographic information, use [Census Bureau Data](https://www.kclibrary.org/research-resources/research-databases/census-bureau-data), a website created and maintained by the [U.S. Census Bureau](http://www.census.gov/). Very quickly, you can pull up a fact sheet on:
 
@@ -262,11 +262,11 @@ Statistics are given for more than 40 variables, including:
 - Housing Characteristics
 - Economic Characteristics
 
-### DEMOGRAPHICS NOW
+**DEMOGRAPHICS NOW**
 
 [Demographics Now](https://www.kclibrary.org/research-resources/research-databases/demographicsnow) provides detailed demographic reports. Assess business viability, perform market and site location analysis, create sales leads and/or marketing mailing lists, find potential sponsors and donors to grow a non-profit, prepare a small business plan and much more.
 
-### AMERICAN COMMUNITY SURVEY
+**AMERICAN COMMUNITY SURVEY**
 
 The [American Community Survey](http://www.census.gov/acs/www/) (ACS) was created to give not just federal programs more timely data, but to also help you, the business owner, student, activist, and community organizer, the current demographic, social, economic and housing data that you need. The ACS:
 
@@ -291,12 +291,12 @@ Data found in ACS but not on the Factfinder Factsheets include:
 - School enrollment
 - Householder relationship
 
-### OTHER SOURCES OF DEMOGRAPHIC DATA
+**OTHER SOURCES OF DEMOGRAPHIC DATA**
 
 - The [Mid-American Regional Council](http://marc.org/) (MARC) is the regional planning organization for nine counties and 120 cities. MARC maintains a website called [Metro Dataline](http://www.marc.org/Data-Economy/Metrodataline) that includes some Census data as well as other statistics for the metropolitan area.
 - The [Missouri Census Data Center](http://mcdc2.missouri.edu/) is an agency that provides access to State-level Census Bureau data.
 
-### BOOKS
+**BOOKS**
 
 The Community Reference area on the third floor of the [Central Library](https://kclibrary.org/library-locations/central-library) also has several print resources that may help you with your demographic research.
 
@@ -313,7 +313,7 @@ As you start your statistics research, ask yourself these questions:
 - Do I need just the current figures or do I want historical numbers for trend analysis?
 - Do I need economic statistics (number of businesses, employment figures) or demographic/social characteristic numbers? For demographic research information, check our <span style="background-color:red;">[Demographic Research](https://kclibrary.org/business-career/demographic-research) guide</span>.
 
-### Census Business Builder, the Economic Census, and FedStats
+Census Business Builder, the Economic Census, and FedStats
 
 An online source you should consult first is [Census Business Builder](https://www.census.gov/data/data-tools/cbb.html). CBB is an interactive website that provides access to useful demographic and economic data from the Census Bureau and other reliable sources in an easy-to-use, map-based format.
 
@@ -321,7 +321,7 @@ The Census Bureau also completes a survey of businesses every five years. The [E
 
 Another good starting point is [FedStats](http://fedstats.sites.usa.gov/), the federal government's comprehensive statistics portal.
 
-### OTHER FEDERAL ECONOMIC DATA SOURCES
+**OTHER FEDERAL ECONOMIC DATA SOURCES**
 
 In addition to the Census, other federal agencies that provide useful statistics include
 
@@ -332,6 +332,6 @@ In addition to the Census, other federal agencies that provide useful statistics
 
 Other government agencies collect data related to their area of responsibility. Statistics regarding education, health, labor, crime, food, housing, transportation and other topics are available.
 
-### KANSAS CITY AREA STATISTICS
+**KANSAS CITY AREA STATISTICS**
 
-Although federal statistical sources provide some local data, there are additional sources. The [Mid-American Regional Council](http://marc.org/) (MARC) is the regional planning organization for nine counties and 120 cities. MARC maintains a website called [Metro Dataline](http://www.marc.org/Data-Economy/Metrodataline) that includes some Census data as well as a wealth of metro-level economic, demographic and transportation statistics. For additional sources, take a look at our <span style="background-color:red;">[Local Business and Information Guide](https://kclibrary.org/business-career/kc-business)</span>.
+Although federal statistical sources provide some local data, there are additional sources. The [Mid-American Regional Council](http://marc.org/) (MARC) is the regional planning organization for nine counties and 120 cities. MARC maintains a website called [Metro Dataline](http://www.marc.org/Data-Economy/Metrodataline) that includes some Census data as well as a wealth of metro-level economic, demographic and transportation statistics.
