@@ -16,7 +16,7 @@ The Community Reference Mission is to connect people to each other and to inform
 Schedule a one-on-one appointment with one of our specialists:
 
 **Jobs & Careers, and Your Money**
-<img src="https://www.kclibrary.org/sites/default/files/Rhiannon.png" alt="Rhiannon Johnson" align="left" width="10%" />
+<img src="https://www.kclibrary.org/sites/default/files/Rhiannon.png" alt="Rhiannon Johnson" align="left" width="10%" style="margin-right: 10px;" />
 Rhiannon Johnson is the Library’s Career Development and Personal Finance Specialist. She has a Master of Science in Education from the University of Kansas and Bachelor of Art in Organizational Communication Studies from Ball State University. For the past five years, she has served as a career coach at the University of Kansas. Rhiannon can provide coaching on career development topics including resumes cover letters, career transitions, job searching and interviewing techniques. In addition, she also can help connect you to resources for making informed financial decisions.
 
 **Contact Rhiannon Johnson**: [Email](https://www.kclibrary.org/contact-us-form?id=26910&email=3) | **Phone**: 816.701.3663 | [Schedule an Appointment](https://calendly.com/rhiannonjohnson)
