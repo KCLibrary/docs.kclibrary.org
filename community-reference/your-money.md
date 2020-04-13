@@ -16,43 +16,45 @@ Rhiannon Johnson is the Library’s Career Development and Personal Finance Spec
 Even though a few banks have been in financial trouble lately, they are still the safest place to keep your money. Remember that most banks are insured by the Federal Deposit Insurance Corporation (FDIC), and that no money has ever been lost by an FDIC-insured bank.
 You will need to present a government-issued ID card (such as a Driver's License), as well as your social security card, to open a bank account. If you do not have a social security card, another government issued ID card such as a Permanent Resident Card (or "green card"). Visit the [United States Citizenship and Immigration Services website](http://www.uscis.gov/) for more information on how to get a green card.
 
-### WHY SHOULD I HAVE A BANK ACCOUNT?
+**WHY SHOULD I HAVE A BANK ACCOUNT?**
 
 - Banks provide the convenience of keeping track of the amount of money you have available making money management easier.
 - Bank users establish relationships with bank staff; this can help when applying for bank loans.
 
-### BENEFITS OF SAVINGS ACCOUNTS
+**BENEFITS OF SAVINGS ACCOUNTS**
 
 - They are used to store your money safely as you reach your savings goals.
 - They are intended for less frequent withdrawals than checking accounts.
 - These accounts may earn interest (a direct payment to you which is a percentage of your balance; the higher the balance, the higher the payment).
 
-### BENEFITS OF CHECKING ACCOUNTS
+**BENEFITS OF CHECKING ACCOUNTS**
 
 - These are used for day-to-day purchases of goods and services
 - Checking accounts are safer than sending cash through postal mail, and are less expensive than using money orders (most banks charge a fee for each money order requested).
 - Most allow deducting using both a handwritten check and a debit or "check" card.
 - Like savings accounts, these also may earn interest.
 
-### CHECKING ACCOUNT SAFETY (FROM THE FEDERAL RESERVE BOARD)
+**CHECKING ACCOUNT SAFETY (FROM THE FEDERAL RESERVE BOARD)**
 
 - Do not give your checking account number or routing number (the nine-digit number following your account number) out to any person or business that you don't know and trust.
 - Review your monthly bank statements for mistakes (Are all of the transactions yours?), and contact your bank if you find errors.
 - Balance your checkbook by keeping track of checks written, ATM withdrawals, and deposits!
 
-### ABOUT ELECTRONIC CHECK CONVERSION (FROM THE FEDERAL RESERVE BOARD)
+**ABOUT ELECTRONIC CHECK CONVERSION (FROM THE FEDERAL RESERVE BOARD)**
 
 - Paper checks are being turned into electronic debits more and more frequently; these debits are taken out of your checking account immediately, faster than a regular check.
 - If a check you present in person is converted into an electronic debit, you will be given the original check back as a receipt.
 - If you have mailed a check that is converted into an electronic debit, you will not receive the check back, even if you usually receive your checks or images back in your statement; your bank statement is considered your receipt and proof of payment.
 - Contact your bank if you have a problem with an electronic check conversion; contact your state's consumer protection agency or attorney general's office to learn more about your state's laws regarding electronic check conversion.
 
+---
+
 ## Budgeting
 
 Many financial planning experts advise that the first step to creating a personal budget is to keep a "spending diary" for a week or month to carefully track "where" your money is going. Relying on a weekly or monthly budget will allow you to gain control of your spending, and hopefully prepare you to save a portion of your assets for future expenses.
 There are many free budgeting tools available on the Internet. Here are a few examples:
 
-### FINANCIAL EDUCATION: GENERAL RESOURCES
+**FINANCIAL EDUCATION: GENERAL RESOURCES**
 
 - [MyMoney.gov](http://www.mymoney.gov/) The official U.S. government website for personal finance
 - [Money Smart Kansas City](http://www.moneysmartkc.org/) Website with many financial education resources available
@@ -63,12 +65,12 @@ There are many free budgeting tools available on the Internet. Here are a few ex
 - [American Financial Services Association-Education Foundation](http://www.afsaef.org/) Resources to help high school students with responsible money management
 - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) is a U.S. government agency that makes sure banks, lenders, and other financial companies treat you fairly.
 
-### BUDGETING TOOLS
+**BUDGETING TOOLS**
 
 - [Determining how fast your savings will grow](http://cgi.money.cnn.com/tools/savingscalc/savingscalc.html) Use this form to compute how much your savings will grow based on the initial amount, interest, and taxes
 - [How fast you can pay off your credit card?](http://www.bankrate.com/calculators/credit-cards/credit-card-payoff-calculator.aspx) Use this online credit card calculator to find out!
 
-### CREDIT
+**CREDIT**
 
 - Learn how to properly use a [credit card](https://www.consumerfinance.gov/consumer-tools/credit-cards/)
 - [How to Establish, Use, and Protect Credit](http://www.philadelphiafed.org/consumer-resources/publications/establish-use-and-protect-credit.cfm) Learn how to establish and use credit
@@ -80,7 +82,7 @@ There are many free budgeting tools available on the Internet. Here are a few ex
 - Variable expenses: Expenses in which the actual amount fluctuates from time to time (your electric bill)
 - Optional expenses: For things like dining out and entertainment
 
-### EASY DAY-TO-DAY TIPS FOR SAVING MONEY:
+**EASY DAY-TO-DAY TIPS FOR SAVING MONEY:**
 
 From InnerLight Incorporated (Kansas City, MO)
 
@@ -103,17 +105,19 @@ From InnerLight Incorporated (Kansas City, MO)
 - Ask your physician about generic prescription drugs, and call several pharmacies to compare prices for prescription drugs.
   For additional information, look over these books available at Kansas City Public Library; you can find more books by searching the [Library's catalog](https://kclibrary.bibliocommons.com/) under the subject headings ]"Saving and investment,"](https://kclibrary.bibliocommons.com/v2/search?query=Saving+and+investment&searchType=smart) ["Budgets, Personal,"](https://kclibrary.bibliocommons.com/v2/search?query=Budgets%2C+Personal&searchType=smart) and ["Finance, Personal."](https://kclibrary.bibliocommons.com/v2/search?query=Finance%2C+Personal&searchType=smart)
 
+---
+
 ## Consumer Protection
 
-### CONSUMER REPORTS MAGAZINE
+**CONSUMER REPORTS MAGAZINE**
 
 For general consumer protection information, including ratings of consumer products, browse [Consumer Reports online](https://kclibrary.org/research-resources/research-databases/consumer-reports) (with full text through January 2009). Like our other databases you'll need a library card to access this from home. The past year's issues of Consumer Reports are also available in print at the 3rd floor Reference desk.
 
-### INVESTMENT FRAUD
+**INVESTMENT FRAUD**
 
 The SaveAndInvest.org's [Fraud Center](http://www.saveandinvest.org/FraudCenter/) includes links to an investment fraud information packet, and questions to ask before buying an investment.
 
-### CREDIT REPORTS
+**CREDIT REPORTS**
 
 Businesses which sell major products like automobiles, most employers, landlords, and lenders of loans (banks) will check your credit history to determine whether you are suitable financial risk. (That is, if you are offered credit, will you pay it back?) Credit is the promise to pay for something in the future in order to buy or borrow in the present.
 You are entitled to receive one free copy of your credit report from the United States' official website, [AnnualCreditReport.com](http://www.annualcreditreport.com/). You may also request a report by phone by calling 1-877-322-8228. In addition, the postal mail address for requesting a report is:
@@ -147,7 +151,7 @@ You can also receive your credit score from these companies for a fee. Ranging f
 - How long is your credit history?
   You can improve your credit score by carefully reviewing your credit report for errors and having them corrected. The Federal Trade Commission's site, [Credit Repair: How to Help Yourself](http://www.ftc.gov/bcp/edu/pubs/consumer/credit/cre13.shtm), provides additional tips on improving your credit.
 
-### IDENTITY THEFT
+**IDENTITY THEFT**
 
 Identity theft is one of the fastest growing crimes in the United States. The Federal Trade Commission has established a [website](http://www.ftc.gov/bcp/edu/microsites/idtheft) with information on what to do if your information is misused. Also see [Protecting Yourself Against Identity Theft](http://www.philadelphiafed.org/consumer-resources/publications/protecting-yourself-against-identify-theft.pdf).
 Identity theft is not simply the misuse of your credit card; anytime another person uses a valuable item associated with another person without the owner’s permission, the possessor can be said to have committed identity theft.
@@ -163,12 +167,16 @@ Some people are surprised to learn that identity theft is most likely committed 
 - If you suspect that your social security number has been stolen, visit [Identity Theft And Your Social Security Number](http://www.ssa.gov/pubs/10064.html), or call 1-877-IDTHEFT. Note that the Federal Government cannot solve credit problems—you will need to handle those through the three main credit reporting agencies.
   Also check the [Library's catalog] under the subject headings ["Credit,"](https://kclibrary.bibliocommons.com/v2/search?query=Credit&searchType=smart) ["Credit ratings,"](https://kclibrary.bibliocommons.com/v2/search?query=Credit+ratings&searchType=smart) ["Consumer credit,"](https://kclibrary.bibliocommons.com/v2/search?query=Consumer+credit&searchType=smart) and ["Identity theft protection"](https://kclibrary.bibliocommons.com/v2/search?query=Identity+theft+protection&searchType=smart) for books on credit and protecting yourself from identity theft.
 
+---
+
 ## Investment Resources
 
 The Kansas City Public Library provides many resources to research investments to meet your personal financial objectives. A search of our [online catalog](https://kclibrary.bibliocommons.com/) using the subject heading ["investments"](https://kclibrary.bibliocommons.com/v2/search?query=investments&searchType=smart) will produce a list of titles addressing a wide range of investment topics.
 For decades, [The Value Line Investment Survey](https://kclibrary.bibliocommons.com/v2/search?query=value+line&searchType=smart) has been a go-to resource for advice on stock investing. With a one-page analysis of thousands of equities and hundreds of mutual funds, Value Line thoroughly covers the American investment universe.
 The library collection also includes several investor newsletters such as [The Kiplinger Letter](https://kclibrary.bibliocommons.com/item/show/794432120).
 Also check out, [Investor.gov](https://www.investor.gov/).
+
+---
 
 ## Applying to College
 
@@ -187,16 +195,16 @@ Many jobs require a specific level of education and/or degree as a basic require
 - Some professions, such as cosmetology, have their own educational institutions.
   Use the federal government's [College Navigator](http://nces.ed.gov/collegenavigator/), the best free source on the Internet for getting information about colleges and universities.
 
-### TAKE THE REQUIRED TEST
+**TAKE THE REQUIRED TEST**
 
 Many four-year colleges and universities require a test for admission, either the [Scholastic Assessment Test](http://www.collegeboard.com/student/testing/sat/about.html) (call toll-free 1-866-756-7346), or the [American College Test](http://www.act.org/) (call 1-319-337-1270). Visit with the admissions or counseling staff of the schools you are interested in to determine which of these tests you need to take. Keep in mind that each test also has a schedule for signing up and paying, and informing you of your scores. Information about these dates, as well as where you take the tests, is available on the tests' websites.
 The [LearningExpress Library](https://www.kclibrary.org/research-resources/research-databases/learningexpress-library) also offers practice tests for the SAT, ACT, and certification exams for many different professions, free to use with your Library card.
 
-### APPLY TO COLLEGE: COMPLETE THE APPLICATION, SEND TRANSCRIPTS, AND TEST SCORES
+**APPLY TO COLLEGE: COMPLETE THE APPLICATION, SEND TRANSCRIPTS, AND TEST SCORES**
 
 Many colleges have an application deadline that you need to meet to be accepted to the school. In addition to completing the application, you will need to submit your high school transcript, a document which has all of the grades you earned in high school. A person can normally make this request in writing to their high school, but there will usually be a fee. Contact your former high school to learn their specific procedures for getting a transcript.
 
-### AFTER YOU ARE ADMITTED
+**AFTER YOU ARE ADMITTED**
 
 After you are admitted, many institutions will also offer placement tests. Your scores on these tests will help you select the right classes.
 For additional information
@@ -205,11 +213,13 @@ For additional information
 - Ask a reference librarian to help you search the [Library's catalog](https://kclibrary.bibliocommons.com/) for testing guides
 - Search the Library's catalog for books on completing college applications and essays (under the subjects "Universities and colleges-Admission," and "Universities and colleges-Directories").
 
+---
+
 ## Paying for College
 
 Funding for post-high school education (including traditional four-year colleges, [career colleges](http://www2.ed.gov/students/prep/college/consumerinfo/index.html), and [technical schools](http://www2.ed.gov/students/prep/college/consumerinfo/index.html)) can take several forms. These are outlined in the federal government's [Student Aid website](http://studentaid.ed.gov/). Take a few minutes to look at this site, because it contains a lot of useful information.
 
-### TYPES OF STUDENT AID
+**TYPES OF STUDENT AID**
 
 There are several types of student aid:
 
@@ -217,7 +227,7 @@ There are several types of student aid:
 - Student loans (These do have to be repaid)
 - Federal Work-Study: This program provides part-time on-campus jobs for both undergraduate and graduate degree-seeking students. Not all on-campus jobs are federal work-study jobs, but many are, you should verify this when you apply for an on-campus job.
 
-### WHO AWARDS STUDENT AID?
+**WHO AWARDS STUDENT AID?**
 
 Financial aid for attending community, 4-year or technical college is awarded by:
 
@@ -238,7 +248,7 @@ To qualify for student aid, you must:
 - Certify that you are not in default on a student loan
 - Certify that you will use federal student aid for educational purposes
 
-### THE FAFSA (FREE APPLICATION FOR FEDERAL STUDENT AID)
+**THE FAFSA (FREE APPLICATION FOR FEDERAL STUDENT AID)**
 
 An important step of the process for applying for college aid is complete the [Free Application for Federal Student Aid (FAFSA)](http://www.fafsa.ed.gov/). Application deadlines for the various programs vary; many schools have their own application deadlines for completing the FAFSA. Make sure to check with the colleges and universities you are interested in for their priority deadline.
 A major part of the FAFSA application requests your tax information. Because you may not have your income taxes completed at the time your FAFSA application is due, use the information you have to estimate your income, credits, and deductions. The [IRS Data Retrieval Tool](https://www.irs.gov/individuals/irs-offers-help-to-students-families-to-get-tax-information-for-student-financial-aid-applications) is available to use with the 2020-2021 FAFSA Form. The tool helps applicants get tax information needed for the FAFSA application.
@@ -278,7 +288,7 @@ Additional tips:
 11. Are work-study earnings taxable?
     The money you earn from Federal Work-Study is generally subject to federal and state income tax, but exempt from FICA taxes (provided you are enrolled full time and work less than half-time).
 
-### SCHOLARSHIPS, LOANS, AND MORE
+**SCHOLARSHIPS, LOANS, AND MORE**
 
 In addition to government websites, also look at:
 
@@ -287,7 +297,7 @@ In addition to government websites, also look at:
 - Big Future (by the College Board)— Reliable information on paying for college
 - Savingforcollege.com— Another great site that includes a calculator to estimate expenses based on your unique circumstances
 
-### FINDING GENERAL INFORMATION ABOUT COLLEGES ONLINE
+**FINDING GENERAL INFORMATION ABOUT COLLEGES ONLINE**
 
 Here are three excellent websites to search for colleges by size, program, and more:
 
@@ -295,22 +305,24 @@ Here are three excellent websites to search for colleges by size, program, and m
 - [College Scorecard](https://collegescorecard.ed.gov/) — Another excellent government website for comparing colleges
 - [Trade & Vocational Schools](http://www.accreditedschoolsonline.org/vocational-trade-school/) — An online guide to trade and vocational schools
 
-### KC DEGREES
+**KC DEGREES**
 
 [KC Degrees](http://www.kcdegrees.org/) is a new service that offers free career counseling and other support to adults seeking to return to college. Visit their website for more information.
 
-### MIDWEST STUDENT EXCHANGE PROGRAM
+**MIDWEST STUDENT EXCHANGE PROGRAM**
 
 The [Midwest Student Exchange Program (MSEP)](http://www.mhec.org/) is an interstate initiative established by the Midwestern Higher Education Commission (MHEC) to increase interstate educational opportunities for students in its members states. This tuition discount program, includes the seven participating states of Kansas, Indiana, Michigan, Minnesota, Missouri, Nebraska, North Dakota and Wisconsin. The Midwest Student Exchange Program seeks to provide more affordable educational opportunities for students to attend out-of-state institutions. It also strives to facilitate enrollment efficiency in those institutions which have excess capacity in existing programs.
 
+---
+
 ## Money Matters
 
-### FINANCIAL EDUCATION WORKSHOP MATERIALS
+**FINANCIAL EDUCATION WORKSHOP MATERIALS**
 
 In partnership with the [Women's Employment Network](http://www.kcwen.org/), the Library is pleased to offer our Money Matters financial education workshop materials! The workshop slides (in English, Spanish, and Somali) are below. These workshop materials are made possible by a grant from the FINRA Investor Education Foundation through [Smart Investing@Your Library](http://smartinvesting.ala.org/), a partnership with the American Library Association.
 For additional Spanish and Somali-language resources, check out the [Money Matters booklet](https://kclibrary.org/sites/default/files/02-16-2017 Money Matters_5x8_0.pdf).
 
-### ENGLISH
+**ENGLISH**
 
 [Banking Basics](https://kclibrary.org/sites/default/files/BankingBasics-English.pptx)
 [Budgeting](https://kclibrary.org/sites/default/files/Budgeting-English.pptx)
@@ -318,21 +330,21 @@ For additional Spanish and Somali-language resources, check out the [Money Matte
 [Avoiding Identity Theft](https://kclibrary.org/sites/default/files/IdentityTheft-English.pptx)
 [Payday Loans](https://kclibrary.org/sites/default/files/PaydayLoans-English.pptx)
 
-### SPANISH
+**SPANISH**
 
 [Banking Basics](https://kclibrary.org/sites/default/files/BankingBasics-Spanish.pptx)
 [Budgeting](https://kclibrary.org/sites/default/files/Budgeting-Spanish.pptx)
 [Credit Management](https://kclibrary.org/sites/default/files/CreditManagement-Spanish.pptx)
 [Avoiding Identity Theft](https://kclibrary.org/sites/default/files/IdentityTheft-Spanish.pptx)
 
-### SOMALI
+**SOMALI**
 
 [Banking Basics](https://kclibrary.org/sites/default/files/BankingBasics-Somali.pptx)
 [Budgeting](https://kclibrary.org/sites/default/files/Budgeting-Somali.pptx)
 [Credit Management](https://kclibrary.org/sites/default/files/CreditManagement-Somali.pptx)
 [Avoiding Identity Theft](https://kclibrary.org/sites/default/files/IdentityTheft-Somali.pptx)
 
-### FINANCIAL COACHING
+**FINANCIAL COACHING**
 
 Free one-on-one financial coaching is available at four Financial Opportunity Centers in Kansas City, including help with:
 
@@ -360,10 +372,10 @@ Free one-on-one financial coaching is available at four Financial Opportunity Ce
   816.595.1302
   [Get directions »](https://goo.gl/maps/tnCiF)
 
-### MONEY MATTERS BOOKLET
+**MONEY MATTERS BOOKLET**
 
 The [Money Matters booklet](https://kclibrary.org/sites/default/files/02-16-2017 Money Matters_5x8_0.pdf) is another great way to learn about banking, budgeting, credit, identity theft, and payday loans. Print copies of this booklet are available at all Kansas City Public Library locations, Kansas City area Financial Opportunity Centers, and other local service providers.
 
-### WOMEN'S EMPLOYMENT NETWORK WORKSHOPS
+**WOMEN'S EMPLOYMENT NETWORK WORKSHOPS**
 
 The [Women's Employment Network](http://www.kcwen.org/) also offers free employment, entrepreneurship, and financial education workshops. See the [workshop website](http://kcwen.org/training_support/workshops) for dates and registration information.
