@@ -94,6 +94,7 @@ Before contacting prospective grantmakers, you must first develop the master pro
 - Respond to the result
 
 **SET UP YOUR FUNDING PRIORITIES**
+
 - Compose your mission statement—A written summary of your agency's vision
 - Acquire nonprofit status—Don't forget to obtain your 501(c)(3) status from the IRS!
 - Set funding priorities—Start with a planning session.
@@ -117,3 +118,9 @@ Speaking with a potential funder at the outset about your organization and propo
 **RESPOND TO THE RESULT**
 
 Following up is an important component in the grant writing process. Even if you are initially rejected, maintaining a relationship with the funder could help you improve your proposal to send to other funders, as well as open up dialog for future proposals.
+
+---
+
+## LegalGPS
+
+[Legal GPS](https://www.kclibrary.org/research-resources/research-databases/legal-gps) removes legal barriers for non-profit creation and development by providing a series of step-by-step questionnaires. Create an account to get started or contact our Funding Information Network Supervisor for help.
