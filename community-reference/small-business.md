@@ -49,6 +49,7 @@ The website [Bplans](http://www.bplans.com/) also has many good sample business 
 There are several steps to take to turn your business idea into reality. Here are some resources and services to help.
 
 - The Missouri Secretary of State's [Starting a Business](http://www.sos.mo.gov/business/startBusiness) webpage. This page includes links to the required state forms and the new company registration system.
+- [Legal GPS](https://www.kclibrary.org/research-resources/research-databases/legal-gps) is an excellent tool to build your business-legal knowledge. Learn what options exist for state entities, tax entities and continue to build on your knowledge as you determine what might make sense for you.
 - The Secretary of State's [Search for a Business Entity](https://bsd.sos.mo.gov/BusinessEntity/BESearch.aspx?SearchType=0) page. This page allows you to determine if your selected business name is available for use. The Library’s database [Legal Forms Library](https://www.kclibrary.org/research-resources/research-databases/legal-forms-library) (in consultation with an attorney) may also help you with this process.
 - The staff of [KC BizCare](http://kcmo.gov/kcbizcare/about/), operated by the City of Kansas City, will assist you with the licensing process and other required local registrations.
 - Remember to register with the [Missouri Department of Revenue](http://www.dor.mo.gov/) and the [IRS](http://www.irs.gov/) to be assigned an identification number to pay those taxes!
@@ -62,7 +63,7 @@ Check out these additional services and agencies to accomplish your small busine
 
 **KC SOURCELINK: NETWORK AND GROW YOUR BUSINESS**
 
-The single best agency for entrepreneurs in Kansas City is [KC SourceLink](http://www.kcsourcelink.com/). KC SourceLink supports a network of more than 200 nonprofit resource organizations that provide services for small businesses. KC SourceLink links these organizations to one another and to new and established small businesses in Kansas City.
+One of the single best agency for entrepreneurs in Kansas City is [KC SourceLink](http://www.kcsourcelink.com/). KC SourceLink supports a network of more than 200 nonprofit resource organizations that provide services for small businesses. KC SourceLink links these organizations to one another and to new and established small businesses in Kansas City. Check their [calendar](https://www.kcsourcelink.com/calendar) for frequently updated learning and networking events.
 
 SourceLink’s [Resource Navigator](http://www.kcsourcelink.com/resource-navigator) is a great tool to connect with a organization that will meet your current business needs. The Resource Navigator organizes hundreds of agencies into key topics, such as business planning, financing, marketing, training, and research.
 
@@ -87,6 +88,9 @@ The Ewing Marion Kauffman Foundation has supported entrepreneurship in Kansas Ci
 **EDUCATIONAL RESOURCES AND SERVICES**
 
 - [Lynda.com Business Training Tutorials](http://www.lynda.com/Business-training-tutorials/29-0.html?bnr=NMHP_blocks)
+- [Gale Business: Entrepreneurship](https://www.kclibrary.org/research-resources/research-databases/gale-business-entrepreneurship)
+- [Lean Lab Education](https://www.leanlabeducation.org/) (accelerator for education startups)
+
 - [SCORE](https://kansascity.score.org/) (Service Corps of Retired Executives - Kansas City chapter)
 - [UMKC Small Business & Technology Development Center](http://sbtdc.umkc.edu/)
 - [Missouri Business Development Program](http://www.missouribusiness.net/)
@@ -106,9 +110,13 @@ The Ewing Marion Kauffman Foundation has supported entrepreneurship in Kansas Ci
 - [Economic Development Corporation of Kansas City](http://www.edckc.com/)
 - [Veteran's Business Resource Center](http://www.vetbiz.com/)
 
-**FUNDING OPPORTUNITIES**
+**FUNDING AND FINANCING RESOURCES**
 
 - [Launch KC](http://www.launchkc.org/)
+- [Alt-Cap](https://www.alt-cap.org/)
+- [SBA Funding Programs](https://www.sba.gov/funding-programs)
+- [Foundation Directory Online](https://www.kclibrary.org/research-resources/research-databases/foundation-directory-online) (for non-profits and individuals)
+
 - [Women’s Capital Connection](http://womenscapitalconnection.com/)
 - [Digital Sandbox-KC](http://www.digitalsandboxkc.com/)
 - [GoFundMe](https://www.gofundme.com/)
@@ -218,7 +226,7 @@ Use the website [Glassdoor](http://www.glassdoor.com/index.htm) to learn about d
 2. You will want to identify the businesses who are already engaged in this industry.
    To identify the large companies, use [Business Insights: Global](https://www.kclibrary.org/research-resources/research-databases/business-insights-global). Business Insights includes profiles of companies from all over the world. (_Library card is required to access this resource from outside the Library._)
 
-   You might be more interested in the smaller companies and/or the local companies in your industry. To find these companies use AtoZdatabases. AtoZ includes only US companies, while Business Insights includes US and international companies. (Library card is required to access these resources from outside the Library.)
+   You might be more interested in the smaller companies and/or the local companies in your industry. To find these companies use [AtoZdatabases](https://www.kclibrary.org/research-resources/research-databases/atozdatabases). AtoZ includes only US companies, while Business Insights includes US and international companies. (Library card is required to access these resources from outside the Library.)
 
 3. What trends are currently impacting your industry?: Technology, new products, the economy, demographic changes, regulations, new competition, changes in lifestyles? You can read about your industry by using
    - [Business Insights: Global](https://www.kclibrary.org/research-resources/research-databases/business-insights-global) This database includes hundreds of comprehensive industry reports, including major companies, trends, and financial information. (Library card is required to access this database from outside the Library).
@@ -311,9 +319,9 @@ As you start your statistics research, ask yourself these questions:
 - What specific statistics do I need to find?
 - What geographic level (state, county, zip code, census tract) do I need?
 - Do I need just the current figures or do I want historical numbers for trend analysis?
-- Do I need economic statistics (number of businesses, employment figures) or demographic/social characteristic numbers? For demographic research information, check our <span style="background-color:red;">[Demographic Research](https://kclibrary.org/business-career/demographic-research) guide</span>.
+- Do I need economic statistics (number of businesses, employment figures) or demographic/social characteristic numbers?
 
-Census Business Builder, the Economic Census, and FedStats
+**Census Business Builder, the Economic Census, and FedStats**
 
 An online source you should consult first is [Census Business Builder](https://www.census.gov/data/data-tools/cbb.html). CBB is an interactive website that provides access to useful demographic and economic data from the Census Bureau and other reliable sources in an easy-to-use, map-based format.
 
