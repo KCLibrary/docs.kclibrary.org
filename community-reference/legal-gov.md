@@ -44,11 +44,11 @@ Please consider contacting a lawyer before attempting self-help. A separate docu
 
 Library staff can not provide legal advice at the Library, but we can share information about available resources. During the Library’s temporary closure, we’re also able to provide remote access to Westlaw by appointment. Please email me if you would like to schedule access to Westlaw.
 
-If you require legal representation, please consider these resources curated by Findlaw.
+If you require legal representation, please consider these resources curated by [Findlaw](https://statelaws.findlaw.com/missouri-law/free-legal-aid-in-kansas-city.html).
 
 **[American Civil Liberties Union of Kansas and Missouri](https://aclukswmo.org/)**
 
-3601 Main Street | Kansas City, MO 64111 | Tel: (816) 756-3113
+3601 Main Street | Kansas City, MO 64111 | Ph: (816) 756-3113
 
 Areas of Law: Discrimination, Election and Voting, Freedom Speech, Freedom of Religion, Immigration Rights, LGBT Rights, Privacy, Police Practices, Jail and Prison Conditions, and other issues of fair treatment by government.
 
@@ -56,7 +56,7 @@ Good to Know: The ACLU does not usually assist in the following types of cases: 
 
 **[Kansas Legal Services](http://www.kansaslegalservices.org/)**
 
-400 State Avenue, Suite 1015 | Kansas City, KS 66101 | Tel: (913) 621-0200
+400 State Avenue, Suite 1015 | Kansas City, KS 66101 | Ph: (913) 621-0200
 
 Areas of Law: Consumer/Financial, Housing, Elder Law, Education, Juvenile, Employment, Family, Native American Issues, Health, and Immigration
 
@@ -98,21 +98,13 @@ Areas of Law: Immigration, Deportation/Removal Proceedings
 
 Good to Know: The Clinic provides free or discounted fees for legal services to qualifying individuals in immigration removal proceedings based on income levels. Depending on eligibility, some services may require a nominal fee.
 
-**Law School Clinics**
+Additional ways to search for legal representation include the following:
 
-**[University of Missouri Kansas City School of Law](http://law.umkc.edu/academics/clinics.asp)**
+- [Avvo](https://www.avvo.com/) has ratings, reviews, and disciplinary records for lawyers in every state. 
+- Search [Martindale's directory](https://www.martindale.com/find-attorneys/) for law firms and lawyers using location or area of practice.
+- Find your lawyer with the [FindLaw Lawyers Directory](https://lawyers.findlaw.com/), where you can find profiles of local lawyers and law firms.
+- The Missouri Bar Association provides [LawyerSearch](https://mobar.org/public/LawyerSearch.aspx) to help you find a lawyer currently accepting new clients. *Not all Missouri lawyers are listed in LawyerSearch - only those who have indicated that they would like to be included.* You can search by areas of practice or location (city or county).
 
-500 East 52nd Street | Kansas City, MO 64110 | Tel: (816) 235-1657
-
-Areas of Law: Child and Family Services, Guardian ad Litem, Entrepreneurial Legal Services Clinic, Tax Clinic, The Midwestern Innocence Project
-
-Good to Know: Students represent clients under supervision. Restrictions apply. Call the individual program listed below to learn more:
-
-- Family Services: (816) 235-6336
-- Guardian ad Litem: (816) 235-6298
-- Entrepreneurial: (816) 235-6341
-- Tax: (816) 235-6201
-- Innocence Project: (816) 235-1644
 
 ---
 
