@@ -150,6 +150,7 @@ If you need help working in Westlaw, please consider using [Westlaw’s training
 ---
 
 ## Landlord/Tenant Resources
+
 [Eviction Moratorium until August 23, 2020](https://crsreports.congress.gov/product/pdf/IN/IN11320) - CARES Act Section 4024(b) prohibits landlords of certain rental “covered dwellings” from initiating eviction proceedings or “charg[ing] fees, penalties, or other charges” against a tenant for the nonpayment of rent. (Congressional Research Service, April 7, 2020)
 
 If you have questions about words in your lease or in landlord-tenant communications, Missouri Legal Services created a [Glossary of Commonly Used Missouri Landlord-Tenant Housing Terms](https://www.lsmo.org/node/643/glossary-commonly-used-missouri-landlord-tenant-housing-terms) (revised June 2013).
@@ -158,9 +159,9 @@ If you have questions about words in your lease or in landlord-tenant communicat
 
 By Phone
 
-If you prefer talking with someone over the phone, consider calling Legal Aid of Western Missouri ((816) 474-6750) or Heartland Center for Jobs and Freedom ((816) 278-1344) to work with an attorney. 
+If you prefer talking with someone over the phone, consider calling Legal Aid of Western Missouri ((816) 474-6750) or Heartland Center for Jobs and Freedom ((816) 278-1344) to work with an attorney.
 
-If you have questions as a tenant, KC Tenants established a hotline ((816) 533-5435).  They invite you to call with any questions, concerns, or incident reports. If their grassroots leaders miss your call, they will get back to you within 24 hours. Please let them know if you need more urgent assistance.
+If you have questions as a tenant, KC Tenants established a hotline ((816) 533-5435). They invite you to call with any questions, concerns, or incident reports. If their grassroots leaders miss your call, they will get back to you within 24 hours. Please let them know if you need more urgent assistance.
 
 Legal Aid of Western Missouri in the Community
 
@@ -170,11 +171,11 @@ This clinic is open Thursdays 12.45-3 on the 7th floor of the downtown Jackson C
 
 [Self-Help Law Clinic at UMKC Law School](https://www.umkc.edu/news/posts/2019/april/UMKC-School-of-Law-Announces-Self-Help-Legal-Clinic.html)
 
-The clinic is open Mondays, Wednesdays and Fridays between 10 a.m. and 2 p.m., with no appointment necessary. Attorneys are also available by phone, 816-235-2271.  
+The clinic is open Mondays, Wednesdays and Fridays between 10 a.m. and 2 p.m., with no appointment necessary. Attorneys are also available by phone, 816-235-2271.
 
-Legal Aid in the Library 
+Legal Aid in the Library
 
-Attorneys from Legal Aid of Western Missouri are at the Central Library 14 W. 10th Street, KCMO 64105) on Thursdays from 1-3 
+Attorneys from Legal Aid of Western Missouri are at the Central Library 14 W. 10th Street, KCMO 64105) on Thursdays from 1-3
 
 **Online Resources**
 
@@ -187,24 +188,24 @@ There are several ways to file a complaint with the Health Department. You may c
 
 **Heartland Center for Jobs and Freedom**
 
-* [My basic rights as a Missouri tenant](http://www.jobsandfreedom.org/missouri-landlord-tenant-law)
-* [My landlord is suing me](http://www.jobsandfreedom.org/being-sued-by-landlord)
-* [My home doesn't have heat or is otherwise unsafe or unlivable](http://www.jobsandfreedom.org/tenant-rights-1)
-* [How can I protect myself?](http://www.jobsandfreedom.org/protecting-yourself-from-landlord-issues)
-* [I want my deposit back](http://www.jobsandfreedom.org/return-my-deposit)
-* [Helpful forms for tenants](http://www.jobsandfreedom.org/forms-for-tenants) (NOTE: These forms are not nor are they intended to be legal advice. You should consult an attorney for individual advice regarding your own situation.)	
-  * [COVID-19 Negotiating Letter and Settlement Form](https://gina-chiala-71x2.squarespace.com/s/COVID-19-letter-and-settlement-form.docx)
-  * [Needed Repairs](https://gina-chiala-71x2.squarespace.com/s/LtrWarrantyHabitability.docx)
-  * [Notice that You will be Vacating](https://gina-chiala-71x2.squarespace.com/s/NoticeToVacate.docx)
-  * [Requesting Your Deposit and Providing Forwarding Address](https://gina-chiala-71x2.squarespace.com/s/Letter-Return-My-Deposit.docx)
-  * [Complaint if Landlord Failed to Return Your Deposit](https://www.16thcircuit.org/small-claims-forms)
-  * [Answer and Counterclaim for Habitability Issues](https://static1.squarespace.com/static/56214c93e4b0126253f97afd/t/5d0277ca169b78000192df1e/1560442826551/Answer%2Band%2BCounterclaim_SHORT+.pdf)
+- [My basic rights as a Missouri tenant](http://www.jobsandfreedom.org/missouri-landlord-tenant-law)
+- [My landlord is suing me](http://www.jobsandfreedom.org/being-sued-by-landlord)
+- [My home doesn't have heat or is otherwise unsafe or unlivable](http://www.jobsandfreedom.org/tenant-rights-1)
+- [How can I protect myself?](http://www.jobsandfreedom.org/protecting-yourself-from-landlord-issues)
+- [I want my deposit back](http://www.jobsandfreedom.org/return-my-deposit)
+- [Helpful forms for tenants](http://www.jobsandfreedom.org/forms-for-tenants) (NOTE: These forms are not nor are they intended to be legal advice. You should consult an attorney for individual advice regarding your own situation.)
+  - [COVID-19 Negotiating Letter and Settlement Form](https://gina-chiala-71x2.squarespace.com/s/COVID-19-letter-and-settlement-form.docx)
+  - [Needed Repairs](https://gina-chiala-71x2.squarespace.com/s/LtrWarrantyHabitability.docx)
+  - [Notice that You will be Vacating](https://gina-chiala-71x2.squarespace.com/s/NoticeToVacate.docx)
+  - [Requesting Your Deposit and Providing Forwarding Address](https://gina-chiala-71x2.squarespace.com/s/Letter-Return-My-Deposit.docx)
+  - [Complaint if Landlord Failed to Return Your Deposit](https://www.16thcircuit.org/small-claims-forms)
+  - [Answer and Counterclaim for Habitability Issues](https://static1.squarespace.com/static/56214c93e4b0126253f97afd/t/5d0277ca169b78000192df1e/1560442826551/Answer%2Band%2BCounterclaim_SHORT+.pdf)
 
 **KC Tenants**
 
 KC Tenants created this [Incident Report](https://kctenants.org/incident-report) as a safe place to report incidents related to housing / homelessness / COVID19. If you or someone you know is in crisis, facing harassment from a landlord, or if you just have a question about your rights, please submit your story and basic information to this form. We commit to get back to you within 24 hours. Please indicate if you need more urgent assistance.
 
-If you have a health issue in your home and you have already called Healthy Homes and the issue wasn’t resolved, KC Tenants can look into it after reviewing the incident report. 
+If you have a health issue in your home and you have already called Healthy Homes and the issue wasn’t resolved, KC Tenants can look into it after reviewing the incident report.
 
 [Missouri's Landlord Tenant Law (from the Missouri Attorney General, revised March 2019)](https://ago.mo.gov/docs/default-source/publications/landlord-tenantlaw.pdf?sfvrsn=4%20)
 
@@ -212,27 +213,28 @@ If you have a health issue in your home and you have already called Healthy Home
 
 [Missouri Legal Services – Housing Issues](https://www.lsmo.org/topics/2305/housing)
 
-Each of these issues has its own pages with more information! 
-* [Abandonment](https://www.lsmo.org/node/648/abandonment)
-* [Foreclosure of A Rental Unit](https://www.lsmo.org/node/646/foreclosure-rental-unit)
-* [Guide to Home Ownership for People with Disabilities](https://www.lsmo.org/node/858/guide-home-ownership-people-disabilities)
-* [Landlord-Tenant Duties and Rights](https://www.lsmo.org/node/651/landlord-tenant-duties-and-rights)
-* [Leases](https://www.lsmo.org/node/653/leases)
-* [Repair and Deduct](https://www.lsmo.org/node/649/repair-and-deduct)
-* [Repairs to a Rental Unit](https://www.lsmo.org/node/650/repairs-rental-unit)
-* [Sale of the Unit You Rent](https://www.lsmo.org/node/647/sale-unit-you-rent)
-* [Security Deposits](https://www.lsmo.org/node/652/security-deposits)
+Each of these issues has its own pages with more information!
+
+- [Abandonment](https://www.lsmo.org/node/648/abandonment)
+- [Foreclosure of A Rental Unit](https://www.lsmo.org/node/646/foreclosure-rental-unit)
+- [Guide to Home Ownership for People with Disabilities](https://www.lsmo.org/node/858/guide-home-ownership-people-disabilities)
+- [Landlord-Tenant Duties and Rights](https://www.lsmo.org/node/651/landlord-tenant-duties-and-rights)
+- [Leases](https://www.lsmo.org/node/653/leases)
+- [Repair and Deduct](https://www.lsmo.org/node/649/repair-and-deduct)
+- [Repairs to a Rental Unit](https://www.lsmo.org/node/650/repairs-rental-unit)
+- [Sale of the Unit You Rent](https://www.lsmo.org/node/647/sale-unit-you-rent)
+- [Security Deposits](https://www.lsmo.org/node/652/security-deposits)
 
 **[Self-Help for Tenants, Legal Aid of Western Missouri, K.C., MO](https://www.lsmo.org/node/828/self-help-tenants-legal-aid-western-missouri-kc-mo)**
 
-These self-help guides are for use in the Western Missouri service area only: They were updated in February 2020. 
-* [Tenant Booklet - A Guide to Rent and Possession](https://www.lsmo.org/sites/lsmo.org/files/2 - Tenant Booklet - A Guide To Rent and Possession.pdf)
-* [Answer to Landlord's Complaint with Instructions (Rent and Possession)](https://www.lsmo.org/sites/lsmo.org/files/3%20-%20Answer%20to%20Landlord%27s%20Complaint%20with%20Instrcuctions%20%28Rent%20and%20Possession%29.pdf) “If a tenant owes rent, the landlord can file a rent and possession case at any time without notice other than the summons.”
-* [Answer with Counterclaim and Affirmative Defenses (Rent and Possession)](https://www.lsmo.org/sites/lsmo.org/files/4%20-%20Answer%20with%20Counterclaim%20and%20Affirmative%20Defenses%20%28Rent%20and%20Possession%29.pdf) Affirmative defenses are “reasons why the tenant doesn’t owe the money other than the tenant has paid in full…"
-* [Answer without Counterclaim or Affirmative Defenses (Rent and Possession)](https://www.lsmo.org/sites/lsmo.org/files/5-%20Answer%20without%20Counterclaim%20or%20Affirmative%20Defenses%20%28Rent%20and%20Possession%29.pdf)
-* [Judgment for Defendant (Tenant) Form](https://www.lsmo.org/sites/lsmo.org/files/6-%20Judgment%20for%20Defendant%20%28Tenant%29%20Form.pdf)
-* [Small Claims Guide and Return of Security Deposit Petition](https://www.lsmo.org/sites/lsmo.org/files/7%20-%20Small%20Claims%20Guide%20and%20Return%20of%20Security%20Deposit%20Petition.pdf)
+These self-help guides are for use in the Western Missouri service area only: They were updated in February 2020.
+
+- [Tenant Booklet - A Guide to Rent and Possession](https://www.lsmo.org/sites/lsmo.org/files/2%20-%20Tenant%20Booklet%20-%20A%20Guide%20To%20Rent%20and%20Possession.pdf)
+- [Answer to Landlord's Complaint with Instructions (Rent and Possession)](https://www.lsmo.org/sites/lsmo.org/files/3%20-%20Answer%20to%20Landlord%27s%20Complaint%20with%20Instrcuctions%20%28Rent%20and%20Possession%29.pdf) “If a tenant owes rent, the landlord can file a rent and possession case at any time without notice other than the summons.”
+- [Answer with Counterclaim and Affirmative Defenses (Rent and Possession)](https://www.lsmo.org/sites/lsmo.org/files/4%20-%20Answer%20with%20Counterclaim%20and%20Affirmative%20Defenses%20%28Rent%20and%20Possession%29.pdf) Affirmative defenses are “reasons why the tenant doesn’t owe the money other than the tenant has paid in full…"
+- [Answer without Counterclaim or Affirmative Defenses (Rent and Possession)](https://www.lsmo.org/sites/lsmo.org/files/5-%20Answer%20without%20Counterclaim%20or%20Affirmative%20Defenses%20%28Rent%20and%20Possession%29.pdf)
+- [Judgment for Defendant (Tenant) Form](https://www.lsmo.org/sites/lsmo.org/files/6-%20Judgment%20for%20Defendant%20%28Tenant%29%20Form.pdf)
+- [Small Claims Guide and Return of Security Deposit Petition](https://www.lsmo.org/sites/lsmo.org/files/7%20-%20Small%20Claims%20Guide%20and%20Return%20of%20Security%20Deposit%20Petition.pdf)
 
 [Tips Before You Rent](https://www.lsmo.org/node/655/tips-you-rent)
 [What is Joint Tenancy?](https://www.lsmo.org/node/469/what-joint-tenancy)
-
