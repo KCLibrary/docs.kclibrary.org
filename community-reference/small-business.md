@@ -343,3 +343,77 @@ Other government agencies collect data related to their area of responsibility. 
 **KANSAS CITY AREA STATISTICS**
 
 Although federal statistical sources provide some local data, there are additional sources. The [Mid-American Regional Council](http://marc.org/) (MARC) is the regional planning organization for nine counties and 120 cities. MARC maintains a website called [Metro Dataline](http://www.marc.org/Data-Economy/Metrodataline) that includes some Census data as well as a wealth of metro-level economic, demographic and transportation statistics.
+
+---
+
+## Small Business During COVID-19
+
+During difficult and uncertain times finding resources to plan, seek funds or otherwise navigate changing realities can help you manage today and prepare for the future. With an abundance of information available to you online this guide is an overview of the resources available to you as we continue to adapt to new ways of working and communicating.
+
+
+
+**Immediate Funding and Financing**
+Emergency financing, low interest loans and grants are available to businesses and employees impacted through various organizations and collectives. Quick action is recommended as there is high demand for all forms of funding and financing. 
+
+[SBA Economic Injury Disaster Loans](https://www.sba.gov/funding-programs/disaster-assistance), administered directly from the Small Business Association are low interest loans for businesses impacted by Covid-19. 
+
+[Foundation Directory Online](https://www.kclibrary.org/research-resources/research-databases/foundation-directory-online) is now available to you at home through the digital collection with your library card. Search for available grants for 501c3s and individuals. 
+
+*For Artists and Gig Workers*
+
+[Charlotte Street Rocket Relief Fund](https://charlottestreet.org/awards/rocket-relief-fund/) is available and accepting applicants on a rolling basis. The first notifications of grantees will start May 1 and each following week ten artists and notified until all funds are distributed.  
+
+[Artist Relief](https://www.artistrelief.org/?mc_cid=5f8243b702&mc_eid=59c0e9f479) grants are available for artists dedicated to their careers who demonstrate financial impact due to COVID-19. Read through the website for additional eligibility criteria and to apply. 
+
+[Seed Commons Worker Response Fund](https://givingcompass.org/fund/seed-commons-worker-reponse-fund/) currently available to impacted co-ops across the Giving Compass Network. 
+
+[Missouri Department of Labor:](https://labor.mo.gov/coronavirus) If you’re an impacted gig worker, independent contractor or self-employed check the Missouri Department of Labor website often for updates on applying for and receiving unemployment benefits. 
+
+[The Professional Beauty Association COVID-19 Relief Fund](https://www.probeauty.org/covid-relief-fund-application) is currently available for beauty professionals who haven’t been able to work due to COVID-19. 
+
+Organizations like [Midwest Music Foundation](https://midwestmusicfoundation.org/), [National Restaurant Association](https://rerf.us/apply-for-aid/), and [Freelancers Union](https://www.freelancersunion.org/resources/freelancers-relief-fund/) are raising funds to make available to restaurant workers and freelancers respectively. Sign up for updates or check the websites to stay current on the availability of funds. 
+
+**Mentorship and Strategizing Services** 
+
+For business owners seeking guidance during turbulent times, free resources are available to help you pivot to digital, learn more about your existing customers and speak with an expert one-on-one. 
+* [Demographics Now](https://www.kclibrary.org/research-resources/research-databases/demographicsnow) is a powerful tool to help you with market research. For current business owners with customers Demographics Now can also help you learn more about your customer base. Use it on your own with an excel file (.csv format) or book an appointment with [Small Business Specialist Hadiza Sa-Aadu](https://www.kclibrary.org/contact-us-form?id=26910&email=0) for help. 
+* Email and tele-counseling available by [Women's Business Center](http://kansaswbc.com/about_us/contact) 
+* Virtual mentorship and classes available by [SCORE](https://kansascity.score.org/)
+
+**Deciding to Close**
+
+If you’re facing the decision to close your business there are resources available to you to help specifically with the transition. 
+* [The SBDC outlines the steps](https://sbdc.missouri.edu/news/how-do-i-close-a-business-3831) involved in closing a business.
+* [The SBA's guide](https://www.sba.gov/business-guide/manage-your-business/close-or-sell-your-business) to closing or selling your business.
+
+**Data and Research**
+
+[KC Sourcelink](https://www.kcsourcelink.com/coronavirus-business-resources) constantly updates the resources, learning opportunities and networking events available for business owners affected by COVID-19 and people working on pre-operational ideas. Set up an appointment with a resource navigator to connect directly with business resources from funding to counseling. 
+
+*Data*
+
+[US Census](https://covid19.census.gov/): COVID-19 Demographic and Economic resources
+[Impact of COVID-19 Crisis: Insights from Global Startup Survey with the Voice of the Entrepreneurs](https://startupgenome.com/blog/covid19-insights-global-startup-survey)
+
+[Federal Reserve Bank of Philadelphia: Which Workers Will Be Most Impacted? ](https://www.philadelphiafed.org/covid-19/covid-19-equity-in-recovery/which-workers-will-be-most-impacted)
+
+[John's Hopkins University Coronavirus Map](https://coronavirus.jhu.edu/map.html): world map and national map(s) with state/province and county detail. 
+
+*Re-Opening Guides and Food for Thought*
+
+[Gensler: Retail Re-Opening Guide](https://www.gensler.com/research-insight/blog/re-entry-for-retailers-returning-to-the-store)
+
+[Start Us Up Now: Rebuilding Better](https://www.startusupnow.org/wp-content/uploads/sites/12/2020/04/America%E2%80%99s-New-Business-Plan-Rebuilding-Better.pdf)
+
+**Startups and New Businesses**
+
+Sometimes sudden changes create opportunities to bring fresh ideas closer to life. For entrepreneurs thinking about the next step or anyone thinking about getting into small business ownership these resources are for you.
+
+[Digital Sandbox](https://www.digitalsandboxkc.com/about-us/mission) is available for proof-of-concept stage startups seeking commercialization and scaling assistance to receive funding and other resources.
+
+[KC Collective](https://kccollective.org/join-now/) provides access to a plethora of digital resources to entrepreneurs.  Membership is available to early stage active startup founders in Kansas City.
+
+[FranNet](https://frannet.com/) is an online network providing access to free learning materials and counseling for those who may be interested in franchise ownership. 
+
+Ready to learn more about your legal options as a new business owner? Use [Legal GPS](https://www.kclibrary.org/research-resources/research-databases/legal-gps) with your library card to help you gain clarity on tax structures, state structures and much more. 
+
