@@ -357,6 +357,11 @@ Emergency financing, low interest loans and grants are available to businesses a
 
 [SBA Economic Injury Disaster Loans](https://www.sba.gov/funding-programs/disaster-assistance), administered directly from the Small Business Association are low interest loans for businesses impacted by Covid-19. 
 
+[LISC Small Business Relief Grant](https://www.lisc.org/kansas-city/regional-stories/sba-paycheck-protection-program-KC/) is currently open for applicants who are seeking an alternative to financing. Be sure to read the online [FAQ](https://www.lisc.org/covid-19/small-business-assistance/small-business-relief-grants/frequently-asked-questions/?utm_medium=email&utm_campaign=eAnnouncement%20Small%20Business%20Relief%20Grant%20Application%20Confirmation%20Round%202%20Batch%201&utm_content=eAnnouncement%20Small%20Business%20Relief%20Grant%20Application%20Confirmation%20Round%202%20Batch%201+CID_73759f177c02198ea6736057d028de82&utm_source=Email%20marketing%20software&utm_term=LISCs%20FAQ) for updated information about the current and future rounds.
+
+[LISC Paycheck Protection Program](https://www.lisc.org/kansas-city/regional-stories/sba-paycheck-protection-program-KC/) assists small business owners who were unable to receive SBA loans during the first round. The application is open to minority, veteran and women owned small businesses and business owners receive assistance navigating the PPP application process. 
+
+
 [Foundation Directory Online](https://www.kclibrary.org/research-resources/research-databases/foundation-directory-online) is now available to you at home through the digital collection with your library card. Search for available grants for 501c3s and individuals. 
 
 *For Artists and Gig Workers*
