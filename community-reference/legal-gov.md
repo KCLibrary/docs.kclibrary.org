@@ -114,6 +114,12 @@ For definitions of legal terms:
 - **[Wex](https://www.law.cornell.edu/wex/)**, a free legal dictionary and encyclopedia sponsored and hosted by the Legal Information Institute
 - **[The Law Dictionary](http://thelawdictionary.org/)**, featuring Black’s Law Dictionary Free Online Legal Dictionary 2nd Ed.
 
+To help you get started in legal research
+
+- [NOLO Legal Research](https://www.nolo.com/legal-research#role) provides definitions and can help you understand whether you should research statutes, case law, court cases, or local ordinances.
+- If you need help working in Westlaw, please consider using [Westlaw’s training and support website](https://legal.thomsonreuters.com/en/support/westlaw). 
+
+
 **[Findlaw's Supreme Court Opinions](http://caselaw.findlaw.com/court/us-supreme-court)**
 
 Supreme Court opinions since 1760 browsable by year and U.S. Reports volume number, searchable by party name, case title, citation, full text and docket number. FindLaw maintains an archive of Supreme Court opinion summaries from September 2000 to the present.
@@ -138,6 +144,9 @@ The Kansas City Municipal Division of the 16th Judicial Circuit Court of Missour
 **[Missouri CaseNet](https://www.courts.mo.gov/casenet/base/welcome.do)**
 
 CaseNet provides access to the Missouri state courts automated case management system. You can use CaseNet to research case records including docket entries, parties, judgments and charges in public court.
+
+**[Missouri Free Legal Answers](https://missouri.freelegalanswers.org/)
+Missouri Legal Answers is a statewide virtual legal advice clinic. This program is provided through the assistance of the American Bar Association and is free. Qualifying users post their civil legal questions. Missouri pro bono attorney volunteers, who are authorized to provide pro bono assistance in Missouri, log in to the website, select questions to answer, and provide legal information and advice. Users are then emailed when their question receives a response.
 
 **Westlaw**
 
