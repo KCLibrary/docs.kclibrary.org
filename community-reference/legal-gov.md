@@ -64,6 +64,7 @@ Attorneys of Legal Aid of Western Missouri are updating resources related to
 - Consumer Issues (Student Loans, [Homeowner & Renter Help (CFPB)](https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/), and more)
 
 **[Missouri Legal Services' COVID-19 resources](https://www.lsmo.org/topics/2323)**
+
 The Legal Services of Eastern Missouri has developed informational brochures that may help you.
 
 - [Education Rights for Homeless Students](https://www.lsmo.org/node/861/covid-19-education-rights-homeless-students)
