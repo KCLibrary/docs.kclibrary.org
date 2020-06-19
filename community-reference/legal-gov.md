@@ -78,7 +78,6 @@ The Legal Services of Eastern Missouri has developed informational brochures tha
 - [Tenant Rights and Fact Sheet](https://www.lsmo.org/node/867/covid-19-tenant-rights-and-fact-sheet)
 - [Unemployment](https://www.lsmo.org/node/868/covid-19-unemployment)
 
-
 **NOLO**
 
 NOLO experts provide legal updates and information on emergency orders, government policies, and laws that have been enacted in response to the COVID-19 outbreak. These resources can help you answer questions about your rights to paid sick leave, medical leave, unemployment insurance, workers’ compensation, or disability benefits.
@@ -237,6 +236,10 @@ If you need help working in Westlaw, please consider using [Westlaw’s training
 ## Landlord/Tenant Resources
 
 [Eviction Moratorium until August 23, 2020](https://crsreports.congress.gov/product/pdf/IN/IN11320) - CARES Act Section 4024(b) prohibits landlords of certain rental “covered dwellings” from initiating eviction proceedings or “charg[ing] fees, penalties, or other charges” against a tenant for the nonpayment of rent. (Congressional Research Service, April 7, 2020)
+
+**[Propublica](https://www.propublica.org/)**
+
+Consider using [Propublica's database](https://projects.propublica.org/covid-evictions/) to search apartment buildings nationwide to find out if your rental unit may qualify for eviction protection. (This database contains addresses for more than 177,000 buildings with five or more units that have mortgages backed by Fannie Mae or Freddie Mac; those insured by the Federal Housing Administration; and properties that are part of certain low-income housing programs. Some properties that qualify for federal protections, including ones with fewer than five units backed by Fannie Mae and Freddie Mac, are not in the Propublica database.)
 
 If you have questions about words in your lease or in landlord-tenant communications, Missouri Legal Services created a [Glossary of Commonly Used Missouri Landlord-Tenant Housing Terms](https://www.lsmo.org/node/643/glossary-commonly-used-missouri-landlord-tenant-housing-terms) (revised June 2013).
 
