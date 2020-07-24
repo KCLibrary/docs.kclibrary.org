@@ -290,3 +290,42 @@ Once you graduate from an accredited vocational program you may be required to t
 **PAY EQUITY**
 * For data and research on the pay gap by gender and race review the [Simple Truth About the Gender Pay Gap](https://www.aauw.org/resources/research/simple-truth/) from the AAUW. 
 * Take the [WorkSmart Salary Negotiation Online Course](https://www.aauw.org/resources/programs/salary/) from the AAUW. 
+
+---
+
+## Navigating Unemployment
+
+**OVERVIEW**
+- Unemployment benefits, also called unemployment insurance is money that is government pays you if you lose your job through no fault of your own. The benefits also called payments are temporary financial assistance while you are not working. 
+- To apply, you must file an initial application to determine your eligibility. If you are deemed eligible, you will need to submit weekly claims each week. 
+- File for unemployment in the state where you worked, not the state where you live. 
+- You must meet the unemployment requirements in the state where you worked to be eligible. 
+- There is never a charge to file unemployment. 
+- Unemployment benefits are considered taxable income by the IRS. 
+
+**INITIAL APPLICATION**
+- Use your legally given name on your application.
+- You will need your Social Security number. If you worked in Kansas, you will also need either your Driver’s License or State ID in addition to your Social Security number. 
+- It is helpful to know your total earnings for the week (Sunday-Saturday) before taxes and deductions 
+- You will also need your name, address, an dates of the past 18 months of employment. 
+- Routing and Account numbers for your bank account if you plan to use direct deposit. 
+- Once you have applied, your application will be reviewed by the state Department of Labor. 
+
+**RECEIVING PAYMENTS**
+- If you are deemed eligible, the fastest method to receive payments is to provide banking information (routing and account number) during the application process. This allows the payment to go directly into your bank account. 
+- You can also receive your unemployment payment through the mail as a paper check. 
+- Some states allow payments to be loaded on pre-paid debit cards.  
+
+**UNEMPLOYMENT IN MISSOURI**
+1.	Set-up an account on [Uinteract.labor.mo.gov](https://uinteract.labor.mo.gov/benefits/home.do). You will create a User ID and password. Make sure to remember and save your User ID and Password in a safe place so you can log back in. Do not share it with anyone else. 
+2.	Login and file your unemployment claim.
+3.	File weekly requests for payment.
+
+Watch [video tutorials](https://labor.mo.gov/DES/videos) for filing in Missouri, review [FAQs](https://labor.mo.gov/DES/Claims/helptopics_web), or visit [Missouri Department of Labor’s website](https://labor.mo.gov/unemployed-workers).
+
+**UNEMPLOYMENT IN KANSAS**
+1.	Set-up an account on [getkansasbenefits.gov](https://getkansasbenefits.gov/BenefitsStartMenu.aspx). You will create a username, password, and 4 digit PIN. Make sure you remember and save this information in a safe place so you can log back in. Do not share it with anyone else. 
+2.	Login and file your unemployment claim.
+3.	File weekly requests for payment.
+
+Watch [video tutorials](https://www.dol.ks.gov/tutorials) for filing in Kansas, review [FAQs](https://www.dol.ks.gov/ui-faqs), or visit the [Kansas Department of Labor’s website](https://www.getkansasbenefits.gov/Home.aspx). 
