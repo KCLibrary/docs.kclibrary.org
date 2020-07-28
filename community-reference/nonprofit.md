@@ -1,13 +1,13 @@
 # Non-Profits
 
-<img src="https://www.kclibrary.org/sites/default/files/Kelly.png" alt="Kelly Mahon" align="right" width="25%" />
+<img src="https://www.kclibrary.org/sites/default/files/Hadiza.png" alt="Hadiza SaAadu" align="right" width="25%" />
 
-The Kansas City Public Library is a Funding Information Network partner of the Foundation Center, a grants-research organization based in New York. Contact us for assistance using the Foundation Directory and our other business and non-profit resources.
+Our Small Business Engagement Specialist is here to help small businesses and entrepreneurs get connected to the resources and partners they need. We have books and electronic resources that will help you write a business plan, enhance your marketing, develop your staff, and network with local agencies and organizations that support entrepreneurship. Visit with our Small Business Engagement Specialist during office hours or schedule a one-on-one appointment.
 
-**Contact Kelly Mahon**:  
-[Email](https://www.kclibrary.org/contact-us-form?id=26910&email=4) | **Phone**: 816.701.3658 | [Schedule an Appointment](https://calendly.com/kellymahon)
+**Contact Hadiza SaAadu**:  
+[Email](https://www.kclibrary.org/contact-us-form?id=26910&email=0) | **Phone**: 816.701.3659 | [Schedule an Appointment](https://calendly.com/hadizasaaadu)
 
-Kelly Mahon is the Library's Funding Information Network Supervisor. His responsibilities include overseeing the Foundation Collection and presenting classes on grant research and proposal writing. He works with Kansas City non-profit professionals and assists them in their philanthropic endeavors. Kelly is a certified Foundation Directory Online Trainer and has been with the Kansas City Public Library for over 20 years.
+Hadiza Sa-Aadu is the Library’s Small Business Engagement Specialist. She holds a BA in Economics and French from Emory University and an MBA with a specialization in Data Analytics from the University of Iowa. Her career has spanned marketing, sales and data analytics in both the public and private sectors. She can help you mine and analyze data as you conduct industry research and help you develop a marketing plan. Hadiza is passionate about leveraging data to inspire stakeholders to take action, creative place-making (ask her about this if you’re curious!), mission driven organizations including social enterprises and human centered design.
 
 ---
 
@@ -29,9 +29,16 @@ You should take this diagnostic if:
 
 You can also check out [Harbor Compliance's](https://kclibrary.org/research-resources/research-databases/how-start-non-profit-organization-missouri) information on the process.
 
+**LEGAL ASPECTS OF NON-PROFITS**
+
+[Legal GPS](https://www.kclibrary.org/research-resources/research-databases/legal-gps) is a tool that removes legal barriers for non-profit creation and development by providing a series of step-by-step questionnaires. Create an account to get started or [contact us for help](https://calendly.com/hadizasaaadu).
+
+
 ---
 
 ## Grant Research
+
+Grant research is most easily done using the Library’s access to the [Foundation Directory Online](https://www.kclibrary.org/research-resources/research-databases/foundation-directory-online) and [990 Finder](https://candid.org/research-and-verify-nonprofits/990-finder).
 
 In order to conduct grant research, let’s review what a foundation is.
 
