@@ -9,6 +9,8 @@ We are here to help you succeed in your career search. Need a computer? Use ours
 
 Rhiannon Johnson is the Library’s Career Development and Personal Finance Specialist. She has a Master of Science in Education from the University of Kansas and Bachelor of Art in Organizational Communication Studies from Ball State University. For the past five years, she has served as a career coach at the University of Kansas. Rhiannon can provide coaching on career development topics including resumes cover letters, career transitions, job searching and interviewing techniques. In addition, she also can help connect you to resources for making informed financial decisions.
 
+If you are interested in joining Kansas City Public Library's new job club, contact Rhiannon Johnson.
+
 ---
 
 ## Resumes & Cover Letters
@@ -258,74 +260,82 @@ Once you graduate from an accredited vocational program you may be required to t
 
 ## Salary Negotiation
 
-**GENERAL ADVICE AND INFORMATION** 
-* Salary is comprised of an employer’s assessment of your capabilities, their resources, market rates, and your ability to negotiate.
-* Avoid being the first one to name a figure; use ranges instead.
-* Ask for time to consider the offer. You do not have to accept immediately.
-* Practice with your friends, family, or a career advisor/specialist.
-* Listen carefully to the employer’s needs and values.
-* Give yourself room for negotiation; aim above your target as you discuss numbers.
-* Explain how your experience fits with their goals and what you will contribute.
-* Do your best to negotiate in person or via phone. Use email as a last resort.
-* If salary or monetary compensation is not an option, consider negotiating other aspects of your employment and benefits. Ideas include: start date, vacation and or sick leave, relocation expenses, tuition reimbursement, professional memberships/conferences, retirement plans, stock options, signing bonuses, technology (laptop/phone etc.), parking, work schedule or remote work possibilities, pay for performance system. 
-* Finish with grace. Whether you accept, respectfully decline, or ask for more time to consider the offer, the best practice is to always politely thank the employer for their time and consideration after negotiating.
+**GENERAL ADVICE AND INFORMATION**
+
+- Salary is comprised of an employer’s assessment of your capabilities, their resources, market rates, and your ability to negotiate.
+- Avoid being the first one to name a figure; use ranges instead.
+- Ask for time to consider the offer. You do not have to accept immediately.
+- Practice with your friends, family, or a career advisor/specialist.
+- Listen carefully to the employer’s needs and values.
+- Give yourself room for negotiation; aim above your target as you discuss numbers.
+- Explain how your experience fits with their goals and what you will contribute.
+- Do your best to negotiate in person or via phone. Use email as a last resort.
+- If salary or monetary compensation is not an option, consider negotiating other aspects of your employment and benefits. Ideas include: start date, vacation and or sick leave, relocation expenses, tuition reimbursement, professional memberships/conferences, retirement plans, stock options, signing bonuses, technology (laptop/phone etc.), parking, work schedule or remote work possibilities, pay for performance system.
+- Finish with grace. Whether you accept, respectfully decline, or ask for more time to consider the offer, the best practice is to always politely thank the employer for their time and consideration after negotiating.
 
 **PREPARE AND RESEARCH PRIOR TO NEGOTIATING**
-* Research estimated cost of living in the area where you live and work. 
-* Understand what is typical for the industry where you are working for negotiation practices as well as compensation trends. 
-* Use salary calculators to estimate the typical range and median salary for the position. 
-* Assess your experience and qualifications. Do you exceed them? How so? 
-* Do you possess any specialized experiences or skills that increase your value? 
 
-**TOOLS AND RESOURCES** 
-* Salary Calculators include [Salary Expert](https://www.salaryexpert.com/salarycalculator), [PayScale](https://www.payscale.com/), and [NACE Salary Calculator](https://www.jobsearchintelligence.com/etc/jobseekers/salary-calculator.php)
-* Wage data from the [Bureau of Labor Statistics](https://www.bls.gov/bls/blswage.htm) and [Career OneStop](https://www.careeronestop.org/ExploreCareers/Plan/salaries.aspx)
-* [LinkedIn Salary Tool](https://www.linkedin.com/salary/)
-* [Glassdoor Salary Tool](https://www.glassdoor.com/Salaries/index.htm)
-* [What is Cost of Living and How is it Calculated](https://www.thebalance.com/cost-of-living-define-calculate-compare-rank-3305737)
-* Cost of Living Comparison Calculators from the [Consumer Price Index](https://www.bls.gov/audience/consumers.htm), [CNN Money](https://money.cnn.com/calculator/pf/cost-of-living/), and [Bankrate](https://www.bankrate.com/calculators/savings/moving-cost-of-living-calculator.aspx)
-* [Cost of Living Adjustment](https://www.thebalance.com/what-is-the-cost-of-living-adjustment-3305736)
+- Research estimated cost of living in the area where you live and work.
+- Understand what is typical for the industry where you are working for negotiation practices as well as compensation trends.
+- Use salary calculators to estimate the typical range and median salary for the position.
+- Assess your experience and qualifications. Do you exceed them? How so?
+- Do you possess any specialized experiences or skills that increase your value?
 
+**TOOLS AND RESOURCES**
+
+- Salary Calculators include [Salary Expert](https://www.salaryexpert.com/salarycalculator), [PayScale](https://www.payscale.com/), and [NACE Salary Calculator](https://www.jobsearchintelligence.com/etc/jobseekers/salary-calculator.php)
+- Wage data from the [Bureau of Labor Statistics](https://www.bls.gov/bls/blswage.htm) and [Career OneStop](https://www.careeronestop.org/ExploreCareers/Plan/salaries.aspx)
+- [LinkedIn Salary Tool](https://www.linkedin.com/salary/)
+- [Glassdoor Salary Tool](https://www.glassdoor.com/Salaries/index.htm)
+- [What is Cost of Living and How is it Calculated](https://www.thebalance.com/cost-of-living-define-calculate-compare-rank-3305737)
+- Cost of Living Comparison Calculators from the [Consumer Price Index](https://www.bls.gov/audience/consumers.htm), [CNN Money](https://money.cnn.com/calculator/pf/cost-of-living/), and [Bankrate](https://www.bankrate.com/calculators/savings/moving-cost-of-living-calculator.aspx)
+- [Cost of Living Adjustment](https://www.thebalance.com/what-is-the-cost-of-living-adjustment-3305736)
 
 **PAY EQUITY**
-* For data and research on the pay gap by gender and race review the [Simple Truth About the Gender Pay Gap](https://www.aauw.org/resources/research/simple-truth/) from the AAUW. 
-* Take the [WorkSmart Salary Negotiation Online Course](https://www.aauw.org/resources/programs/salary/) from the AAUW. 
+
+- For data and research on the pay gap by gender and race review the [Simple Truth About the Gender Pay Gap](https://www.aauw.org/resources/research/simple-truth/) from the AAUW.
+- Take the [WorkSmart Salary Negotiation Online Course](https://www.aauw.org/resources/programs/salary/) from the AAUW.
 
 ---
 
 ## Navigating Unemployment
 
 **OVERVIEW**
-- Unemployment benefits, also called unemployment insurance is money that is government pays you if you lose your job through no fault of your own. The benefits also called payments are temporary financial assistance while you are not working. 
-- To apply, you must file an initial application to determine your eligibility. If you are deemed eligible, you will need to submit weekly claims each week. 
-- File for unemployment in the state where you worked, not the state where you live. 
-- You must meet the unemployment requirements in the state where you worked to be eligible. 
-- There is never a charge to file unemployment. 
-- Unemployment benefits are considered taxable income by the IRS. 
+
+- Unemployment benefits, also called unemployment insurance is money that is government pays you if you lose your job through no fault of your own. The benefits also called payments are temporary financial assistance while you are not working.
+- To apply, you must file an initial application to determine your eligibility. If you are deemed eligible, you will need to submit weekly claims each week.
+- File for unemployment in the state where you worked, not the state where you live.
+- You must meet the unemployment requirements in the state where you worked to be eligible.
+- There is never a charge to file unemployment.
+- Unemployment benefits are considered taxable income by the IRS.
 
 **INITIAL APPLICATION**
+
 - Use your legally given name on your application.
-- You will need your Social Security number. If you worked in Kansas, you will also need either your Driver’s License or State ID in addition to your Social Security number. 
-- It is helpful to know your total earnings for the week (Sunday-Saturday) before taxes and deductions 
-- You will also need your name, address, an dates of the past 18 months of employment. 
-- Routing and Account numbers for your bank account if you plan to use direct deposit. 
-- Once you have applied, your application will be reviewed by the state Department of Labor. 
+- You will need your Social Security number. If you worked in Kansas, you will also need either your Driver’s License or State ID in addition to your Social Security number.
+- It is helpful to know your total earnings for the week (Sunday-Saturday) before taxes and deductions
+- You will also need your name, address, an dates of the past 18 months of employment.
+- Routing and Account numbers for your bank account if you plan to use direct deposit.
+- Once you have applied, your application will be reviewed by the state Department of Labor.
 
 **RECEIVING PAYMENTS**
-- If you are deemed eligible, the fastest method to receive payments is to provide banking information (routing and account number) during the application process. This allows the payment to go directly into your bank account. 
-- You can also receive your unemployment payment through the mail as a paper check. 
-- Some states allow payments to be loaded on pre-paid debit cards.  
+
+- If you are deemed eligible, the fastest method to receive payments is to provide banking information (routing and account number) during the application process. This allows the payment to go directly into your bank account.
+- You can also receive your unemployment payment through the mail as a paper check.
+- Some states allow payments to be loaded on pre-paid debit cards.
 
 **UNEMPLOYMENT IN MISSOURI**
-1.	Set-up an account on [Uinteract.labor.mo.gov](https://uinteract.labor.mo.gov/benefits/home.do). You will create a User ID and password. Make sure to remember and save your User ID and Password in a safe place so you can log back in. Do not share it with anyone else. 
-2.	Login and file your unemployment claim.
-3.	File weekly requests for payment.
+
+1. Set-up an account on [Uinteract.labor.mo.gov](https://uinteract.labor.mo.gov/benefits/home.do). You will create a User ID and password. Make sure to remember and save your User ID and Password in a safe place so you can log back in. Do not share it with anyone else.
+2. Login and file your unemployment claim.
+3. File weekly requests for payment.
 
 Watch [video tutorials](https://labor.mo.gov/DES/videos) for filing in Missouri, review [FAQs](https://labor.mo.gov/DES/Claims/helptopics_web), or visit [Missouri Department of Labor’s website](https://labor.mo.gov/unemployed-workers).
 
 **UNEMPLOYMENT IN KANSAS**
-1.	Set-up an account on [getkansasbenefits.gov](https://getkansasbenefits.gov/BenefitsStartMenu.aspx). You will create a username, password, and 4 digit PIN. Make sure you remember and save this information in a safe place so you can log back in. Do not share it with anyone else. 
-2.	Login and file your unemployment claim.
-3.	File weekly requests for payment.
 
-Watch [video tutorials](https://www.dol.ks.gov/tutorials) for filing in Kansas, review [FAQs](https://www.dol.ks.gov/ui-faqs), or visit the [Kansas Department of Labor’s website](https://www.getkansasbenefits.gov/Home.aspx). 
+1. Set-up an account on [getkansasbenefits.gov](https://getkansasbenefits.gov/BenefitsStartMenu.aspx). You will create a username, password, and 4 digit PIN. Make sure you remember and save this information in a safe place so you can log back in. Do not share it with anyone else.
+2. Login and file your unemployment claim.
+3. File weekly requests for payment.
+
+Watch [video tutorials](https://www.dol.ks.gov/tutorials) for filing in Kansas, review [FAQs](https://www.dol.ks.gov/ui-faqs), or visit the [Kansas Department of Labor’s website](https://www.getkansasbenefits.gov/Home.aspx).
