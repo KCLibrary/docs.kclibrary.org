@@ -13,7 +13,7 @@ Hadiza Sa-Aadu is the Library’s Small Business Engagement Specialist. She hold
 
 ## Establishing a Non-Profit
 
-### NONPROFIT STARTUP TOOL ASSESSMENT FROM GRANTSPACE
+**NONPROFIT STARTUP TOOL ASSESSMENT FROM GRANTSPACE**
 
 The [Nonprofit Startup Tool Assessment](https://www.kclibrary.org/research-resources/research-databases/nonprofit-startup-assessment) from [GrantSpace](https://kclibrary.org/research-resources/research-databases/grantspace) is for people who are either considering or are already in the early stages of starting a nonprofit. Questions will assess background knowledge, capital, and work experience that are relevant to starting a nonprofit.
 
