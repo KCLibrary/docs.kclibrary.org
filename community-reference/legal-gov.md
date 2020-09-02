@@ -235,7 +235,7 @@ If you need help working in Westlaw, please consider using [Westlaw’s training
 
 ## Landlord/Tenant Resources
 
-[Eviction Moratorium until August 23, 2020](https://crsreports.congress.gov/product/pdf/IN/IN11320) - CARES Act Section 4024(b) prohibits landlords of certain rental “covered dwellings” from initiating eviction proceedings or “charg[ing] fees, penalties, or other charges” against a tenant for the nonpayment of rent. (Congressional Research Service, April 7, 2020)
+The Center for Disease Control issued an order for a [Temporary Halt in Residential Evictions to Prevent the Further Spread of COVID-19](https://www.federalregister.gov/documents/2020/09/04/2020-19654/temporary-halt-in-residential-evictions-to-prevent-the-further-spread-of-covid-19), effective September 4 - December 31, 2020. Tenants, lessees, or residents of residential properties who are covered by the CDC’s order need to fill out and sign the attachment (found on pages 35-37 of the order), then provide the form to their landlord. 
 
 **[Propublica](https://www.propublica.org/)**
 
