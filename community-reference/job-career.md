@@ -137,7 +137,7 @@ Need a flexible job or a side job that can accommodate your schedule?
 
 ---
 
-## Finding Employment for Special Populations
+## Finding Employment for Specific Populations
 
 Finding a job is challenging enough, but when you have extenuating circumstances it can be even more difficult. Get some peace of mind and advice for navigating the complexities of employment for re-entrants, veterans, individuals with disabilities, career changers, and those affected by a recent job layoff.
 While you're on the job hunt, take some time and learn a new skill to add to your resume. Library self-directed learning resources such as [Lynda.com](https://kclibrary.org/research-resources/research-databases/lyndacom), [Pronunciator](https://kclibrary.org/research-resources/research-databases/pronunciator), and [Universal Class](https://kclibrary.org/research-resources/research-databases/universal-class) are all available to you free-of-charge with a KCPL library card and PIN. No card? No worries! Sign up for an [eCard](https://www.kclibrary.org/services/ecard).
