@@ -46,6 +46,8 @@ Legal Aid of Western Missouri
 
 **If you need assistance, please call the Legal Aid office serving your county. If they are unable to answer your call, please leave a message and your call will be returned. Please visit their [contact page](https://lawmo.org/contact-locate/) for individual office phone numbers.**
 
+If you are a Jackson County resident, own a home, and are worried about paying your mortgage or are already behind on your mortgage, Legal Aid of Western Missouri may be able to help you. This program is for 2020 - please call them at (816) 474-6750.
+
 Attorneys of Legal Aid of Western Missouri are updating resources related to
 
 - Essential services
@@ -236,6 +238,19 @@ If you need help working in Westlaw, please consider using [Westlaw’s training
 ## Landlord/Tenant Resources
 
 The Center for Disease Control issued an order for a [Temporary Halt in Residential Evictions to Prevent the Further Spread of COVID-19](https://www.federalregister.gov/documents/2020/09/04/2020-19654/temporary-halt-in-residential-evictions-to-prevent-the-further-spread-of-covid-19), effective September 4 - December 31, 2020. Tenants, lessees, or residents of residential properties who are covered by the CDC’s order need to fill out and sign the attachment (found on pages 35-37 of the order), then provide the form to their landlord. 
+
+Legal Aid’s Housing team put together the following documents to help you understand the CDC Moratorium: 
+
+- [FAQ– includes copy of the declaration](https://lawmo.org/wp-content/uploads/2020/10/CDC-Order-FAQ.pdf)
+- [Tenant Checklist](https://lawmo.org/wp-content/uploads/2020/10/CDC-Eviction-Moratorium-Tenant-Checklist.pdf)
+- [Government Aid Checklist](https://lawmo.org/wp-content/uploads/2020/10/CDC-Eviction-Moratorium-Government-Aid-Checklist.pdf)
+
+To be covered under this action, renters must sign and provide their landlord a declaration. [Click here to access an online tool you can use.](https://www.covid19evictionforms.com/) This declaration is necessary under the CDC Order to provide renters with protection from eviction.
+
+[The New Eviction Moratorium: What You Need to Know (New York Times article)](https://nyti.ms/31Rrsr5)
+
+[National Housing Law Project](http://www.nhlp.org/covid) has put together resources, including the following:  [Overview](https://lawmo.org/wp-content/uploads/2020/09/CDC-Overview.pdf), [FAQ for Renters](https://lawmo.org/wp-content/uploads/2020/09/CDC-FAQ-for-Renters.pdf), and [Fact Sheet](https://lawmo.org/wp-content/uploads/2020/09/CDC-fact-sheet-AHJ.pdf)
+
 
 **[Propublica](https://www.propublica.org/)**
 
