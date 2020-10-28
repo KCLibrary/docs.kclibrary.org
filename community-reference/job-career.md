@@ -9,7 +9,9 @@ We are here to help you succeed in your career search. Need a computer? Use ours
 
 Rhiannon Johnson is the Library’s Career Development and Personal Finance Specialist. She has a Master of Science in Education from the University of Kansas and Bachelor of Art in Organizational Communication Studies from Ball State University. For the past five years, she has served as a career coach at the University of Kansas. Rhiannon can provide coaching on career development topics including resumes cover letters, career transitions, job searching and interviewing techniques. In addition, she also can help connect you to resources for making informed financial decisions.
 
-If you are interested in joining Kansas City Public Library's new job club, contact Rhiannon Johnson.
+If you are interested in joining Kansas City Public Library’s job club, [please fill out the Interest Form.](https://forms.office.com/Pages/ResponsePage.aspx?id=w-I6znHHkUezD6pu4QZKq_wkAAM-dThGhbQLyocXU7lUNjlMM0szREJXTFNaOFBCTkNFSFMxTlNFSC4u)
+
+Employers wishing to share job postings for the Career Newsletter, [please submit this form.](https://forms.office.com/Pages/ResponsePage.aspx?id=w-I6znHHkUezD6pu4QZKq_wkAAM-dThGhbQLyocXU7lUN0dIUVIxN0FOSzlTOVFDVDZBMVcwSzlVTS4u)
 
 ---
 
