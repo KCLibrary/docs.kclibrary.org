@@ -46,8 +46,6 @@ Legal Aid of Western Missouri
 
 **If you need assistance, please call the Legal Aid office serving your county. If they are unable to answer your call, please leave a message and your call will be returned. Please visit their [contact page](https://lawmo.org/contact-locate/) for individual office phone numbers.**
 
-If you are a Jackson County resident, own a home, and are worried about paying your mortgage or are already behind on your mortgage, Legal Aid of Western Missouri may be able to help you. This program is for 2020 - please call them at (816) 474-6750.
-
 Attorneys of Legal Aid of Western Missouri are updating resources related to
 
 - Essential services
@@ -222,7 +220,7 @@ The Kansas City Municipal Division of the 16th Judicial Circuit Court of Missour
 
 CaseNet provides access to the Missouri state courts automated case management system. You can use CaseNet to research case records including docket entries, parties, judgments and charges in public court.
 
-\*\*[Missouri Free Legal Answers](https://missouri.freelegalanswers.org/)
+**[Missouri Free Legal Answers](https://missouri.freelegalanswers.org/)**
 Missouri Legal Answers is a statewide virtual legal advice clinic. This program is provided through the assistance of the American Bar Association and is free. Qualifying users post their civil legal questions. Missouri pro bono attorney volunteers, who are authorized to provide pro bono assistance in Missouri, log in to the website, select questions to answer, and provide legal information and advice. Users are then emailed when their question receives a response.
 
 **Westlaw**
@@ -237,50 +235,49 @@ If you need help working in Westlaw, please consider using [Westlaw’s training
 
 ## Landlord/Tenant Resources
 
-The Center for Disease Control issued an order for a [Temporary Halt in Residential Evictions to Prevent the Further Spread of COVID-19](https://www.federalregister.gov/documents/2020/09/04/2020-19654/temporary-halt-in-residential-evictions-to-prevent-the-further-spread-of-covid-19), effective September 4 - December 31, 2020. Tenants, lessees, or residents of residential properties who are covered by the CDC’s order need to fill out and sign the attachment (found on pages 35-37 of the order), then provide the form to their landlord. 
+The Center for Disease Control issued an order for a [Temporary Halt in Residential Evictions to Prevent the Further Spread of COVID-19](https://www.federalregister.gov/documents/2020/09/04/2020-19654/temporary-halt-in-residential-evictions-to-prevent-the-further-spread-of-covid-19), effective September 4 - December 31, 2020. Tenants, lessees, or residents of residential properties who are covered by the CDC’s order need to fill out and sign the attachment (found on pages 35-37 of the order), then provide the form to their landlord.
 
-Legal Aid’s Housing team put together the following documents to help you understand the CDC Moratorium: 
+The FHA has extended its [ban on evictions from properties secured by FHA-insured single family mortgages](https://www.hud.gov/sites/dfiles/OCHCO/documents/2020-27hsgml.pdf) through [December 31, 2020](https://www.hud.gov/press/press_releases_media_advisories/HUD_No_20_134). Additionally, the government-backed mortgage buyers Freddie Mac and Fannie Mae have prohibited landlords of single-family properties with Freddie Mac- and Fannie Mae-backed mortgages from evicting tenants until [at least January 31, 2020](https://www.fhfa.gov/Media/PublicAffairs/Pages/FHFA-Extends-Foreclosure-and-REO-Eviction-Moratoriums-12022020.aspx).
 
-- [FAQ– includes copy of the declaration](https://lawmo.org/wp-content/uploads/2020/10/CDC-Order-FAQ.pdf)
-- [Tenant Checklist](https://lawmo.org/wp-content/uploads/2020/10/CDC-Eviction-Moratorium-Tenant-Checklist.pdf)
-- [Government Aid Checklist](https://lawmo.org/wp-content/uploads/2020/10/CDC-Eviction-Moratorium-Government-Aid-Checklist.pdf)
+**Legal Aid of Western Missouri’s Housing team put together the following documents to help you understand the CDC Moratorium:**
 
-To be covered under this action, renters must sign and provide their landlord a declaration. [Click here to access an online tool you can use.](https://www.covid19evictionforms.com/) This declaration is necessary under the CDC Order to provide renters with protection from eviction.
-
-[The New Eviction Moratorium: What You Need to Know (New York Times article)](https://nyti.ms/31Rrsr5)
-
-[National Housing Law Project](http://www.nhlp.org/covid) has put together resources, including the following:  [Overview](https://lawmo.org/wp-content/uploads/2020/09/CDC-Overview.pdf), [FAQ for Renters](https://lawmo.org/wp-content/uploads/2020/09/CDC-FAQ-for-Renters.pdf), and [Fact Sheet](https://lawmo.org/wp-content/uploads/2020/09/CDC-fact-sheet-AHJ.pdf)
+  - [FAQ– includes copy of the declaration](https://lawmo.org/wp-content/uploads/2020/10/CDC-Order-FAQ.pdf)
+  - [Tenant Checklist](https://lawmo.org/wp-content/uploads/2020/10/CDC-Eviction-Moratorium-Tenant-Checklist.pdf)
+  - [Government Aid Checklist](https://lawmo.org/wp-content/uploads/2020/10/CDC-Eviction-Moratorium-Government-Aid-Checklist.pdf)
 
 
-**[Propublica](https://www.propublica.org/)**
+- To be covered under this action, renters must sign and provide their landlord a declaration. **[Click here to access an online tool you can use](https://www.covid19evictionforms.com/)**. This declaration is necessary under the CDC Order to provide renters with protection from eviction.
+- **[The New Eviction Moratorium: What You Need to Know](https://nyti.ms/31Rrsr5)** (New York Times article)
+- **[National Housing Law Project](http://www.nhlp.org/covid)** has put together resources, including the following: [Overview](https://lawmo.org/wp-content/uploads/2020/09/CDC-Overview.pdf), [FAQ for Renters](https://lawmo.org/wp-content/uploads/2020/09/CDC-FAQ-for-Renters.pdf), and [Fact Sheet](https://lawmo.org/wp-content/uploads/2020/09/CDC-fact-sheet-AHJ.pdf).
 
-Consider using [Propublica's database](https://projects.propublica.org/covid-evictions/) to search apartment buildings nationwide to find out if your rental unit may qualify for eviction protection. (This database contains addresses for more than 177,000 buildings with five or more units that have mortgages backed by Fannie Mae or Freddie Mac; those insured by the Federal Housing Administration; and properties that are part of certain low-income housing programs. Some properties that qualify for federal protections, including ones with fewer than five units backed by Fannie Mae and Freddie Mac, are not in the Propublica database.)
+**Nolo.com** has [additional information about the eviction moratorium](https://www.nolo.com/legal-encyclopedia/emergency-bans-on-evictions-and-other-tenant-protections-related-to-coronavirus.html). You can use [Nolo's free, downloadable CDC Eviction Ban Declaration form](https://store.nolo.com/products/cdc-eviction-ban-declaration-pr446.html) to satisfy that requirement (the download includes details about the ban and instructions).
 
-If you have questions about words in your lease or in landlord-tenant communications, Missouri Legal Services created a [Glossary of Commonly Used Missouri Landlord-Tenant Housing Terms](https://www.lsmo.org/node/643/glossary-commonly-used-missouri-landlord-tenant-housing-terms) (revised June 2013).
+**Is my home covered by the Fannie Mae or Freddie Mac eviction bans or the CDC Moratorium?**
+
+**Nolo.com** shared resources for you to use for the Fannie Mae or Freddie Mac eviction bans: visit [Fannie Mae](https://www.knowyouroptions.com/rentersresourcefinder) and [Freddie Mac](https://myhome.freddiemac.com/renting/lookup.html) and enter your address. 
+
+You can also use the [National Low Income Housing's federal eviction moratorium lookup tool](https://nlihc.org/federal-moratoriums) to see if your address is covered by one of the federal eviction bans.
+
+Consider using [Propublica’s database](https://projects.propublica.org/covid-evictions/) to search apartment buildings nationwide to find out if your rental unit may qualify for eviction protection. (This database contains addresses for more than 177,000 buildings with five or more units that have mortgages backed by Fannie Mae or Freddie Mac; those insured by the Federal Housing Administration; and properties that are part of certain low-income housing programs. Some properties that qualify for federal protections, including ones with fewer than five units backed by Fannie Mae and Freddie Mac, are not in the Propublica database.)
+
+**Missouri-specific information from Nolo.com**
+
+- [Missouri's governor's COVID-19 announcements.](https://governor.mo.gov/)
+- [Supreme Court of Missouri has directed](https://www.courts.mo.gov/page.jsp?id=156095) courts to exercise discretion regarding cases (effective May 16, 2020) and appearances subject to certain [Operational Directives](https://www.courts.mo.gov/file.jsp?id=156093). Whether or not your case will be held is left to the discretion of judge.
+- Check [Missouri Public Service Commission's website](https://psc.mo.gov/General/Media_Center) for information about utility shutoffs.
+
+
 
 **In-Person Help**
 
-By Phone
+If you need to talk with someone over the phone, consider calling Legal Aid of Western Missouri (816) 474-6750 or Heartland Center for Jobs and Freedom (816) 278-1344 to work with an attorney.
 
-If you prefer talking with someone over the phone, consider calling Legal Aid of Western Missouri ((816) 474-6750) or Heartland Center for Jobs and Freedom ((816) 278-1344) to work with an attorney.
+If you have questions as a tenant, KC Tenants established a hotline (816) 533-5435. They invite you to call with any questions, concerns, or incident reports. If their grassroots leaders miss your call, they will get back to you within 24 hours. Please let them know if you need more urgent assistance.
 
-If you have questions as a tenant, KC Tenants established a hotline ((816) 533-5435). They invite you to call with any questions, concerns, or incident reports. If their grassroots leaders miss your call, they will get back to you within 24 hours. Please let them know if you need more urgent assistance.
 
-Legal Aid of Western Missouri in the Community
+**Online Resources for Landlord/Tenant Questions**
 
-Tenant Legal Help Clinic - KCMO
-
-This clinic is open Thursdays 12.45-3 on the 7th floor of the downtown Jackson County Courthouse (415 E 12th St, KCMO 64106).
-
-[Self-Help Law Clinic at UMKC Law School](https://www.umkc.edu/news/posts/2019/april/UMKC-School-of-Law-Announces-Self-Help-Legal-Clinic.html)
-
-The clinic is open Mondays, Wednesdays and Fridays between 10 a.m. and 2 p.m., with no appointment necessary. Attorneys are also available by phone, 816-235-2271.
-
-Legal Aid in the Library
-
-Attorneys from Legal Aid of Western Missouri are at the Central Library 14 W. 10th Street, KCMO 64105) on Thursdays from 1-3
-
-**Online Resources**
+If you have questions about words in your lease or in landlord-tenant communications, Missouri Legal Services created a [Glossary of Commonly Used Missouri Landlord-Tenant Housing Terms](https://www.lsmo.org/node/643/glossary-commonly-used-missouri-landlord-tenant-housing-terms) (revised June 2013).
 
 The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/), [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/Homeownersbuyer/MortgageAssistance/Pages/Coronavirus-Assistance-Information.aspx), and [U.S. Department of Housing and Urban Development (HUD)](http://hud.gov/) are working together to help homeowners and renters during the coronavirus pandemic.
 
@@ -294,8 +291,7 @@ Learn more about:
 
 **Healthy Homes Rental Inspection Program for Kansas City, Missouri**
 
-The Healthy Homes Rental Inspection Program provides regulations for minimum health and safety standards in rental housing in Kansas City, Mo.
-There are several ways to file a complaint with the Health Department. You may call the City’s Action Center (3-1-1), call the Healthy Homes Rental Inspection Program (816-513-6347), or walk-in to the Program located at 2400 Troost Ave, Suite 3600 to file a complaint.
+The Healthy Homes Rental Inspection Program provides regulations for minimum health and safety standards in rental housing in Kansas City, Mo. There are several ways to file a complaint with the Health Department. You may call the City’s Action Center (3-1-1), call the Healthy Homes Rental Inspection Program (816-513-6347), or walk-in to the Program located at 2400 Troost Ave, Suite 3600 to file a complaint.
 
 **Heartland Center for Jobs and Freedom**
 
