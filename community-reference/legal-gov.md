@@ -267,6 +267,50 @@ Consider using [Propublica’s database](https://projects.propublica.org/covid-e
 - Check [Missouri Public Service Commission's website](https://psc.mo.gov/General/Media_Center) for information about utility shutoffs.
 
 
+**[Missouri Emergency Rental Arrears Program](https://www.mohousingresources.com/erap-program-overview) – landlords can submit applications in January 2021**
+Starting in January 2021, the Missouri Housing Development Commission (MHDC), in conjunction with the Missouri Department of Social Services will make CARES Act COVID-19 Emergency Solutions Grant (ESG-CV) funds available to landlords for emergency rental arrears assistance. MHDC will post an online application packet, answers to frequently asked questions, and forms and templates to their website in January 2021. MHDC will email landlords updates about their application status. 
+
+The Missouri Emergency Rental Arrears Program (ERAP) provides financial support for landlords and renters who are struggling due to the COVID-19 emergency in the State of Missouri. The program will reimburse landlords for past due rent payments (rental arrears) for the period beginning April 1, 2020. A one-time payment of up to six (6) months of arrears will be made to the landlord on the tenant’s behalf. The payment will not exceed the rent maximums by bedroom size [listed on their website](https://www.mohousingresources.com/erap-program-overview). Missouri Emergency Rental Arrears cannot be applied towards any fees or utilities.
+
+To participate in the program, landlords must sign a guarantee of non-eviction for non-payment for 120 days from the date of the rental arrears application. By accepting rental assistance, landlords must waive any late fees, penalties, or outstanding rent as the date of application submission. 
+
+Landlord eligibility
+
+To be eligible for the Missouri Emergency Rental Arrears Program (ERAP), landlords must:
+- Be a landlord of a residential property in Missouri
+- Have a social security or employee identification number that appears on a W-9
+- Be current on all state and local tax obligations
+- Not be a governmental entity
+- Have not received assistance from any other sources for the months requesting rental arrears
+- **Agree to not evict tenant or report to credit agencies for non-payment of rent for 120 days following application submission**
+- **Agree to waive all outstanding rent and late fees beyond MHDC assistance as of the date of application submission**
+- Have a fully executed lease between the landlord and the current tenant for the unit seeking assistance; The lease must match the landlord name, tenant name, and unit/property address entered in the online application
+- Provide an itemized statement of outstanding rental arrears, late fees, and any additional fees since April 2020; landlords can upload an existing statement or use a provided template
+- Property/unit meets [HUD Habitability Standards](https://www.hud.gov/sites/documents/DHAPSANDYHABITCHKLIST.PDF)
+- Property/unit meets [lead-based paint requirements](https://www.kcmo.gov/city-hall/departments/health/lead-poisoning-testing-children-and-homes-for-lead)
+- Have checking account that can receive EFT payment
+
+Tenant eligibility
+
+To be eligible for the Missouri Emergency Rental Arrears Program (ERAP), tenant households must:
+
+- Not be the landlord or application point of contact
+- Have an estimated household income that includes all household members over 18 (based on the last 30 days) below 50 percent of the Area Median Income in the county the tenant unit resides in
+  - limits can be determined by downloading the [income limit calculator](https://8b7cf04e-2de3-4caf-8acf-bef3e9f9fd73.filesusr.com/ugd/8ff70b_6f43b586db81401996f120b92f50e457.xlsx?dn=MOERAP%20Tenant%20Household%20Income%20Limit%20Cal) and selecting the county of residence and household size. 
+  - For additional information and guidance on determining income, please review HUD’s [Determining Income Documentation](https://www.hud.gov/sites/documents/DOC_35649.PDF). 
+  - If a household member has zero income, they can report this on the income certification form uploaded as part of the application.
+- Certify to the presence of a COVID-19 financial impact on ability to pay rent
+- Have received less than 24 months of Emergency Solutions Grant services in any three (3) year period
+- Have not received assistance from any other sources for the same costs for the months requesting rental arrears
+- Provide requested information on all household members
+- Provide photo ID(s) for all household members over 18 years of age
+[Contact the Missouri Housing Development Commission](http://forms.mhdc.com/form-3050143/Contact-Us) with additional questions. 
+
+
+
+
+
+
 
 **In-Person Help**
 
