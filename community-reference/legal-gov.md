@@ -235,7 +235,21 @@ If you need help working in Westlaw, please consider using [Westlaw’s training
 
 ## Landlord/Tenant Resources
 
-The Center for Disease Control issued an order for a [Temporary Halt in Residential Evictions to Prevent the Further Spread of COVID-19](https://www.federalregister.gov/documents/2020/09/04/2020-19654/temporary-halt-in-residential-evictions-to-prevent-the-further-spread-of-covid-19), effective September 4 - December 31, 2020. Tenants, lessees, or residents of residential properties who are covered by the CDC’s order need to fill out and sign the attachment (found on pages 35-37 of the order), then provide the form to their landlord.
+A [federal eviction moratorium issued by the Centers for Disease Control (CDC) is in effect](https://beta.documentcloud.org/documents/20433223-covid-19-relief-bill) from September 4, 2020 to January 31, 2021 .
+
+The federal eviction moratorium can only postpone evictions – it doesn’t prevent them - and [it is not a guarantee that a renter will not be evicted](https://www.npr.org/2020/12/20/947992198/why-the-cdc-eviction-ban-isnt-really-a-ban-i-have-nowhere-to-go). 
+
+Please consider the resources shared by [The Beacon.](https://thebeacon.media/stories/2020/12/21/this-holiday-season-kansas-citians-are-seeking-rent-and-utility-assistance-more-than-food/).
+
+These are the Kansas City agencies offering assistance with rent, utilities and food that United Way of Greater Kansas City most often refers people to:
+
+- [Bishop Sullivan Center](https://www.bishopsullivan.org/)
+- [Mid American Assistance Coalition Low Income Energy Assistance Program](https://maacliheap.org/)
+- [Catholic Charities of Kansas City](https://www.catholiccharities-kcsj.org/)
+- [Metro Lutheran Ministry](https://www.mlmkc.org/)
+- [Kansas and Western Missouri Salvation Army](https://centralusa.salvationarmy.org/mokan/)
+- [Redemptorist Center](https://www.redemptoristcenter.org/) 
+
 
 The FHA has extended its [ban on evictions from properties secured by FHA-insured single family mortgages](https://www.hud.gov/sites/dfiles/OCHCO/documents/2020-27hsgml.pdf) through [December 31, 2020](https://www.hud.gov/press/press_releases_media_advisories/HUD_No_20_134). Additionally, the government-backed mortgage buyers Freddie Mac and Fannie Mae have prohibited landlords of single-family properties with Freddie Mac- and Fannie Mae-backed mortgages from evicting tenants until [at least January 31, 2020](https://www.fhfa.gov/Media/PublicAffairs/Pages/FHFA-Extends-Foreclosure-and-REO-Eviction-Moratoriums-12022020.aspx).
 
