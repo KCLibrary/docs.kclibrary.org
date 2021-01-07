@@ -11,6 +11,73 @@ Jenny Garmon is the Library’s Legal & Government Information Specialist. She i
 
 ---
 
+## Your Elected Officials
+
+Why stay connected to elected officials? Because they represent you and can help you!
+
+### Federal Government
+
+**Federal Elected Officials**
+
+- [Contact the President online](https://www.whitehouse.gov/contact) or call the White House switchboard at 202-456-1414 or the comments line at 202-456-1111 during business hours.
+- [Locate your U.S. senators' contact information](https://www.senate.gov/general/contact_information/senators_cfm.cfm).
+- [Find your U.S. representative's website and contact information](https://www.house.gov/representatives/).
+
+**U.S. Senators from Missouri in Washington DC have Constituent Services teams ready to assist Missourians**
+
+- You must be a resident of Missouri.
+- Your issue must involve a federal agency, not a state or local one.
+- Your case must not involve a pending court action.
+- You must complete and sign a privacy release form to comply with the provisions of the Privacy Act.
+
+**Congressman Cleaver’s [Constituent Services team](https://cleaver.house.gov/serving-you) is ready to help Missouri’s 5th District with issues, like:**
+
+- Help with a federal agency
+- Ordering a flag
+- Requesting tours and tickets for a visit to Washington DC
+- Considering applying to a military academy
+
+**Find contact information for federal government programs, listed by topic.**
+
+- [Benefits](https://www.usa.gov/contact-by-topic#item-211312)
+- [Child Welfare and Education](https://www.usa.gov/contact-by-topic#item-211314)
+- [Consumer Products and Safety](https://www.usa.gov/contact-by-topic#item-211316)
+- [Fraud, Law Enforcement, and Crime](https://www.usa.gov/contact-by-topic#item-211317)
+- [Government Officials](https://www.usa.gov/contact-by-topic#item-211319)
+- [Health](https://www.usa.gov/contact-by-topic#item-211320)
+- [Home, Community, and Work](https://www.usa.gov/contact-by-topic#item-211321)
+- [Military and Veterans](https://www.usa.gov/contact-by-topic#item-211322)
+- [Money and Business](https://www.usa.gov/contact-by-topic#item-211325)
+- [Travel and Transportation](https://www.usa.gov/contact-by-topic#item-211326)
+
+### State Government
+
+If you need help with a state issue, contact your State Elected Officials
+
+- [Get in touch with your state governor](https://www.usa.gov/state-governor).
+- [Missouri House of Representatives](https://house.mo.gov/legislatorlookup.aspx): enter your address and you’ll find your state legislative officials, state-wide elected officials, and elected officials on the federal level. 
+- [Find out who represents you in the Missouri State Senate](http://www.senate.mo.gov/legislookup/default.aspx).
+
+### Local Government
+
+If you need to address a local issue (like city services or public improvements), contact your Local Elected Officials
+- [Locate your mayor](https://www.usmayors.org/mayors/) by name, city, or population size.
+- [Find your county executive](https://ce.naco.org/) (the head of the executive branch of government in your county) by map search or your ZIP Code. The county executive may be an elected or an appointed position.
+- Get contact information for your [city, county, and town officials](https://www.usa.gov/local-governments). You’ll find information about your city and county leaders as well as law enforcement officials and details on Missouri’s executive, judicial, and legislative branches of government. 
+  - If you are in Jackson County, Missouri, you can [find your county legislators here](https://www.jacksongov.org/863/Who-Are-My-County-Legislators) using the [Jackson County Legislative Maps Application](http://jacksoncomo.maps.arcgis.com/apps/webappviewer/index.html?id=00aea7b613ee4421b4d37fa2d71c06c9).
+  - If you are in Kansas City, Missouri, you can [enter your address here](https://www.kcmo.gov/) to get information about recycling pick up days, elected officials and voting information. [Learn more about our city officials and our city council](https://www.kcmo.gov/city-hall/city-officials).
+
+**How can you get started?**
+
+It can be intimidating to reach out, but you can lean on the experiences of others who have shared their success. You can search for like-minded organizations that could provide templates for you to use – I’ll be happy to help you search. You can also follow Emily Coleman’s advice in [Call the Halls](https://gumroad.com/l/callthehallsguide) about contacting your representative. Here’s one example, from Emily Coleman, for a phone call to your representative’s office:
+
+1. Identify your name and city.
+2. State your specific call to action and pose your question to the staffer.
+3. Wait for a response from the staffer.
+4. Tell your personal story about why this particular call to action matters to you.
+5. Ask for your opinion to be recorded and end the call.
+
+
 ## Library Policy Regarding Legal Resources
 
 Reference Librarians are here to help you access information, resources, and legal materials. We can connect you with information and resources, but we cannot practice law, provide legal advice, do legal research for you, create communications accounts for you, or fill out forms for you.
