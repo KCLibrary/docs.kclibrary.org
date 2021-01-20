@@ -189,6 +189,11 @@ Library staff can not provide legal advice at the Library, but we can share info
 
 If you require legal representation, please consider these resources curated by [Findlaw](https://statelaws.findlaw.com/missouri-law/free-legal-aid-in-kansas-city.html).
 
+**[Legal Experts at UMKC: Virtual Self-Help Clinic](https://law.umkc.edu/law-library/public-services.html)**
+
+The Self-Help Clinic is available remotely. If you need to speak with one of our volunteer attorneys, please fill-out the online application below to schedule a video conference call. If you have questions or if you need help with research services please call us at 816-235-2271 or [email us](umkclawprose@umkc.edu).
+
+
 **[American Civil Liberties Union of Kansas and Missouri](https://aclukswmo.org/)**
 
 3601 Main Street | Kansas City, MO 64111 | Ph: (816) 756-3113
