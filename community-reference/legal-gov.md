@@ -307,7 +307,7 @@ If you need help working in Westlaw, please consider using [Westlaw’s training
 
 ## Landlord/Tenant Resources
 
-A [federal eviction moratorium issued by the Centers for Disease Control (CDC) is in effect](https://beta.documentcloud.org/documents/20433223-covid-19-relief-bill) from September 4, 2020 to January 31, 2021 .
+A [federal eviction moratorium issued by the Centers for Disease Control (CDC) is in effect](https://www.cdc.gov/media/releases/2021/s0121-eviction-moratorium.html) from September 4, 2020 to March 31, 2021 .
 
 The federal eviction moratorium can only postpone evictions – it doesn’t prevent them - and [it is not a guarantee that a renter will not be evicted](https://www.npr.org/2020/12/20/947992198/why-the-cdc-eviction-ban-isnt-really-a-ban-i-have-nowhere-to-go). 
 
