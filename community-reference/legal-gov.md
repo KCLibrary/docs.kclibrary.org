@@ -313,6 +313,23 @@ The federal eviction moratorium can only postpone evictions – it doesn’t pre
 
 Please consider the resources shared by [The Beacon.](https://thebeacon.media/stories/2020/12/21/this-holiday-season-kansas-citians-are-seeking-rent-and-utility-assistance-more-than-food/).
 
+The City of KCMO has funding for emergency rental assistance which is being distributed through existing community agencies. If you need immediate assistance, contact the following:
+
+- For Rental Assistance (may provide other services too):
+
+  - Greater Kansas City Housing Information Center: (816) 931-0443
+  - Guadalupe Center: (816) 421-1015
+  - Journey to New Life: (816) 960-4808
+  - Metro Lutheran Ministries: (816) 285-3137 (North) | (816) 285-3139 (South)
+  - Save, Inc.: (816) 531-8340
+
+- Other Assistance (eg. Deposits, Utilities, Legal Services):
+
+  - City of Kansas City Missouri Tenant Rights/Evictions/Fair Housing Section (information regarding rent/utility assistance and legal services for evictions): (816) 513-3026 or Contact Tiffany Drummer
+  - Heartland Center for Jobs & Freedom (legal services for evictions): (816) 278-1092
+  - Mattie Rhodes Center (homeless prevention): (816) 471-2536
+  - reStart Inc. (homeless prevention, rapid rehousing): (816) 472-5664
+
 These are the Kansas City agencies offering assistance with rent, utilities and food that United Way of Greater Kansas City most often refers people to:
 
 - [Bishop Sullivan Center](https://www.bishopsullivan.org/)
