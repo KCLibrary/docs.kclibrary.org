@@ -11,6 +11,110 @@ Jenny Garmon is the Library’s Legal & Government Information Specialist. She i
 
 ---
 
+## Frequently Asked Questions
+
+### ID and Birth Certificate Resources - Missouri
+
+**Missouri Department of Revenue** - provides one (1) nondriver license at no charge to Missourians who wish to obtain a photo ID for voting purposes (and do not already have one). Call 573-526-VOTE (8683) or visit [https://dor.mo.gov/](https://dor.mo.gov/)
+
+**Missouri Department of Health and Senior Services, Bureau of Vital Records** - provides one (1) free exempt copy of a certified Missouri birth certificate to an individual seeking to obtain one (1) free nondriver’s license to vote in Missouri if the applicant does not already have a current nondriver’s license or current driver’s license. Call (573) 751-6387 or email VitalRecordsInfo@health.mo.gov
+
+**Missouri Secretary of State** - obtain official documents needed to get a Missouri nondriver license. Examples include birth certificate; marriage license; adoption decree; U.S. Department of State naturalization papers; or court order changing one's name. We will pay for official documents from other states or the federal government. If you do not have a Photo ID and need help [complete this form to get started](https://s1.sos.mo.gov/voteridhelp). The Secretary of State's office will receive your information and help you obtain the documents you need. Call toll free (866) 868-3245 or email Showit2Vote@sos.mo.gov
+
+**Kansas City Birth and Death Certificates (vital records)** - please call 816.513.6309 or 816.513.6285 or email births@kcmo.org
+
+**Help with ID and Birth Certificate Costs in Kansas City, MO**
+
+- [Hope Faith](https://www.hopefaith.org/) (816.471.4673)
+- [Morning Glory Ministries](https://morningglorykc.org/) (816.842.0416)
+- [Reconciliation Services](https://www.rs3101.org/reveal) (816.931.4751 ext. 1), requires an appointment and filling out [a quick, secure form](https://forms.gle/Y8CwgKXMUTJ2XSSg6) before the appointment. 
+
+
+### ID and Birth Certificate Resources - Kansas
+
+To get a free photo ID, individuals must fill out a [Form DE-VID1 (Certification Requesting Fee Waiver for Nondriver Identification Card)](https://www.ksrevenue.org/pdf/DE-VID1.pdf) [(Español)](https://www.ksrevenue.org/pdf/DE-VID1sp.pdf). This form is available at all driver’s licenses offices, all county election offices and online.
+
+Qualifying individuals who lack proof of identity and want to obtain a free nondriver identification card may get a Kansas birth certificate from the Kansas Office of Vital Statistics at no cost. To qualify, individuals must:
+
+- Not possess and valid photo identification documents under Kansas law
+- Lack any documents necessary to prove their identity
+- Sign an affidavit attesting they do not have a valid photo ID or documents to prove their identity
+- Be registered to vote in Kansas
+- Have been born in Kansas
+
+To get a free birth certificate to obtain a nondriver identification form, individual must submit the following forms to the Kansas Office of Vital Statistics:
+
+- [Form VS-235](https://www.kdheks.gov/vital/download/birth_fillable.pdf) (Application for Certified Copy of Kansas Birth Certificate)
+- [Form DE-VID1](https://www.ksrevenue.org/pdf/DE-VID1.pdf) (Certification Requesting Fee Waiver for Nondriver Identification Card) [(Español)](https://www.ksrevenue.org/pdf/DE-VID1sp.pdf)
+
+
+Individuals born outside of Kansas, who do not have proof of identity and who do not wish to pay to obtain such a document from their home state may apply for a State Voter Identification Document. This document can only be used to vote in Kansas.
+
+To qualify for a State Voter Identification Document, individuals must:
+
+- Not possess and valid photo identification documents under Kansas law
+- Lack any documents necessary to prove their identity
+- Sign an affidavit attesting they do not have a valid photo ID or documents to prove their identity
+- Be registered to vote in Kansas
+- Have not been born in Kansas
+
+### Food Stamps - Missouri
+
+The [Missouri Department of Social Services: Family Support Division](https://mydss.mo.gov/services) may be able to help you or your family with food stamps, health care, childcare, child support, and other needs. 
+
+**Food Stamp Recertifications** - The United States Department of Agriculture (USDA) Food and Nutrition Service (FNS) currently requires Missourians to complete and send a periodic recertification form and any required documents to verify that they still qualify for SNAP (Food Stamp) benefits. The Family Support Division will mail a recertification form that will need to be completed and returned with any required documents before the deadline on the letter. 
+
+**Food Stamp Interviews** - You will only be required to complete a SNAP (Food Stamp) interview if you are a new applicant. If you already get SNAP benefits and received a recertification form, you do not need to do a phone interview at this time. If you are a new SNAP applicant, we will call the number you listed on your application to do your phone interview within 3 days of receiving your application. So you know it is the Family Support Division calling, they will appear on your caller ID as Family Support Division (855-823-4908).
+
+The University of Missouri Extension in Jackson County - Kansas City can also help you apply for Food Stamps – please call 816.482.5854.
+
+### Food Stamps - Kansas
+
+- [Kansas Food Assistance Program Brochure](http://content.dcf.ks.gov/EES/KEESM/Forms/ES-2007_food_asst_brochure.pdf) / [(Español)](http://content.dcf.ks.gov/EES/KEESM/Forms/ES-2007S_food_asst_brochure.pdf)
+- [Kansas Food Assistance Brochure Insert](http://content.dcf.ks.gov/EES/KEESM/Forms/ES-2007_food_asst_insert.pdf) / [(Español)](http://content.dcf.ks.gov/EES/KEESM/Forms/ES-2007_food_asst_insert_spa.pdf)
+  
+Kansas - Department for Children and Families
+Customer Service: 1-888-369-4777  |  TTY: 1-785-296-1491
+ 
+Kansas Benefits Card
+- Cardholder Support 1-800-997-6666
+- Merchant/Child Care Provider Support 1-800-831-5235
+- [Kansas Benefits Card Website (ebtEDGE)](http://www.ebtedge.com/gov/portal/PortalHome.do)
+
+### Stimulus Check/Economic Impact Payment Statuses
+
+The IRS and Treasury have issued all first and second Economic Impact Payments. If you have questions about your payments, visit the [Economic Impact Payments Information Center](https://www.irs.gov/coronavirus/economic-impact-payment-information-center).
+
+If you didn’t get any Economic Impact Payments or got less than the full amounts, you may qualify for the Recovery Rebate Credit and must file a 2020 tax return to claim the credit even if you don’t normally file. See [Recovery Rebate Credit](https://www.irs.gov/newsroom/recovery-rebate-credit) for more information.
+
+If you’re eligible for the credit, and either the IRS didn’t issue you any Economic Impact Payments or they issued less than the full amounts, you must file a 2020 tax return to claim the Recovery Rebate Credit even if you are not required to file a tax return for 2020. For more detailed information see the [Recovery Rebate Credit Frequently Asked Questions.](https://www.irs.gov/newsroom/recovery-rebate-credit-frequently-asked-questions)
+
+Kansas City Area Assistance - Legal Aid of Western Missouri’s Legal Aid CARES Hotline - 1-800-990-2907 | M-F 9 am-4 pm
+
+### Filing Taxes
+
+To find locations hosting tax assistance near you, use the [VITA/TCE Locator Tool](https://irs.treasury.gov/freetaxprep/) or the [AARP Site Locator Tool](https://secure.aarp.org/applications/VMISLocator/searchTaxAideLocations.action). The locator tools are updated throughout the filing season, so check back if you don’t see a nearby site listed. Also, please review the other online resources and tax help tools on IRS.gov including tax forms, instructions and publications, online payment methods and options to file with [IRS Free File](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free) – free for most taxpayers. 
+
+[MyFreeTaxes](https://www.myfreetaxes.com/) provides easy, free federal and state tax help for households with an adjusted gross income of $72,000/year or less and it’s brought to you by United Way. You can also call 866.698.9435.
+
+### Social Security Cards and Benefits
+
+You can use a [my Social Security account](https://www.ssa.gov/myaccount/) to apply for a replacement Social Security card online if you:
+
+- Are a U.S. citizen age 18 or older with a U.S. mailing address (this includes APO, FPO, and DPO addresses);
+- Are not requesting a name change or any other change to your card; and
+- Have a driver’s license or state-issued identification card from one of the many participating states or the District of Columbia.
+
+You can use your mySocialSecurity account to request a replacement Social Security card, check the status of an application, estimate future benefits, or manage the benefits you already receive.
+
+- [What is My Social Security? video](https://www.youtube.com/watch?v=oOaUj-lfGUg&feature=youtu.be)
+- [Navigating Social Security Online program](https://youtu.be/6SkVBi2oNgc)
+
+
+
+
+
+
 ## Your Elected Officials
 
 Why stay connected to elected officials? Because they represent you and can help you!
