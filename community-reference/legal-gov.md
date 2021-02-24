@@ -111,8 +111,40 @@ You can use your mySocialSecurity account to request a replacement Social Securi
 - [Navigating Social Security Online program](https://youtu.be/6SkVBi2oNgc)
 
 
+## Critical Thinking and Fact Finding
 
+The News Literacy Project encourages you to pause and take a deep breath when you see a social media post that causes an emotional response. The next thing you can do is search out credible sources before sharing, liking, or commenting. You can also think like a journalist; CNN journalist Christina Zdanowicz uses [these questions to guide her next steps](https://newslitcampwithcnn.sched.com/speaker/christina_zdanowicz.7eh72xk):
 
+- Who is this person?
+- What is the photo showing? 
+- What is the poster’s point of view?
+- What is the larger story here? Are other news outlets reporting this story?
+- What are the details on the story’s page? Does the page’s logo match the organization’s logo? Does the URL point to a real news organization?
+
+Here is a [curated list](https://kclibrary.bibliocommons.com/list/share/1409627587/1774867959) of articles, books, and websites that can help you in your critical thinking and fact-finding journey. 
+
+### Fact-checking photos with reverse-image searching.
+
+Check out [this tutorial](https://checkology.org/demo/lesson/77fff551026d4758ff1f7ec4ec5d07690eb64a19) from the Check Center on News Literacy Project’s Checkology® virtual classroom.
+
+- [Google Images](https://images.google.com/) (use the search by image option)
+- [Tin Eye](https://tineye.com/) (you can paste the image URL or upload a file)
+- [InVid Fake News Debunker](https://www.invid-project.eu/tag/fake-video-debunker-tool/) (Chrome extension)
+
+### Keep in Mind
+
+- [Cognitive biases](https://www.psychologytoday.com/us/blog/thoughts-thinking/201809/12-common-biases-affect-how-we-make-everyday-decisions)
+- [Search engine algorithms](https://kclibrary.bibliocommons.com/item/show/2701740120)
+- [Intuitive traps](https://www.researchgate.net/publication/319269976_Cognitive_Biases_and_Intuitive_Traps_Most_Often_Encountered_by_Analysts_Which_Structured_Analytic_Techniques_Best_Mitigate_Their_Impact/link/599f441ca6fdccf5941f8797/download)
+- [Five types of bias in news articles](http://newslit.org/wp-content/uploads/2020/01/NLP-Understanding-Bias-Poster_FIX.pdf)
+
+### Fact-check Resources
+- [Agence France-Presse Factcheck](https://factcheck.afp.com/)
+- [Associated Press Fact Check](https://apnews.com/hub/ap-fact-check)
+- [FactCheck.org](https://www.factcheck.org/)
+- [Full Fact](https://fullfact.org/)
+- [Lead Stories](https://leadstories.com/)
+- [PolitiFact](https://www.politifact.com/)
 
 
 ## Your Elected Officials
