@@ -52,6 +52,8 @@ St. Luke’s Hospital: Does not have a sign up but will reach out to eligible pa
 
 [Comeback KC](https://www.comebackkc.com/covid-vaccine-survey/): Regional survey to receive alerts when vaccines are available to you.  
 
+[Swope Health](https://swopehealth.org/vaccine-interest/): This Vaccine Interest Survey is only for Swope Health patients.
+
 ### Pharmacies
 
 *Note: If no appointments are available at the providers below, check back frequently to see if they've received a new shipment.*
