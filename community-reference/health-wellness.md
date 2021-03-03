@@ -14,7 +14,7 @@ Jeni Starr is the Library’s Health & Wellness Specialist. She holds a Master o
 
 **Check your eligibility.**  Before making an appointment, [look here to find out if you meet the criteria to be vaccinated in Missouri](https://covidvaccine.mo.gov/). Some organizations allow you to add your name to a waiting list if you are not eligible yet, but some require that you wait until you are eligible to sign up.
 
-**Which vaccine is best?** There are two vaccines authorized for use in the United States. One is manufactured by Pfizer and one is manufactured by Moderna. [The Centers for Disease Control and Prevention (CDC) currently recommends either](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines.html). More vaccines are currently in clinical trials and expected to be on the market at a future date.
+**Which vaccine is best?** There are three vaccines authorized for use in the United States. They are manufactured by Pfizer, Moderna, and Johnson & Johnson.  [The Centers for Disease Control and Prevention (CDC) currently recommends either](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines.html). More vaccines are currently in clinical trials and expected to be on the market at a future date.
 
 **Sign up on multiple lists.** Vaccines are being offered at many different sites, but they don’t all share information.  The more places you can register, the better.  Do make sure you have transportation to a location before signing up on that list.  The Kansas City Health Department recommends that residents sign up for the State of Missouri Vaccine Registration first.
 
