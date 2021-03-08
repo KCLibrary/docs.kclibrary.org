@@ -453,6 +453,7 @@ The City of KCMO has funding for emergency rental assistance which is being dist
 
 - For Rental Assistance (may provide other services too):
 
+  - [Emergency Rent/Utility Assistance Program - Kansas City, MO](https://www.uwgkc.org/epledge/comm/SurveyNE.jsp?SurveyKeyHex=4B2E4B5E4E5F2B366C3E7E3E)
   - Greater Kansas City Housing Information Center: (816) 931-0443
   - Guadalupe Center: (816) 421-1015
   - Journey to New Life: (816) 960-4808
