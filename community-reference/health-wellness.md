@@ -66,6 +66,8 @@ St. Luke’s Hospital: Does not have a sign up but will reach out to eligible pa
 
 [Health Mart Pharmacies](https://scrcxp.pdhi.com/Portal/Member/d1e1f5d5-007f-4167-b8d1-1ea83cb3b215/?qitq=bfaad058-a5f0-4097-8c01-c7b6f752718e&qitp=ec798589-989c-4e14-9953-d991d890b6e3&qitts=1614015936&qitc=pdhi&qite=covid19vaccination&qitrt=Safetynet&qith=bb4fd4b2b26c99b365b44d711a8c7f15): Requires setting up an account
 
+[Spalitto's Pharmacy](https://www.spalittospharmacy.com/coronavirus) - 3801 Independence Ave, Kansas City, MO 64124
+
 ### Assistance with signing up
 
 Kansas City Health Department: The Health Department can register you by phone.  Call 311 or (816) 513-6008.
