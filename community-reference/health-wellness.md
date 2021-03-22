@@ -68,6 +68,14 @@ St. Luke’s Hospital: Does not have a sign up but will reach out to eligible pa
 
 [Spalitto's Pharmacy](https://www.spalittospharmacy.com/coronavirus) - 3801 Independence Ave, Kansas City, MO 64124
 
+[Dillons Pharmacies](https://www.dillons.com/rx/covid-eligibility)
+
+[Balls Food Pharmacies](https://www.ballsfoodspharmacy.com/)
+
+[Cosentino’s Pharmacies](https://www.cosentinos.com/covid-vaccine)
+
+[CVS Pharmacies (Missouri)](https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine#statetool)
+
 ### Assistance with signing up
 
 Kansas City Health Department: The Health Department can register you by phone.  Call 311 or (816) 513-6008.
