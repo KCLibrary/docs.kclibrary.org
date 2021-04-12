@@ -38,6 +38,8 @@ Jeni Starr is the Library’s Health & Wellness Specialist. She holds a Master o
 
 KC Health Department now recommends registering with the State, instead of the local survey.
 
+[KC Health Department Vaccination Clinics](https://www.kcmo.gov/city-hall/departments/health/what-do-i-need-to-know-about-the-covid-19-vaccine) - Sign up online or call 311 for assistance to sign up by phone.
+
 [Mass Vaccination Events](https://covidvaccine.mo.gov/events/#region_a): Kansas City is in Region A
 
 [Research Medical Center](https://researchmedicalcenter.com/covid-19/covid-19-vaccine-information/covid-19-vaccine-distribution.dot): 2316 E Meyer Blvd, Kansas City, MO 64132 		
@@ -53,6 +55,7 @@ St. Luke’s Hospital: Does not have a sign up but will reach out to eligible pa
 [Comeback KC](https://www.comebackkc.com/covid-vaccine-survey/): Regional survey to receive alerts when vaccines are available to you.  
 
 [Swope Health](https://swopehealth.org/vaccine-interest/): This Vaccine Interest Survey is only for Swope Health patients.
+
 
 ### Pharmacies
 
