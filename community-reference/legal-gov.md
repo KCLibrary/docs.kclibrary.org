@@ -447,27 +447,9 @@ A federal eviction moratorium issued by the Centers for Disease Control (CDC) is
 [Check here](https://www.cdc.gov/coronavirus/2019-ncov/downloads/EvictionDeclare_d508.pdf) to see if you qualify for eviction protection under the [CDC order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-the-biden-harris-administrations-multi-agency-effort-to-support-renters-and-landlords/). If you’d like help from an expert, contact (800) 569-4287 or [check out their website](https://www.hudexchange.info/programs/housing-counseling/rental-eviction/) to get contact information for a local HUD-approved housing counselor.
 
 
-The federal eviction moratorium can only postpone evictions – it doesn’t prevent them - and [it is not a guarantee that a renter will not be evicted](https://www.npr.org/2020/12/20/947992198/why-the-cdc-eviction-ban-isnt-really-a-ban-i-have-nowhere-to-go). 
+The federal eviction moratorium is essential relief for struggling renters, but it can merely postpone evictions – it doesn’t prevent them - and [it is not a guarantee that a renter will not be evicted](https://www.npr.org/2020/12/20/947992198/why-the-cdc-eviction-ban-isnt-really-a-ban-i-have-nowhere-to-go). 
 
 Please consider the resources shared by [The Beacon.](https://thebeacon.media/stories/2020/12/21/this-holiday-season-kansas-citians-are-seeking-rent-and-utility-assistance-more-than-food/).
-
-The City of KCMO has funding for emergency rental assistance which is being distributed through existing community agencies. If you need immediate assistance, contact the following:
-
-- For Rental Assistance (may provide other services too):
-
-  - [Emergency Rent/Utility Assistance Program - Kansas City, MO](https://gkcassistanceprogram.org/ )
-  - Greater Kansas City Housing Information Center: (816) 931-0443
-  - Guadalupe Center: (816) 421-1015
-  - Journey to New Life: (816) 960-4808
-  - Metro Lutheran Ministries: (816) 285-3137 (North) | (816) 285-3139 (South)
-  - Save, Inc.: (816) 531-8340
-
-- Other Assistance (eg. Deposits, Utilities, Legal Services):
-
-  - City of Kansas City Missouri Tenant Rights/Evictions/Fair Housing Section (information regarding rent/utility assistance and legal services for evictions): (816) 513-3026 or Contact Tiffany Drummer
-  - Heartland Center for Jobs & Freedom (legal services for evictions): (816) 278-1092
-  - Mattie Rhodes Center (homeless prevention): (816) 471-2536
-  - reStart Inc. (homeless prevention, rapid rehousing): (816) 472-5664
 
 These are the Kansas City agencies offering assistance with rent, utilities and food that United Way of Greater Kansas City most often refers people to:
 
@@ -479,18 +461,16 @@ These are the Kansas City agencies offering assistance with rent, utilities and 
 - [Redemptorist Center](https://www.redemptoristcenter.org/) 
 
 
-The FHA has extended its [ban on evictions from properties secured by FHA-insured single family mortgages](https://www.hud.gov/sites/dfiles/OCHCO/documents/2020-27hsgml.pdf) through [December 31, 2020](https://www.hud.gov/press/press_releases_media_advisories/HUD_No_20_134). Additionally, the government-backed mortgage buyers Freddie Mac and Fannie Mae have prohibited landlords of single-family properties with Freddie Mac- and Fannie Mae-backed mortgages from evicting tenants until [at least January 31, 2020](https://www.fhfa.gov/Media/PublicAffairs/Pages/FHFA-Extends-Foreclosure-and-REO-Eviction-Moratoriums-12022020.aspx).
+The Federal Housing Finance Agency (FHFA) announced that Fannie Mae and Freddie Mac (the Enterprises) will continue to offer COVID-19 forbearance to qualifying multifamily property owners [through June 30, 2021](https://www.fhfa.gov/Media/PublicAffairs/Pages/FHFA-Extends-COVID-19-Multifamily-Forbearance-through-June-30-2021.aspx), subject to the continued tenant protections FHFA has imposed during the pandemic. Additionally, the Federal Housing Finance Agency (FHFA) announced extensions of several measures to align COVID-19 mortgage relief policies across the federal government.
+
+[FHFA announced](https://www.fhfa.gov/Media/PublicAffairs/Pages/FHFA-Extends-COVID-19-Forbearance-Period-and-Foreclosure-and-REO-Eviction-Moratoriums.aspx) are extending the moratoriums on single-family foreclosures and real estate owned (REO) evictions until June 30, 2021. The foreclosure moratorium applies to Enterprise-backed, single-family mortgages only. The REO eviction moratorium applies to properties that have been acquired by an Enterprise through foreclosure or deed-in-lieu of foreclosure transactions. 
 
 **Legal Aid of Western Missouri’s Housing team put together the following documents to help you understand the CDC Moratorium:**
 
   - [FAQ– includes copy of the declaration](https://lawmo.org/wp-content/uploads/2020/10/CDC-Order-FAQ.pdf)
   - [Tenant Checklist](https://lawmo.org/wp-content/uploads/2020/10/CDC-Eviction-Moratorium-Tenant-Checklist.pdf)
   - [Government Aid Checklist](https://lawmo.org/wp-content/uploads/2020/10/CDC-Eviction-Moratorium-Government-Aid-Checklist.pdf)
-
-
-- To be covered under this action, renters must sign and provide their landlord a declaration. **[Click here to access an online tool you can use](https://www.covid19evictionforms.com/)**. This declaration is necessary under the CDC Order to provide renters with protection from eviction.
-- **[The New Eviction Moratorium: What You Need to Know](https://nyti.ms/31Rrsr5)** (New York Times article)
-- **[National Housing Law Project](http://www.nhlp.org/covid)** has put together resources, including the following: [Overview](https://lawmo.org/wp-content/uploads/2020/09/CDC-Overview.pdf), [FAQ for Renters](https://lawmo.org/wp-content/uploads/2020/09/CDC-FAQ-for-Renters.pdf), and [Fact Sheet](https://lawmo.org/wp-content/uploads/2020/09/CDC-fact-sheet-AHJ.pdf).
+  - [CDC Declaration](https://lawmo.org/wp-content/uploads/2021/04/CDC-Eviction-Protection-Declaration.pdf)
 
 **Nolo.com** has [additional information about the eviction moratorium](https://www.nolo.com/legal-encyclopedia/emergency-bans-on-evictions-and-other-tenant-protections-related-to-coronavirus.html). You can use [Nolo's free, downloadable CDC Eviction Ban Declaration form](https://store.nolo.com/products/cdc-eviction-ban-declaration-pr446.html) to satisfy that requirement (the download includes details about the ban and instructions).
 
@@ -506,53 +486,12 @@ Consider using [Propublica’s database](https://projects.propublica.org/covid-e
 
 - [Missouri's governor's COVID-19 announcements.](https://governor.mo.gov/)
 - [Supreme Court of Missouri has directed](https://www.courts.mo.gov/page.jsp?id=156095) courts to exercise discretion regarding cases (effective May 16, 2020) and appearances subject to certain [Operational Directives](https://www.courts.mo.gov/file.jsp?id=156093). Whether or not your case will be held is left to the discretion of judge.
-- Check [Missouri Public Service Commission's website](https://psc.mo.gov/General/Media_Center) for information about utility shutoffs.
 
 
-**[Missouri Emergency Rental Arrears Program](https://www.mohousingresources.com/erap-program-overview) – landlords can submit applications in January 2021**
-Starting in January 2021, the Missouri Housing Development Commission (MHDC), in conjunction with the Missouri Department of Social Services will make CARES Act COVID-19 Emergency Solutions Grant (ESG-CV) funds available to landlords for emergency rental arrears assistance. MHDC will post an online application packet, answers to frequently asked questions, and forms and templates to their website in January 2021. MHDC will email landlords updates about their application status. 
+**[Missouri Emergency Rental Arrears Program](https://www.mohousingresources.com/erap-program-overview)**
+The Missouri Housing Development Commission (MHDC), in conjunction with the Missouri Department of Social Services will make CARES Act COVID-19 Emergency Solutions Grant (ESG-CV) funds available to landlords for emergency rental arrears assistance. While applications closed on April 5, existing applicants can [view their applications here](https://mhdcapply.smapply.io/prog).
 
-The Missouri Emergency Rental Arrears Program (ERAP) provides financial support for landlords and renters who are struggling due to the COVID-19 emergency in the State of Missouri. The program will reimburse landlords for past due rent payments (rental arrears) for the period beginning April 1, 2020. A one-time payment of up to six (6) months of arrears will be made to the landlord on the tenant’s behalf. The payment will not exceed the rent maximums by bedroom size [listed on their website](https://www.mohousingresources.com/erap-program-overview). Missouri Emergency Rental Arrears cannot be applied towards any fees or utilities.
-
-To participate in the program, landlords must sign a guarantee of non-eviction for non-payment for 120 days from the date of the rental arrears application. By accepting rental assistance, landlords must waive any late fees, penalties, or outstanding rent as the date of application submission. 
-
-Landlord eligibility
-
-To be eligible for the Missouri Emergency Rental Arrears Program (ERAP), landlords must:
-- Be a landlord of a residential property in Missouri
-- Have a social security or employee identification number that appears on a W-9
-- Be current on all state and local tax obligations
-- Not be a governmental entity
-- Have not received assistance from any other sources for the months requesting rental arrears
-- **Agree to not evict tenant or report to credit agencies for non-payment of rent for 120 days following application submission**
-- **Agree to waive all outstanding rent and late fees beyond MHDC assistance as of the date of application submission**
-- Have a fully executed lease between the landlord and the current tenant for the unit seeking assistance; The lease must match the landlord name, tenant name, and unit/property address entered in the online application
-- Provide an itemized statement of outstanding rental arrears, late fees, and any additional fees since April 2020; landlords can upload an existing statement or use a provided template
-- Property/unit meets [HUD Habitability Standards](https://www.hud.gov/sites/documents/DHAPSANDYHABITCHKLIST.PDF)
-- Property/unit meets [lead-based paint requirements](https://www.kcmo.gov/city-hall/departments/health/lead-poisoning-testing-children-and-homes-for-lead)
-- Have checking account that can receive EFT payment
-
-Tenant eligibility
-
-To be eligible for the Missouri Emergency Rental Arrears Program (ERAP), tenant households must:
-
-- Not be the landlord or application point of contact
-- Have an estimated household income that includes all household members over 18 (based on the last 30 days) below 50 percent of the Area Median Income in the county the tenant unit resides in
-  - limits can be determined by downloading the [income limit calculator](https://8b7cf04e-2de3-4caf-8acf-bef3e9f9fd73.filesusr.com/ugd/8ff70b_6f43b586db81401996f120b92f50e457.xlsx?dn=MOERAP%20Tenant%20Household%20Income%20Limit%20Cal) and selecting the county of residence and household size. 
-  - For additional information and guidance on determining income, please review HUD’s [Determining Income Documentation](https://www.hud.gov/sites/documents/DOC_35649.PDF). 
-  - If a household member has zero income, they can report this on the income certification form uploaded as part of the application.
-- Certify to the presence of a COVID-19 financial impact on ability to pay rent
-- Have received less than 24 months of Emergency Solutions Grant services in any three (3) year period
-- Have not received assistance from any other sources for the same costs for the months requesting rental arrears
-- Provide requested information on all household members
-- Provide photo ID(s) for all household members over 18 years of age
-[Contact the Missouri Housing Development Commission](http://forms.mhdc.com/form-3050143/Contact-Us) with additional questions. 
-
-
-
-
-
-
+The Missouri Emergency Rental Arrears Program (ERAP) provides financial support for landlords and renters who are struggling due to the COVID-19 emergency in the State of Missouri. The program will reimburse landlords for past due rent payments (rental arrears) for the period beginning April 1, 2020. A one-time payment of up to six (6) months of arrears will be made to the landlord on the tenant’s behalf. 
 
 **In-Person Help**
 
@@ -587,16 +526,10 @@ The Healthy Homes Rental Inspection Program provides regulations for minimum hea
 - [How can I protect myself?](http://www.jobsandfreedom.org/protecting-yourself-from-landlord-issues)
 - [I want my deposit back](http://www.jobsandfreedom.org/return-my-deposit)
 - [Helpful forms for tenants](http://www.jobsandfreedom.org/forms-for-tenants) (NOTE: These forms are not nor are they intended to be legal advice. You should consult an attorney for individual advice regarding your own situation.)
-  - [COVID-19 Negotiating Letter and Settlement Form](https://gina-chiala-71x2.squarespace.com/s/COVID-19-letter-and-settlement-form.docx)
-  - [Needed Repairs](https://gina-chiala-71x2.squarespace.com/s/LtrWarrantyHabitability.docx)
-  - [Notice that You will be Vacating](https://gina-chiala-71x2.squarespace.com/s/NoticeToVacate.docx)
-  - [Requesting Your Deposit and Providing Forwarding Address](https://gina-chiala-71x2.squarespace.com/s/Letter-Return-My-Deposit.docx)
-  - [Complaint if Landlord Failed to Return Your Deposit](https://www.16thcircuit.org/small-claims-forms)
-  - [Answer and Counterclaim for Habitability Issues](https://static1.squarespace.com/static/56214c93e4b0126253f97afd/t/5d0277ca169b78000192df1e/1560442826551/Answer%2Band%2BCounterclaim_SHORT+.pdf)
 
 **KC Tenants**
 
-KC Tenants created this [Incident Report](https://kctenants.org/incident-report) as a safe place to report incidents related to housing / homelessness / COVID19. If you or someone you know is in crisis, facing harassment from a landlord, or if you just have a question about your rights, please submit your story and basic information to this form. We commit to get back to you within 24 hours. Please indicate if you need more urgent assistance.
+[KC Tenants](https://kctenants.org/) created this [Incident Report](https://kctenants.org/incident-report) as a safe place to report incidents related to housing / homelessness / COVID19. If you or someone you know is in crisis, facing harassment from a landlord, or if you just have a question about your rights, please submit your story and basic information to this form. Please indicate if you need more urgent assistance.
 
 If you have a health issue in your home and you have already called Healthy Homes and the issue wasn’t resolved, KC Tenants can look into it after reviewing the incident report.
 
@@ -606,7 +539,7 @@ If you have a health issue in your home and you have already called Healthy Home
 
 [Missouri Legal Services – Housing Issues](https://www.lsmo.org/topics/2305/housing)
 
-Each of these issues has its own pages with more information!
+Each of these issues has its own pages with more information:
 
 - [Abandonment](https://www.lsmo.org/node/648/abandonment)
 - [Foreclosure of A Rental Unit](https://www.lsmo.org/node/646/foreclosure-rental-unit)
