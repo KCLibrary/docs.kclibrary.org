@@ -56,6 +56,7 @@ St. Luke’s Hospital: Does not have a sign up but will reach out to eligible pa
 
 [Swope Health](https://swopehealth.org/vaccine-interest/): This Vaccine Interest Survey is only for Swope Health patients.
 
+Morning Star Youth and Family Life Center - call 816-256-5003 for appointment
 
 ### Pharmacies
 
