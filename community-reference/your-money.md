@@ -374,7 +374,7 @@ Free one-on-one financial coaching is available at four Financial Opportunity Ce
 
 **MONEY MATTERS BOOKLET**
 
-The [Money Matters booklet](https://kclibrary.org/sites/default/files/02-16-2017 Money Matters_5x8_0.pdf) is another great way to learn about banking, budgeting, credit, identity theft, and payday loans. Print copies of this booklet are available at all Kansas City Public Library locations, Kansas City area Financial Opportunity Centers, and other local service providers.
+The [Money Matters booklet](https://kclibrary.org/sites/default/files/02-16-2017%20Money%20Matters_5x8_0.pdf) is another great way to learn about banking, budgeting, credit, identity theft, and payday loans. Print copies of this booklet are available at all Kansas City Public Library locations, Kansas City area Financial Opportunity Centers, and other local service providers.
 
 **WOMEN'S EMPLOYMENT NETWORK WORKSHOPS**
 
