@@ -57,7 +57,7 @@ Employers wishing to share job postings for the Career Newsletter, [please submi
 - In-Person: Schedule an appointment with the Career Resources Specialist, or call 816-701-3663
 - Online: Use your Library Card number and PIN to access from home. Don't have a KCPL card? Apply for a digital eCard right now and get immediate access to all our online resources.
 - JobNow: Get live, online help and feedback to improve your document.
-- Lynda.com, LearningExpress Library, and UniversalClass: All three have resume building video tutorials for resume writing
+- LinkedIn Learning, LearningExpress Library, and UniversalClass: All three have resume building video tutorials for resume writing
 - Job Scan: Optimize your resume for ATS systems. Scan your resume for up to 5xs per month for free to see keyword matches and areas for improvement; also check out information and guides for resume writing and building
 
 ---
@@ -108,7 +108,7 @@ Networking is the name of the game when it comes to securing a job. Did you know
 Library networking resources: Library card number and PIN required for online databases. Don't have a card? [Sign up here for a digital card](https://www.kclibrary.org/services/ecard) and get instant access to our digital resources!
 
 - [Peruse this list of items in our catalog](https://kclibrary.bibliocommons.com/user_lists/1008261729) that you can check out. They may help you get over the networking hump (or slump)!
-- [Lynda.com](https://kclibrary.org/research-resources/research-databases/lyndacom): Watch high-quality instructional videos on career networking, setting up a LinkedIn profile, or any other aspect of job searching.
+- [LinkedIn Learning](https://kclibrary.org/research-resources/research-databases/linkedinlearning): Watch high-quality instructional videos on career networking, setting up a LinkedIn profile, or any other aspect of job searching.
 - [Learning Express Library](https://kclibrary.org/research-resources/research-databases/learningexpress-library): If you need more help designing a professional online profile, check out the e-book "Social Networking for Career Success."
 - [UniversalClass](https://kclibrary.org/research-resources/research-databases/universal-class): "Successfully Networking Your Career" and "Social Media 101" are 2 self-paced courses that focus on networking and social media management for building your professional network. Work through the tutorials and submit small assignments and quizzes to get feedback from the course facilitator.
 
@@ -121,7 +121,7 @@ Search our [AtoZ business directory](https://kclibrary.org/research-resources/re
 
 Interested in pursuing a new job but lack the required hands-on experience in your field? An internship or volunteering can be a stepping stone to a new career or job. Build up your work portfolio, gain new skills, and expand your network of professional contacts. If you are a college student, check out your university’s career center for more postings and guidance on applications.
 
-- [Lynda.com](https://kclibrary.org/research-resources/research-databases/lyndacom): Watch tutorials on how to land an internship and turn it into a potential permanent job.
+- [LinkedIn Learning](https://kclibrary.org/research-resources/research-databases/linkedinlearning): Watch tutorials on how to land an internship and turn it into a potential permanent job.
 - [Internships.com](http://www.internships.com/): Find paid and unpaid internships in your field of interest.
 - [Indeed.com](http://www.indeed.com/): Filter your search results to "Internship" (if available) under the Job Type field.
 - [Volunteermatch.org](https://www.volunteermatch.org/): Pursue your career passion while gaining real-life experience.
@@ -142,7 +142,7 @@ Need a flexible job or a side job that can accommodate your schedule?
 ## Finding Employment for Specific Populations
 
 Finding a job is challenging enough, but when you have extenuating circumstances it can be even more difficult. Get some peace of mind and advice for navigating the complexities of employment for re-entrants, veterans, individuals with disabilities, career changers, and those affected by a recent job layoff.
-While you're on the job hunt, take some time and learn a new skill to add to your resume. Library self-directed learning resources such as [Lynda.com](https://kclibrary.org/research-resources/research-databases/lyndacom), [Pronunciator](https://kclibrary.org/research-resources/research-databases/pronunciator), and [Universal Class](https://kclibrary.org/research-resources/research-databases/universal-class) are all available to you free-of-charge with a KCPL library card and PIN. No card? No worries! Sign up for an [eCard](https://www.kclibrary.org/services/ecard).
+While you're on the job hunt, take some time and learn a new skill to add to your resume. Library self-directed learning resources such as [LinkedIn Learning](https://kclibrary.org/research-resources/research-databases/linkedinlearning), [Pronunciator](https://kclibrary.org/research-resources/research-databases/pronunciator), and [Universal Class](https://kclibrary.org/research-resources/research-databases/universal-class) are all available to you free-of-charge with a KCPL library card and PIN. No card? No worries! Sign up for an [eCard](https://www.kclibrary.org/services/ecard).
 
 **REENTRANTS**
 
@@ -208,13 +208,14 @@ There are a vast array of career options—which one is the right one for you? D
   Two- and four-year colleges also offer career counseling and services to prospective students:
 - [Metropolitan Community College Career Services](http://mcckc.edu/career-services/)
 - [Johnson County Community College Career Services](http://www.jccc.edu/student-resources/counseling/career/)
+- [Agile Work Profiler](https://survey.alchemer.com/s3/5386209/kcpl): Take this free assessment from the DeBruce Foundation to learn about your ten Agilities (i.e. competencies), which are universal to all occupations. Taking the Agile Work Profiler, can help you see how your strengths and interests connect to work activities. 
 
 **DIG IN & RESEARCH**
 
 - [Learning Express Library](https://kclibrary.org/research-resources/research-databases/learningexpress-library): Career Center section (Library card and PIN required). Prepare for a career exam and explore occupations here.
 - [Occupational Outlook Handbook](https://www.bls.gov/ooh/): Is your career field expected to grow or phase out? What is the salary range? Find practical answers to help you make solid decisions for your future.
 - [SalaryExpert](https://www.salaryexpert.com/): Run a customized report showing what jobs in your location typically pay for your education and experience.
-- [Lynda.com](https://kclibrary.org/research-resources/research-databases/lyndacom): Informational interviewing is a great tool to use to evaluate whether the reality of a job lives up to your expectations. Learn more by watching tutorials on this and other facets of career research on Lynda. (Library cad and PIN required).
+- [LinkedIn Learning](https://kclibrary.org/research-resources/research-databases/linkedinlearning): Informational interviewing is a great tool to use to evaluate whether the reality of a job lives up to your expectations. Learn more by watching tutorials on this and other facets of career research on LinkedIn Learning. (Library cad and PIN required).
 
 **LOCAL COMMUNITY CAREER/JOB RESOURCES:**
 
