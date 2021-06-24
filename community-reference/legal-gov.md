@@ -443,8 +443,8 @@ If you need help working in Westlaw, please consider using [Westlaw’s training
 
 ## Landlord/Tenant Resources
 
-A federal eviction moratorium issued by the Centers for Disease Control (CDC) is in effect from September 4, 2020 to June 30, 2021.
-[Check here](https://www.cdc.gov/coronavirus/2019-ncov/downloads/EvictionDeclare_d508.pdf) to see if you qualify for eviction protection under the [CDC order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-the-biden-harris-administrations-multi-agency-effort-to-support-renters-and-landlords/). If you’d like help from an expert, contact (800) 569-4287 or [check out their website](https://www.hudexchange.info/programs/housing-counseling/rental-eviction/) to get contact information for a local HUD-approved housing counselor.
+A federal eviction moratorium issued by the Centers for Disease Control (CDC) is in effect from September 4, 2020 to July 31, 2021.
+[Check here](https://www.cdc.gov/coronavirus/2019-ncov/covid-eviction-declaration.html) to see if you qualify for eviction protection under the [CDC order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-the-biden-harris-administrations-multi-agency-effort-to-support-renters-and-landlords/). If you’d like help from an expert, contact (800) 569-4287 or [check out their website](https://www.hudexchange.info/programs/housing-counseling/rental-eviction/) to get contact information for a local HUD-approved housing counselor.
 
 
 The federal eviction moratorium is essential relief for struggling renters, but it can merely postpone evictions – it doesn’t prevent them - and [it is not a guarantee that a renter will not be evicted](https://www.npr.org/2020/12/20/947992198/why-the-cdc-eviction-ban-isnt-really-a-ban-i-have-nowhere-to-go). 
