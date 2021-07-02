@@ -436,7 +436,7 @@ Missouri Legal Answers is a statewide virtual legal advice clinic. This program 
 
 You can use Westlaw to research case law, statutes, and regulations, as well as legal analysis in law reviews, treatises, and law journals.
 
-We have one computer for Westlaw access at our Central Library on the third floor. Please request access from one of the reference librarians.
+Online access to [Westlaw](https://kclibrary.org/research-resources/research-databases/westlaw) from the library is currently unavailable, however remote access may be requested. To request temporary remote access, please [contact us](https://kclibrary.org/contact-us-form?id=19933&email=0).
 
 If you need help working in Westlaw, please consider using [Westlaw’s training and support website](https://legal.thomsonreuters.com/en/support/westlaw).
 
